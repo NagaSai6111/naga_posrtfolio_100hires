@@ -1,75 +1,270 @@
-# naga_posrtfolio_100hires
+# Cursor IDE Setup Assignment
 
-Portfolio project repository for 100Hires.
+
+
+## Overview
+
+
+
+This repository was created as part of the 100Hires portfolio assignment. The objective of this assignment was to install the required development tools, set up a GitHub repository, document the setup process, and demonstrate familiarity with modern development workflows.
+
+
 
 ---
+
+
 
 ## Tools Installed
 
-| Tool | Purpose |
-|------|---------|
-| **Git** | Clone, track, and push this repository to GitHub |
-| **Cursor** | IDE and AI-assisted development environment |
-| **PowerShell** | Default shell on Windows for running setup commands |
 
-No additional runtimes or package managers (Node.js, Python, etc.) were installed during initial setup. The repository currently contains documentation only.
+
+- Cursor IDE (Version 3.9.16)
+
+- Git
+
+- GitHub
+
+
 
 ---
+
+
 
 ## Steps Completed
 
-1. **Created the GitHub repository**  
-   - Remote: `https://github.com/NagaSai6111/naga_posrtfolio_100hires`
 
-2. **Cloned the repository locally**  
-   ```bash
-   git clone https://github.com/NagaSai6111/naga_posrtfolio_100hires.git
-   ```
-   - Local path: `C:\Users\HP\naga_posrtfolio_100hires`
 
-3. **Verified the clone**  
-   - Confirmed `origin` remote is configured correctly  
-   - Confirmed branch `main` is up to date with `origin/main`  
-   - Latest commit: `51dd60c` — Initial commit
+1. Installed the latest version of Cursor IDE.
 
-4. **Opened the project in Cursor**  
-   - Set the cloned folder as the workspace root for development
+2. Explored the Cursor interface and available features.
 
-5. **Updated this README**  
-   - Documented tools, setup steps, and issues encountered during setup
+3. Attempted to install the Claude Code and Codex add-ons.
 
----
+4. Created a public GitHub repository.
 
-## Issues Encountered and Solutions
+5. Opened the repository in Cursor.
 
-### 1. Missing repository URL on first attempt
-**Issue:** The initial clone request did not include a GitHub URL.  
-**Solution:** Provided the repository URL (`https://github.com/NagaSai6111/naga_posrtfolio_100hires`) and completed the clone successfully.
+6. Created this README.md file.
 
-### 2. No standard project directory on the machine
-**Issue:** Common folders such as `Projects`, `Developer`, and `repos` did not exist under the user home directory.  
-**Solution:** Cloned the repository directly to `C:\Users\HP\naga_posrtfolio_100hires` instead of a nested projects folder.
+7. Added project documentation.
 
-### 3. Shell commands returning empty output
-**Issue:** Some PowerShell/git commands ran without returning visible output in the sandboxed environment.  
-**Solution:** Re-ran commands with full permissions; git status, remote, and log commands then returned expected results.
+8. Committed the changes using Git.
 
-### 4. Empty starter repository
-**Issue:** After cloning, the repo only contained a single-line `README.md` with no application code.  
-**Solution:** Confirmed the clone was successful and up to date with remote. Portfolio implementation is the next step.
+9. Pushed the repository to GitHub successfully.
+
+
 
 ---
 
-## Next Steps
 
-- [ ] Choose a stack (e.g. HTML/CSS, React, Next.js)
-- [ ] Scaffold the portfolio site
-- [ ] Add projects, skills, and contact sections
-- [ ] Deploy (GitHub Pages, Vercel, Netlify, etc.)
+
+## Issues Encountered
+
+
+
+### Claude Code & Codex Extensions
+
+
+
+The assignment instructions mention installing the **Claude Code** and **Codex** extensions from Cursor's **Extensions** marketplace.
+
+
+
+However, while using the latest version of Cursor (Version 3.9.16), I noticed that the interface has been significantly redesigned. I could not locate the Extensions marketplace or the specific Claude Code and Codex extensions described in the assignment.
+
+
+
+### Resolution
+
+
+
+I researched the issue, explored the available plugins, and verified that the current Cursor interface differs from the version referenced in the assignment. I completed all remaining setup steps successfully and documented the issue here. If an updated installation method or a different Cursor version is required, I am happy to follow those instructions.
+
+
 
 ---
 
-## Repository Links
 
-- **GitHub:** https://github.com/NagaSai6111/naga_posrtfolio_100hires
-- **Local path:** `C:\Users\HP\naga_posrtfolio_100hires`
+
+# Previous Projects
+
+
+
+In addition to this assignment, I have independently designed, developed, and deployed multiple websites using different technologies and platforms.
+
+
+
+## 1. Personal Portfolio Website
+
+
+
+Designed and developed my personal portfolio website using **Antigravity IDE** to showcase my skills, projects, and experience.
+
+
+
+**Live Website**
+
+https://nagapolisetty.vercel.app/
+
+
+
+**Source Code**
+
+https://github.com/NagaSai6111/nagapolisetty
+
+
+
+---
+
+
+
+## 2. Tenali Double Horse Foods
+
+
+
+Developed and managed the Shopify e-commerce website for **Tenali Double Horse Foods**.
+
+
+
+Responsibilities included:
+
+
+
+- Shopify theme customization
+
+- Product management
+
+- User experience improvements
+
+- Website maintenance
+
+- Performance optimization
+
+
+
+**Website**
+
+https://www.tenalidoublehorse.com/
+
+
+
+---
+
+
+
+## 3. D3 Sarada Service Society
+
+
+
+Designed and developed the official website for **D3 Sarada Service Society** using **WordPress**.
+
+
+
+Responsibilities included:
+
+
+
+- Complete website development
+
+- Responsive design
+
+- Page creation
+
+- Content management
+
+- UI improvements
+
+
+
+**Website**
+
+https://d3saradaservicesociety.org/
+
+
+
+---
+
+
+
+# Technical Skills
+
+
+
+- HTML5
+
+- CSS3
+
+- JavaScript
+
+- React.js
+
+- Shopify
+
+- WordPress
+
+- Git
+
+- GitHub
+
+- Responsive Web Design
+
+- UI/UX Development
+
+
+
+---
+
+
+
+# Learning Outcome
+
+
+
+This assignment helped reinforce my understanding of:
+
+
+
+- Git & GitHub workflow
+
+- Repository creation
+
+- Version control
+
+- Project documentation
+
+- Researching and troubleshooting technical issues independently
+
+
+
+---
+
+
+
+# About Me
+
+
+
+I enjoy building modern, responsive, and user-friendly websites. I have experience working with **React**, **Shopify**, and **WordPress**, and I continuously explore new AI-powered development tools to improve my workflow and productivity.
+
+
+
+---
+
+
+
+# Author
+
+
+
+**Naga Sai Polisetty**
+
+
+
+Portfolio:
+
+https://nagapolisetty.vercel.app/
+
+GitHub:
+
+https://github.com/NagaSai6111
+
