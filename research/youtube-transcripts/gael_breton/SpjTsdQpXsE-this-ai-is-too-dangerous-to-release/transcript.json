@@ -1,0 +1,6926 @@
+{
+  "video_id": "SpjTsdQpXsE",
+  "url": "https://www.youtube.com/watch?v=SpjTsdQpXsE",
+  "title": "This AI Is Too Dangerous to Release",
+  "upload_date": "2026-04-08T10:41:06-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-03T17:13:48+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "What if instead of giving AI a task, you",
+        "offset": 80,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "could hand it an entire project? Not",
+        "offset": 2960,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "just write me an article, but run my",
+        "offset": 5440,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "blog. Well, Anthropic's new model,",
+        "offset": 7919,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "Methos, suggests that reality is just",
+        "offset": 10000,
+        "duration": 6240
+      },
+      {
+        "lang": "en",
+        "text": "months away, not years. It scored 93.9%",
+        "offset": 12559,
+        "duration": 5841
+      },
+      {
+        "lang": "en",
+        "text": "on coding benchmarks, where every other",
+        "offset": 16240,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "model to date has been stuck at around",
+        "offset": 18400,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "80%. You can't use it yet, though. But",
+        "offset": 20640,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "when distilled versions hit your",
+        "offset": 24080,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "subscription, the way you work with AI",
+        "offset": 25840,
+        "duration": 5439
+      },
+      {
+        "lang": "en",
+        "text": "changes completely. I'm Mark Webster.",
+        "offset": 28880,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "I'm joined by Gail Breton, co-founder",
+        "offset": 31279,
+        "duration": 4001
+      },
+      {
+        "lang": "en",
+        "text": "Authority Hacker. And today you'll learn",
+        "offset": 32960,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "what this means for real world",
+        "offset": 35280,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "businesses using AI. So Gail, Mythos is",
+        "offset": 37440,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "here, or rather it's been announced, not",
+        "offset": 40320,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "specifically released,",
+        "offset": 42640,
+        "duration": 1520
+      },
+      {
+        "lang": "en",
+        "text": ">> almost here.",
+        "offset": 43600,
+        "duration": 2639
+      },
+      {
+        "lang": "en",
+        "text": ">> Um, tell us about what this actually",
+        "offset": 44160,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "means uh in terms of what we're going to",
+        "offset": 46239,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "be able to do with AI this year.",
+        "offset": 48239,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": ">> Uh, I mean, it's kind of hard. What I",
+        "offset": 50320,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "know is that if this was released today,",
+        "offset": 52480,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "if everyone had access to it and the",
+        "offset": 54960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "model did what you asked it without",
+        "offset": 57199,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "resisting, which we don't know how good",
+        "offset": 58960,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "it is at resisting and Antropic doesn't",
+        "offset": 60399,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "seem to trust themselves in having the",
+        "offset": 62079,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "model not do bad things, it could break",
+        "offset": 64559,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "most of the internet. This model is so",
+        "offset": 66640,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "good at coding",
+        "offset": 68320,
+        "duration": 1680
+      },
+      {
+        "lang": "en",
+        "text": ">> specifically.",
+        "offset": 69200,
+        "duration": 2239
+      },
+      {
+        "lang": "en",
+        "text": ">> Well, this model is so good at coding",
+        "offset": 70000,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "that it's able to find and exploit",
+        "offset": 71439,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "vulnerabilities in any software you use.",
+        "offset": 73119,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "So this model they were able to for",
+        "offset": 75200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "example find vulnerabilities in all",
+        "offset": 77600,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "existing browsers in all existing",
+        "offset": 79600,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "operating systems and you know that",
+        "offset": 82560,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "could be used to hack your computers",
+        "offset": 85439,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "steal your data etc. Let me actually",
+        "offset": 87200,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "show you one graph that I think is",
+        "offset": 89200,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "interesting that's this one and so like",
+        "offset": 91520,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "that is basically the models abilities",
+        "offset": 93759,
+        "duration": 5441
+      },
+      {
+        "lang": "en",
+        "text": "to hack into Firefox and so you can see",
+        "offset": 96479,
+        "duration": 6241
+      },
+      {
+        "lang": "en",
+        "text": "that cloud set is at 4.4% opus that",
+        "offset": 99200,
+        "duration": 5840
+      },
+      {
+        "lang": "en",
+        "text": "you're using every day is at 15.2% 2%",
+        "offset": 102720,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "success rate and the new methos is at",
+        "offset": 105040,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "84% success rate of hacking into",
+        "offset": 107520,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "Firefox. And so that means",
+        "offset": 110640,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": ">> it almost always is able to find a",
+        "offset": 112720,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "vulnerability when it tries. So like",
+        "offset": 114960,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "nothing is nothing is secure",
+        "offset": 117840,
+        "duration": 2879
+      },
+      {
+        "lang": "en",
+        "text": "theoretically.",
+        "offset": 119520,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": ">> Exactly. Could be, you know, let's say",
+        "offset": 120719,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "like probably like the biggest banks",
+        "offset": 122799,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "would be okay, but let's say you know a",
+        "offset": 124240,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "bank in Ecuador or some kind of like",
+        "offset": 125759,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "third party country that's been coded by",
+        "offset": 127920,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "local developers or whatever. Like",
+        "offset": 130000,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "things could happen, right? And it's",
+        "offset": 132239,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "like imagine you hack into that but",
+        "offset": 133680,
+        "duration": 2559
+      },
+      {
+        "lang": "en",
+        "text": "that's interconnecting to many other",
+        "offset": 134879,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "banks and can trigger operations that it",
+        "offset": 136239,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "shouldn't and like it could break the",
+        "offset": 138080,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "internet basically more than Kim",
+        "offset": 140319,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Kardashian ever did. And so like",
+        "offset": 142480,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "Entropic decided not to release it to",
+        "offset": 144319,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "the public and decided to release it to",
+        "offset": 146959,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "only a handful of companies that",
+        "offset": 149520,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "maintain software that essentially makes",
+        "offset": 151200,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "the internet run. So Apple, so like",
+        "offset": 152800,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "Oracle, so Amazon, these kind of",
+        "offset": 155599,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "companies.",
+        "offset": 157920,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": ">> Are they doing this? cuz like the cynic",
+        "offset": 158560,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "in me is like, well, they're going to",
+        "offset": 160480,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "IPO later this year. They're just kind",
+        "offset": 161760,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "of making this like amazing AI hype",
+        "offset": 163760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "around this. But it it does seem like",
+        "offset": 165920,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "there's some legitimacy to their kind of",
+        "offset": 167760,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "staged approach here. So, they're like",
+        "offset": 170160,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": ">> releasing it to all these big companies",
+        "offset": 172239,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "so that they can secure everything",
+        "offset": 174000,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "before some version of this gets",
+        "offset": 176319,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "released.",
+        "offset": 178480,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": ">> Like in the video, they had a guy like",
+        "offset": 178959,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "who, you know, has been kind of like a",
+        "offset": 181200,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "software security specialist for like,",
+        "offset": 182879,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "you know, many years. He looked pretty",
+        "offset": 184959,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "old, old older than us. Uh, and he was",
+        "offset": 186159,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "like, \"In the last two weeks, I found",
+        "offset": 188640,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "more bugs than the entire rest of my",
+        "offset": 190560,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "carrier since I have access to this.\"",
+        "offset": 192400,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Basically, so yes, that's pretty much",
+        "offset": 194000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "what it means. And what they're hoping",
+        "offset": 196400,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "is that these companies will have enough",
+        "offset": 198159,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "time to fix at least the biggest issues",
+        "offset": 199599,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "so that the internet doesn't fall apart",
+        "offset": 201519,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "when inevitably an open-source model",
+        "offset": 203440,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "with this level of capabilities one day",
+        "offset": 206159,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "arrives and you can train it at being a",
+        "offset": 207920,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "hacker. It can try to break things for",
+        "offset": 210239,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "you, which will happen one day. Now that",
+        "offset": 212879,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "we know it's possible, now that it has",
+        "offset": 214879,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "happened once, you know, it's kind of",
+        "offset": 216400,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "like world records, right? It's like",
+        "offset": 218000,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "they happen once, then everyone just",
+        "offset": 219120,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "starts matching the world record and",
+        "offset": 220400,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "beating it. And so that's kind of like",
+        "offset": 221840,
+        "duration": 3039
+      },
+      {
+        "lang": "en",
+        "text": "the world record of AI that just",
+        "offset": 223280,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "happened. And that means that right now",
+        "offset": 224879,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "it's only in the hands of Android, maybe",
+        "offset": 226799,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "open AI, we don't know. But eventually",
+        "offset": 228560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "it will be like in Chinese labs and",
+        "offset": 230560,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "everywhere and with much less security",
+        "offset": 232720,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "around it.",
+        "offset": 235280,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": ">> So are we going to be able to use this",
+        "offset": 236159,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "many times soon?",
+        "offset": 237840,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": ">> No, that's the answer. I don't think",
+        "offset": 239120,
+        "duration": 2479
+      },
+      {
+        "lang": "en",
+        "text": "they will. First of all, it's very",
+        "offset": 240480,
+        "duration": 2479
+      },
+      {
+        "lang": "en",
+        "text": "expensive. So they released the pricing",
+        "offset": 241599,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "for enterprise, right? Pricing for",
+        "offset": 242959,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "enterprise is $25 per million token in",
+        "offset": 244640,
+        "duration": 7360
+      },
+      {
+        "lang": "en",
+        "text": "and $125 per million token out if I",
+        "offset": 248159,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "remember correctly. Basically, it's five",
+        "offset": 252000,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "times the price of Opus. It's very",
+        "offset": 253519,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "expensive. And so, you know, your max",
+        "offset": 255599,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "subscription would not begin to cover",
+        "offset": 258880,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "it. Second of all, they don't have the",
+        "offset": 260560,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "compute. Clo is already going down",
+        "offset": 262800,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "regularly due to lack of compute these",
+        "offset": 265120,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "days and you have API issues and all",
+        "offset": 267040,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "these things. They had to reduce the",
+        "offset": 269280,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "limits. more a popularity issue that",
+        "offset": 270479,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "like lots of people are using it right",
+        "offset": 273680,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "now.",
+        "offset": 275280,
+        "duration": 2479
+      },
+      {
+        "lang": "en",
+        "text": ">> But there's just not enough compute in",
+        "offset": 276240,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "the world right now if you were giving a",
+        "offset": 277759,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "model that is that big because the price",
+        "offset": 280000,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "increase usually tells you how big the",
+        "offset": 282000,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "model is and how much RAM it needs to",
+        "offset": 283280,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "run etc. VRM and so and so like there's",
+        "offset": 284800,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "just not enough compute in the world",
+        "offset": 287520,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "right now in the data centers if",
+        "offset": 288960,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "everyone using a coding agent was using",
+        "offset": 290479,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "a model of this size. It just doesn't",
+        "offset": 292000,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "exist physically and yeah I don't think",
+        "offset": 293440,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "they want to. I think they kind of are",
+        "offset": 295680,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "afraid like we're hitting the point",
+        "offset": 297280,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "where AI was fun and now it's starting",
+        "offset": 298880,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "to get a little bit scary because it can",
+        "offset": 301120,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "start doing some harm and actually do",
+        "offset": 303440,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "serious things basically.",
+        "offset": 305040,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": ">> So they released a model card I think",
+        "offset": 306400,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "they're calling it. It's like a 100page",
+        "offset": 308560,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "PDF with like",
+        "offset": 310479,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": ">> lots of research insights and like what",
+        "offset": 312960,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "it can do like again to go back to the",
+        "offset": 315120,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "IPO which they are trying to do that",
+        "offset": 318479,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "this year that is the plan as I",
+        "offset": 320400,
+        "duration": 2000
+      },
+      {
+        "lang": "en",
+        "text": "understand",
+        "offset": 321919,
+        "duration": 1921
+      },
+      {
+        "lang": "en",
+        "text": ">> especially if they have this level of",
+        "offset": 322400,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "breakthroughs like it's very likely",
+        "offset": 323840,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": ">> if they're like hey we have this amazing",
+        "offset": 325520,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "AI that can do all this scary but",
+        "offset": 327759,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "we're not going to give it away because",
+        "offset": 329759,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "it's too powerful like that is a very",
+        "offset": 331039,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "appealing thing like oh I want to put my",
+        "offset": 333840,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "money there cuz these guys have figured",
+        "offset": 335360,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "this out. Do we know or will we",
+        "offset": 337360,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "ever know that this is not like just",
+        "offset": 339520,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "some overhyped marketing play?",
+        "offset": 341120,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": ">> Well, there are people who have",
+        "offset": 343199,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "benefited from this model that started",
+        "offset": 345199,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "speaking out, right? So, for example,",
+        "offset": 347280,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "FFmpeg, it's like a library that people",
+        "offset": 349199,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "use in a lot of SAS, you know, that",
+        "offset": 352240,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "allows you to like convert video and do",
+        "offset": 353919,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "all that stuff, etc. that model found a",
+        "offset": 355680,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "bunch of vulnerabilities",
+        "offset": 358080,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "and you know they're like basically like",
+        "offset": 360320,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "see when Entropy tweeted about this new",
+        "offset": 362800,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "project of like helping companies fix",
+        "offset": 365600,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "their issues like that's one of the",
+        "offset": 367840,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "companies that benefited and they",
+        "offset": 369120,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "publicly said they received stuff and it",
+        "offset": 371199,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "wasn't and you know people even",
+        "offset": 372960,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "commented like weren't you mad about AI",
+        "offset": 375280,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "stop your pull request pull request is",
+        "offset": 377120,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "when you ask a change for the code right",
+        "offset": 378560,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "when AI makes a change and ffmpeg",
+        "offset": 380319,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "replied because the patches appear to be",
+        "offset": 383039,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "written by humans So like basically it's",
+        "offset": 384880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "like that has reached the level of our",
+        "offset": 387280,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "human devs and it's just that good and t",
+        "offset": 389120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "is also an employee from entropic as",
+        "offset": 391840,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "well here confirming this is not",
+        "offset": 393440,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": " basically. So yeah to step back",
+        "offset": 395360,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "to like the initial question though",
+        "offset": 398800,
+        "duration": 6239
+      },
+      {
+        "lang": "en",
+        "text": "because I think when opus 4.5 4.6 six",
+        "offset": 400560,
+        "duration": 7919
+      },
+      {
+        "lang": "en",
+        "text": "came along recently, it kind of set this",
+        "offset": 405039,
+        "duration": 5681
+      },
+      {
+        "lang": "en",
+        "text": "new barrier as all new models do for",
+        "offset": 408479,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "like what's possible. And I would say",
+        "offset": 410720,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "like people have kind of gotten used to",
+        "offset": 412400,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "like, oh yeah, cool. AI can now do all",
+        "offset": 414000,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "these cool things that we didn't think",
+        "offset": 416160,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "it was good enough to do before. We have",
+        "offset": 417919,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "conversations with people and it's like,",
+        "offset": 419919,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "oh yeah, you know, AI can do images. It",
+        "offset": 421440,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "can write content for you. And like, oh",
+        "offset": 423520,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "yeah, but it's not very good or it's not",
+        "offset": 425120,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "as good or hallucinates, make mistakes.",
+        "offset": 426560,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "Like no, no, no, no, it's it's good now.",
+        "offset": 428319,
+        "duration": 6320
+      },
+      {
+        "lang": "en",
+        "text": "So what is the no no it's good now in",
+        "offset": 430800,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "six months time or at the end of the",
+        "offset": 434639,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "year with the pace of development that",
+        "offset": 436319,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "this has shown like what are we going to",
+        "offset": 438080,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "be able to do at the end of this year",
+        "offset": 439919,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "that we don't think AI is good at now or",
+        "offset": 442080,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "we don't use AI for now",
+        "offset": 444080,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": ">> we don't have access you and I",
+        "offset": 445840,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": ">> yeah we don't have access to it right so",
+        "offset": 447599,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "speculative we haven't tested it in our",
+        "offset": 449680,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "hands etc but let's still talk about",
+        "offset": 452319,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "some of the numbers they gave us and the",
+        "offset": 454240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "benchmarks right so you can see like",
+        "offset": 455759,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "this is pretty easy like opus 4.6",
+        "offset": 458160,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "You know, people may, you know, complain",
+        "offset": 460639,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "that it's gotten a bit worse recently. I",
+        "offset": 462479,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "might agree sometimes. The point is it's",
+        "offset": 464560,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "still a very good AI model and you can",
+        "offset": 466800,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "do a lot of things with it, including",
+        "offset": 468560,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "building SAS, etc. Like people are doing",
+        "offset": 470000,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "it today, right? It's happening. And",
+        "offset": 471840,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "then these are the agent coding",
+        "offset": 473360,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "benchmarks basically. And so the little",
+        "offset": 475759,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "grayed out bars are Opus and the white",
+        "offset": 478080,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "bars are MOS, the new one. and Swbench",
+        "offset": 480639,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "Pro is arguably I mean these two and the",
+        "offset": 483360,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "terminal bench are probably like the two",
+        "offset": 486560,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "biggest one together with swbench",
+        "offset": 488720,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "verified just to give you an idea the",
+        "offset": 490479,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "models have for on swbench verify for",
+        "offset": 493120,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "example they've been stuck around 80%",
+        "offset": 494879,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "for like a while like you know opus 4.5",
+        "offset": 496800,
+        "duration": 6239
+      },
+      {
+        "lang": "en",
+        "text": "was at like 80.5%",
+        "offset": 500319,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "and then opus 4.6 was like 80.8% 8% like",
+        "offset": 503039,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "we've been progressing like marginal",
+        "offset": 505919,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "points and a lot of people have made the",
+        "offset": 507919,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "point that actually AI may never go",
+        "offset": 509360,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "further and the benchmark is already",
+        "offset": 511199,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "kind of saturated and mitos came in at a",
+        "offset": 512560,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "93.9%.",
+        "offset": 515360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "So it's like you know that's as big of a",
+        "offset": 516880,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "jump between Opus 4.6 and Mitos as there",
+        "offset": 519360,
+        "duration": 6560
+      },
+      {
+        "lang": "en",
+        "text": "was between Sonet 4 or maybe the current",
+        "offset": 523360,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "haiku. Haiku is about the level of Sonet",
+        "offset": 525920,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "4 and Opus 4.6. Like that's kind of the",
+        "offset": 528160,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "level of difference of how good they are",
+        "offset": 530959,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "at coding. put that into reality for a",
+        "offset": 532399,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "second. Like",
+        "offset": 534640,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": ">> I was going to tell you. So remember how",
+        "offset": 535200,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "we talked about how I built Brand Snap?",
+        "offset": 537040,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "Uh maybe like you know it's almost a",
+        "offset": 539440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "year ago now maybe.",
+        "offset": 542160,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": ">> So for those who don't know this was a",
+        "offset": 543200,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "website a tool that we've built that you",
+        "offset": 545120,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "could put it describe what your business",
+        "offset": 547120,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "did and it would find you an",
+        "offset": 548880,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "available.com domain with the social",
+        "offset": 550560,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "handles and trademarks and a bunch of",
+        "offset": 553200,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "cool stuff like that.",
+        "offset": 555440,
+        "duration": 2320
+      },
+      {
+        "lang": "en",
+        "text": ">> The steps was like an AI model would",
+        "offset": 556160,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "brainstorm some domain names. Then it",
+        "offset": 557760,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "would check against an API and it would",
+        "offset": 559360,
+        "duration": 3039
+      },
+      {
+        "lang": "en",
+        "text": "just kind of like run the front end,",
+        "offset": 561120,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "display the domains that are available",
+        "offset": 562399,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "and you can click and buy them and you'd",
+        "offset": 564000,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "have a button to check the social",
+        "offset": 566240,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "handles. Basically that would call",
+        "offset": 567680,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "another API check if the model that",
+        "offset": 569200,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "you've selected has the available social",
+        "offset": 571120,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "handles through an API and then check",
+        "offset": 572720,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "that. I built that with sonet 4 which is",
+        "offset": 574080,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "you know the model that I'm telling you",
+        "offset": 576560,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "has as big of a jump from that to opus",
+        "offset": 578160,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "4.6. It took me more than two weeks to",
+        "offset": 580160,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "build right then when opus 4.5 came out",
+        "offset": 582640,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "which is a little bit worse than 4.6 but",
+        "offset": 585600,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "not much. I one shoted it like I one",
+        "offset": 587680,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "shot ated Brand Snap basically",
+        "offset": 590080,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": ">> was one one single simple one and it",
+        "offset": 591760,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "made",
+        "offset": 594320,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": ">> one one plan execution you know um so",
+        "offset": 594800,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "maybe two prompts you could say but the",
+        "offset": 598160,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "point is like it one shoted it it worked",
+        "offset": 599600,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "and it found better APIs it made it run",
+        "offset": 601360,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "cheaper than when I built it with 4.6",
+        "offset": 603440,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "actually um with sonet 4 sorry so that's",
+        "offset": 605440,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "the level of jump that I've experienced",
+        "offset": 608959,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "going from sunet 4 to opus 4.6 now",
+        "offset": 610560,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "imagine a similar level of jump from",
+        "offset": 612800,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "opus 4.65 65 today to the next thing. So",
+        "offset": 615760,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "what you can imagine is much more",
+        "offset": 618320,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "complex system like now you're making",
+        "offset": 620079,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "like dashboards and things like that but",
+        "offset": 621760,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "potentially you could you know spend a",
+        "offset": 623839,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "day in plan mode and oneshot a much more",
+        "offset": 626160,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "complex SAS for example or like build",
+        "offset": 628480,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "like you know now we build kind of like",
+        "offset": 630720,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "we oneshot kind of like astro websites",
+        "offset": 632000,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "that are pretty simple etc. Imagine like",
+        "offset": 633680,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "a website with like a complex database",
+        "offset": 635680,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "behind the scene and uh like interactive",
+        "offset": 637440,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "tools and you know payments built in",
+        "offset": 639760,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "like a authentification login system",
+        "offset": 642240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "account system etc. one shot like we",
+        "offset": 644560,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "make HTML websites one shot today for",
+        "offset": 646720,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "example like that's probably what you",
+        "offset": 649279,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "can expect from these models in terms of",
+        "offset": 651120,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "like being an entrepreneur so like",
+        "offset": 653680,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "something that today would probably even",
+        "offset": 654959,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "with Opus like building something with",
+        "offset": 656560,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "like an account system a payment system",
+        "offset": 657839,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "like a full e-commerce system a database",
+        "offset": 659920,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "in the background connected all to your",
+        "offset": 662000,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "accounting system etc probably takes you",
+        "offset": 664000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "like a week or two to build with opus",
+        "offset": 665600,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "today that's similar to what it took me",
+        "offset": 667200,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "to build brand snap with sonet 4",
+        "offset": 668880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "probably that's a oneshot with a model",
+        "offset": 670880,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "like that again we're speculating but",
+        "offset": 673120,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "like that's kind the level of what you",
+        "offset": 674959,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "can expect in practice. And again, much",
+        "offset": 676560,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "less bugs, much less issues. It's able",
+        "offset": 678800,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "to fix itself, that kind of stuff. And",
+        "offset": 681839,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "again, like when you have this level of",
+        "offset": 683839,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "drums, there's kind of like new emergent",
+        "offset": 685680,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "capabilities that come with this model",
+        "offset": 687600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "that are hard to predict. And so",
+        "offset": 689360,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "probably there are some there that",
+        "offset": 691360,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "probably I can't predict, but that's a",
+        "offset": 693519,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "story that helps.",
+        "offset": 695519,
+        "duration": 2641
+      },
+      {
+        "lang": "en",
+        "text": ">> I'm going to push you on this. Let's try",
+        "offset": 696800,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "and predict it. So like if you could say",
+        "offset": 698160,
+        "duration": 5359
+      },
+      {
+        "lang": "en",
+        "text": "you know of the work which we do at the",
+        "offset": 700720,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "moment in our business or take an agency",
+        "offset": 703519,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "business if you want to like simplify it",
+        "offset": 706640,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "um what types of things are people not",
+        "offset": 708720,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "using it now that they will be or they",
+        "offset": 711760,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "could be potentially at the end of the",
+        "offset": 713760,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "year. You know how again we're",
+        "offset": 715600,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "speculating I'm going to repeat that a",
+        "offset": 717200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "lot but you know how I have my notion",
+        "offset": 719279,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "system where I can give a task to a code",
+        "offset": 721360,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "now and it will just go and do that task",
+        "offset": 723839,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "for me and it's pretty good at it right",
+        "offset": 725440,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "I'm expecting with a model that you know",
+        "offset": 728160,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "again like if you look at the reasoning",
+        "offset": 730880,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "benchmarks it's also significantly",
+        "offset": 732079,
+        "duration": 5281
+      },
+      {
+        "lang": "en",
+        "text": "smarter like last exam is a hard",
+        "offset": 733920,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "benchmark and you're talking like almost",
+        "offset": 737360,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "50% more performance here I expect to be",
+        "offset": 739120,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "able to give it a project rather than a",
+        "offset": 742160,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "task Um, so what if I can if I'm able to",
+        "offset": 744079,
+        "duration": 7121
+      },
+      {
+        "lang": "en",
+        "text": "instead of saying go write me an article",
+        "offset": 747920,
+        "duration": 6080
+      },
+      {
+        "lang": "en",
+        "text": "if I'm like just you run my blog now you",
+        "offset": 751200,
+        "duration": 6079
+      },
+      {
+        "lang": "en",
+        "text": "you use all the tools available you come",
+        "offset": 754000,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "up with a strategy you execute it you",
+        "offset": 757279,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "learn from it and you adjust as you go",
+        "offset": 758959,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": "for example like I suspect if we are",
+        "offset": 761600,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "hitting these levels of intelligence",
+        "offset": 764480,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "this may be possible it won't",
+        "offset": 766160,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "necessarily run your business it might",
+        "offset": 767279,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "run projects in your business and handle",
+        "offset": 769200,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "sub agents creating the tasks longer",
+        "offset": 771440,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "horizon potentially learning from its",
+        "offset": 773680,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "mistakes that kind of stuff. So yeah",
+        "offset": 775760,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "potentially by the end of this year",
+        "offset": 778399,
+        "duration": 2641
+      },
+      {
+        "lang": "en",
+        "text": "which is when I expect more or less",
+        "offset": 779680,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "we'll get this level of capabilities as",
+        "offset": 781040,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "consumers or proumers then potentially",
+        "offset": 782720,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "instead of giving task to I give it",
+        "offset": 784880,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "projects. That is a pretty fundamental",
+        "offset": 786480,
+        "duration": 6640
+      },
+      {
+        "lang": "en",
+        "text": "change to all work, all knowledge work.",
+        "offset": 789040,
+        "duration": 5840
+      },
+      {
+        "lang": "en",
+        "text": "Um, and that's going to be, I would",
+        "offset": 793120,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "imagine, if that comes true, very",
+        "offset": 794880,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "disruptive to",
+        "offset": 796720,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah, it might not be perfect at this,",
+        "offset": 798399,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "but you know, it might be the early days",
+        "offset": 800399,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "where you can start giving projects to",
+        "offset": 802720,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "AI. Like, I'm not saying it's going to",
+        "offset": 804399,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "nail it and be AGI and do it perfectly,",
+        "offset": 805839,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "but if it can match, you know, a two",
+        "offset": 808720,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "years experienced employee in running a",
+        "offset": 810560,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "project, that's already changing a lot",
+        "offset": 812240,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "of things, right? if they can start",
+        "offset": 814000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "taking like thinking long term, writing",
+        "offset": 815360,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "down stuff, rereading its task, etc.,",
+        "offset": 817200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "like that's going to change a lot of",
+        "offset": 819279,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "things. So yeah, that's the level of",
+        "offset": 821200,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "jump we're talking about with this",
+        "offset": 822720,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "model. So I hope with these two examples",
+        "offset": 824320,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "with the idea of like oneshotting these",
+        "offset": 826000,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "things and project running that gives",
+        "offset": 827600,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "you an idea of what's potentially coming",
+        "offset": 829920,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "our way within three to six months.",
+        "offset": 831600,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": ">> And you know, you said we're not",
+        "offset": 834480,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "necessarily going to get our hands on",
+        "offset": 835760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "this model specifically. Um, what will",
+        "offset": 836880,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "the reality look like? Are they going to",
+        "offset": 840000,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "distill it into Opus 4.7 or 5.0 or",
+        "offset": 841839,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "something?",
+        "offset": 844959,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": ">> So, okay, Opus 4.7 and Summit 4.8 were",
+        "offset": 845360,
+        "duration": 7520
+      },
+      {
+        "lang": "en",
+        "text": "already in the code leaked files like it",
+        "offset": 849360,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "was already",
+        "offset": 852880,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": ">> we covered last week on the podcast. So,",
+        "offset": 853440,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "check that.",
+        "offset": 855839,
+        "duration": 1921
+      },
+      {
+        "lang": "en",
+        "text": ">> So, they probably exist, but I don't",
+        "offset": 856399,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "think they're based on that because from",
+        "offset": 857760,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "their research paper, this model has",
+        "offset": 859519,
+        "duration": 6081
+      },
+      {
+        "lang": "en",
+        "text": "been available internally since February",
+        "offset": 862320,
+        "duration": 5759
+      },
+      {
+        "lang": "en",
+        "text": "24th, which is not that long. Like, you",
+        "offset": 865600,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "know, then they need to red tape it.",
+        "offset": 868079,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "they need to to to distill it. And so",
+        "offset": 869440,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "what I think is like this is probably a",
+        "offset": 871760,
+        "duration": 2879
+      },
+      {
+        "lang": "en",
+        "text": "distilled version of this is probably",
+        "offset": 873440,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "going to be the 0.5 the 5.5 versions of",
+        "offset": 874639,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "their models. So probably they're like",
+        "offset": 877120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "quite close to the five version of Sonet",
+        "offset": 879279,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "and Opus which a lot of people are",
+        "offset": 881440,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "predicting are potentially launching",
+        "offset": 882639,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "this month. After that we have the like",
+        "offset": 884000,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "at the end of the year the same way we",
+        "offset": 886639,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "got opus 4.5 towards October November",
+        "offset": 887920,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "last year we'll get a 0.5 version",
+        "offset": 890399,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "towards the end of the year and my guess",
+        "offset": 892639,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "is there will be a distilled version of",
+        "offset": 894959,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "potentially an improved version of this",
+        "offset": 897360,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "model then and what again entropic has",
+        "offset": 898959,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "said that there's an upcoming version of",
+        "offset": 901839,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Opus that's coming very soon with new",
+        "offset": 903600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "security guardrails that they're going",
+        "offset": 905839,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "to use to test to see if they can",
+        "offset": 907360,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "release a model this powerful basically.",
+        "offset": 909279,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "So, we know there's an Opus model coming",
+        "offset": 911199,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "very soon. We know it's coming with new",
+        "offset": 912959,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "guardrails and they're happy enough to",
+        "offset": 914639,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "release it. Well, they're not happy",
+        "offset": 917120,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "enough to release this. So, my guess is",
+        "offset": 918320,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "it's not based on the same architecture",
+        "offset": 920320,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "or whatever. And this is kind of like",
+        "offset": 922240,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "the gen after that. You know, you talked",
+        "offset": 923600,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "about the cost of Mythos for those who",
+        "offset": 925199,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "are able to access it being quite a step",
+        "offset": 928240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "up. What does that mean for, you know,",
+        "offset": 930079,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "the future of Opus? like are we still",
+        "offset": 932720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "going to be able to like use these kind",
+        "offset": 934720,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "of future models or future versions of",
+        "offset": 936880,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "Opus on our $100 $200 subscription or do",
+        "offset": 938560,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "you think these costs are going to go",
+        "offset": 941839,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "up? Yeah, I wanted to show you this",
+        "offset": 942959,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "graph to answer this question actually",
+        "offset": 944399,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "which is essentially a benchmark that",
+        "offset": 945760,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "they've run on Opus 4.5, Summit 4.6,",
+        "offset": 948160,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "Opus 4.6 and mythos and that's like a",
+        "offset": 951120,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "browser benchmark and you know the",
+        "offset": 954160,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "model's given a task and they calculate",
+        "offset": 957040,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "you know the success rate and how many",
+        "offset": 958959,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "tokens are used to do that right and if",
+        "offset": 960800,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "we look at even opus 4.6 here to achieve",
+        "offset": 962959,
+        "duration": 6320
+      },
+      {
+        "lang": "en",
+        "text": "the task at 83.7% success rate it uses a",
+        "offset": 965680,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "little bit over a million tokens so like",
+        "offset": 969279,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "let's say 1.1 1.2 2 million token. Mitos",
+        "offset": 970880,
+        "duration": 6079
+      },
+      {
+        "lang": "en",
+        "text": "to achieve 86.9% or even 84.9% which is",
+        "offset": 973440,
+        "duration": 8800
+      },
+      {
+        "lang": "en",
+        "text": "still higher uses around 170,000 tokens.",
+        "offset": 976959,
+        "duration": 9041
+      },
+      {
+        "lang": "en",
+        "text": "So provided this efficiency translates",
+        "offset": 982240,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "even though the model costs five times",
+        "offset": 986000,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "more it might actually be cheaper to run",
+        "offset": 987920,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "the task. Again that's one benchmark",
+        "offset": 990560,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": ">> more efficient.",
+        "offset": 992639,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": ">> Well that's one task on one benchmark.",
+        "offset": 993360,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "Not all tasks may translate to that. And",
+        "offset": 996000,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "usually what we tend to do is when we",
+        "offset": 998639,
+        "duration": 2721
+      },
+      {
+        "lang": "en",
+        "text": "get better models, we give them more",
+        "offset": 1000000,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "complicated tasks and they just the the",
+        "offset": 1001360,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "token usage kind of ramps up anyway. So",
+        "offset": 1003120,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "like you know if you want to achieve",
+        "offset": 1005839,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "what you achieve with Opus today, it may",
+        "offset": 1007680,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "actually not be very different in price.",
+        "offset": 1009440,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "But what you're probably going to be",
+        "offset": 1011360,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "likely to do is you know when I talked",
+        "offset": 1012880,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "about giving it projects for example if",
+        "offset": 1014720,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "you do that it will probably just ramp",
+        "offset": 1016320,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "up to the millions of tokens usage",
+        "offset": 1017519,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "anyway and then you'll get more but you",
+        "offset": 1019120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "might need to pay more. So do you think",
+        "offset": 1021519,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "small businesses need to kind of make",
+        "offset": 1023440,
+        "duration": 5759
+      },
+      {
+        "lang": "en",
+        "text": "some fiscal headroom here for you know",
+        "offset": 1025600,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "AI um",
+        "offset": 1029199,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": ">> well AI employee costs essentially",
+        "offset": 1030559,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "because like we think about this as like",
+        "offset": 1033679,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "a software tool but then you know you",
+        "offset": 1035600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "have no issues about paying employees",
+        "offset": 1037439,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "thousands of dollars per month to manage",
+        "offset": 1039360,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "projects and things like that.",
+        "offset": 1041199,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": ">> Well you know are we moving to a world",
+        "offset": 1042799,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "where we're just going to be having you",
+        "offset": 1044799,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "know like a 50k a month claude bill and",
+        "offset": 1046160,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "just going to do the work of like a",
+        "offset": 1048400,
+        "duration": 2480
+      },
+      {
+        "lang": "en",
+        "text": "whole team.",
+        "offset": 1050000,
+        "duration": 2559
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. And also the distillation will do",
+        "offset": 1050880,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "a big job, right? So this is like a big",
+        "offset": 1052559,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "unoptimized model. But imagine that they",
+        "offset": 1054160,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "distill it and they manage to make it",
+        "offset": 1056000,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "like four times cheaper. So it's a",
+        "offset": 1057440,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "little bit more than opus right now, but",
+        "offset": 1058880,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "not a lot. But also they maintain let's",
+        "offset": 1060240,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "say 80% of the intelligence. And then",
+        "offset": 1062559,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "let's say it's like so it's slightly",
+        "offset": 1065120,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "less token efficient, but like you know",
+        "offset": 1066480,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "you move your graph a little bit to the",
+        "offset": 1067840,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "right basically and a little bit down.",
+        "offset": 1069280,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "It would still be like a very very good",
+        "offset": 1070880,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "model compared to today's opus, right?",
+        "offset": 1073120,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "It would be very cheap. It would still",
+        "offset": 1074960,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "be much more token efficient and then",
+        "offset": 1076880,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "you'd achieve like something that works",
+        "offset": 1078880,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "well. So what I think is just the usage",
+        "offset": 1080320,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "is going to increase. But what I think",
+        "offset": 1082400,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "as well is like this is not very far",
+        "offset": 1083679,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "away, right? This model is now rolled",
+        "offset": 1085440,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "out to Apple, Amazon, etc.",
+        "offset": 1087200,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": ">> It exists. People are using it as we",
+        "offset": 1088640,
+        "duration": 2480
+      },
+      {
+        "lang": "en",
+        "text": "speak.",
+        "offset": 1090640,
+        "duration": 2240
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah, it's being used right now by Apple",
+        "offset": 1091120,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "to patch iOS and stuff like that, etc.",
+        "offset": 1092880,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "So it's like very likely the tools and",
+        "offset": 1095200,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "services that we use today. They will",
+        "offset": 1097039,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "still be the same. Like you'll probably",
+        "offset": 1099039,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "use a model that is a distilled version",
+        "offset": 1100400,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "of this inside the code that you're",
+        "offset": 1102559,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "using today plus minus some features.",
+        "offset": 1104320,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "And so what that means is like you need",
+        "offset": 1106960,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "to kind of start building your systems",
+        "offset": 1108559,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "so that you can actually leverage these",
+        "offset": 1110640,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "models when they come in and you know",
+        "offset": 1113280,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "like like the notion system I was",
+        "offset": 1114799,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "talking about or like managing your",
+        "offset": 1116320,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "website with AI that kind of stuff. Can",
+        "offset": 1117760,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "you imagine when you paid human",
+        "offset": 1119840,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "developers to maintain your website and",
+        "offset": 1121520,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "then there's infinite AI that can look",
+        "offset": 1123520,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "for vulnerabilities and then you have to",
+        "offset": 1125760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "pay human wages to actually fix them.",
+        "offset": 1127840,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "Like you know what I mean? you're going",
+        "offset": 1130000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "to be forced into that world for",
+        "offset": 1131600,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "anything digital because the cost",
+        "offset": 1133760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "efficiency of having humans to do things",
+        "offset": 1136080,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "is just not going to work anymore. just",
+        "offset": 1138000,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "think about so you know we obviously",
+        "offset": 1139760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "come from an SEO background you know had",
+        "offset": 1141600,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "an agency for five years run an SEO",
+        "offset": 1144000,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "course for 10 years like we know a thing",
+        "offset": 1146240,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "or two about that we've run many",
+        "offset": 1148160,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "websites many blogs um with teams of",
+        "offset": 1150240,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "people in the past and I sort of see",
+        "offset": 1152960,
+        "duration": 6400
+      },
+      {
+        "lang": "en",
+        "text": "this not as a choice but like as a",
+        "offset": 1155600,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": ">> yeah you have to",
+        "offset": 1159360,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": ">> you will not be able to run a blog",
+        "offset": 1160320,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "successfully unless it's fully automated",
+        "offset": 1162080,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "with AI quite soon",
+        "offset": 1164160,
+        "duration": 2879
+      },
+      {
+        "lang": "en",
+        "text": ">> but it's like you're talking about a",
+        "offset": 1165919,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "blog but it's a lot of aspects of",
+        "offset": 1167039,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "business in general. Like once your",
+        "offset": 1169200,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "competition has AI running the project",
+        "offset": 1170640,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "and then you're paying someone 10K a",
+        "offset": 1173039,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "month to do the same thing, it's like",
+        "offset": 1174480,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "what the Like you",
+        "offset": 1175840,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": ">> can't win. So like they win and then",
+        "offset": 1177200,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "everyone else who's automating wins. But",
+        "offset": 1179760,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "then that that's my point is what's the",
+        "offset": 1182160,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "next level up from that? Cuz you say,",
+        "offset": 1184559,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "\"Okay, well they run a project but like",
+        "offset": 1186240,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "instead of run my blog just like do my",
+        "offset": 1188799,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "marketing, grow my business. Where's the",
+        "offset": 1190960,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "button to like make money?\"",
+        "offset": 1193600,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": ">> Like mindboggling in a way. It's like",
+        "offset": 1195360,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "well if it can do that like",
+        "offset": 1197600,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": ">> that's what I told you yesterday does",
+        "offset": 1199520,
+        "duration": 2159
+      },
+      {
+        "lang": "en",
+        "text": "that",
+        "offset": 1200960,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": ">> negate every business owner every",
+        "offset": 1201679,
+        "duration": 6481
+      },
+      {
+        "lang": "en",
+        "text": "knowledge worker every agency like you",
+        "offset": 1205840,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "know is anthropic just going to be",
+        "offset": 1208160,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "running the world with all this",
+        "offset": 1210080,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": ">> I don't think so I still think like",
+        "offset": 1211280,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "building the systems the harnesses the",
+        "offset": 1213360,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "structure the strategy will still be",
+        "offset": 1215280,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "quite important and I don't think this",
+        "offset": 1216880,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "model is like you know there was this",
+        "offset": 1218720,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "survey that you checked right where it's",
+        "offset": 1220320,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "like they asked the AI researchers like",
+        "offset": 1221520,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "is this going to replace you and only",
+        "offset": 1223840,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "one in 10 said that So it's like I think",
+        "offset": 1225840,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "what's happening with these models is",
+        "offset": 1227520,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "they're becoming super humans at some",
+        "offset": 1228799,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "tasks like coding.",
+        "offset": 1230480,
+        "duration": 1600
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah.",
+        "offset": 1231679,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": ">> But they are also like well below a",
+        "offset": 1232080,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "human or like you know they may be like",
+        "offset": 1235120,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "the level of a 14 years old at some",
+        "offset": 1237280,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "other tasks and it's like you kind of",
+        "offset": 1239200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "need to come in and fill in that role.",
+        "offset": 1240799,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "And so like I do think you become that",
+        "offset": 1243360,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "system builder. You become that",
+        "offset": 1245760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "architect of you know throwing some",
+        "offset": 1247280,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "agents here and there and doing things",
+        "offset": 1250000,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "for you and making up for the models",
+        "offset": 1252000,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "weaknesses while leveraging their",
+        "offset": 1254080,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "superhuman abilities at other things.",
+        "offset": 1255600,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "And I think this world might stay that",
+        "offset": 1258320,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "way for a while. Again I always take the",
+        "offset": 1260640,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "example of self-driving because we had",
+        "offset": 1262640,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "the first demos a long time ago 2016.",
+        "offset": 1264480,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "And again in many aspects self-driving",
+        "offset": 1266480,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "cars are super human like their reaction",
+        "offset": 1268720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "time etc. They beat us. But actually we",
+        "offset": 1270640,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "still don't trust them to drive for us",
+        "offset": 1273360,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "most of the time. Now we're getting",
+        "offset": 1275120,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "close but it's been 10 years right and",
+        "offset": 1276480,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "so probably there will be that longer",
+        "offset": 1279200,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "than people expect period where the",
+        "offset": 1282000,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "models will still be kind of weak at",
+        "offset": 1284240,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "some stuff and the best combo like again",
+        "offset": 1285840,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "business it's like I win you lose quite",
+        "offset": 1288320,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "often type setup and so you need to go",
+        "offset": 1290400,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "for the optimal setup and the optimal",
+        "offset": 1293440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "setup will still probably be for a while",
+        "offset": 1294880,
+        "duration": 6560
+      },
+      {
+        "lang": "en",
+        "text": "a human operating machines without like",
+        "offset": 1297200,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "not just the machines operating",
+        "offset": 1301440,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "everything which means you'll rely",
+        "offset": 1302880,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "heavily on these AI companies that",
+        "offset": 1304720,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "provide these models, but you'll",
+        "offset": 1306320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "probably need that. It's a new level of",
+        "offset": 1308400,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "vision and system building things. And",
+        "offset": 1310480,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "that's essentially what we're trying to",
+        "offset": 1313120,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "do now with like learning to build all",
+        "offset": 1314320,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "these systems with CL code in notion and",
+        "offset": 1316000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "projects and all that basically. So,",
+        "offset": 1318559,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "it's just new entrepreneurship if you",
+        "offset": 1320159,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "think about it. This reminds me of a",
+        "offset": 1321760,
+        "duration": 6159
+      },
+      {
+        "lang": "en",
+        "text": "blog post from wait but why. It was a",
+        "offset": 1324720,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "very popular blog in like 2014, 2015,",
+        "offset": 1327919,
+        "duration": 5841
+      },
+      {
+        "lang": "en",
+        "text": "way ahead of its time. And they had this",
+        "offset": 1331200,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "series of articles about the AI",
+        "offset": 1333760,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "revolution and the road to super",
+        "offset": 1335679,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "intelligence. And they had no idea that,",
+        "offset": 1337200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "you know, large language models were",
+        "offset": 1340159,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "going to play a part in this and how",
+        "offset": 1341600,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "that was going to proceed. But the",
+        "offset": 1343360,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "theory was basically okay, we have this",
+        "offset": 1344799,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "like slow incremental human progress",
+        "offset": 1346720,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "over time. And then as soon as AI starts",
+        "offset": 1349520,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "getting good at improving itself, you",
+        "offset": 1352080,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "know, very quickly it kind of hits that",
+        "offset": 1355520,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "exponential curve and just gets like so",
+        "offset": 1357919,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "good so quickly that it's like, you",
+        "offset": 1360559,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "know, in seconds it's getting like, you",
+        "offset": 1362240,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "know, all of human knowledge times 10",
+        "offset": 1364400,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "times 100 times infinity basically. And",
+        "offset": 1366640,
+        "duration": 5919
+      },
+      {
+        "lang": "en",
+        "text": "this release and that graph that you you",
+        "offset": 1369679,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "showed before",
+        "offset": 1372559,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": ">> where it was like, okay, here's our",
+        "offset": 1374159,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "progress.",
+        "offset": 1376000,
+        "duration": 2240
+      },
+      {
+        "lang": "en",
+        "text": ">> What does this look like? Like look at",
+        "offset": 1376559,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "this little breaking trend here. Um like",
+        "offset": 1378240,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "compare this graph which is essentially",
+        "offset": 1381600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "all the recent releases of entropic",
+        "offset": 1383520,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "models like from Opus3 and they all",
+        "offset": 1385360,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "follow a fairly similar straight line",
+        "offset": 1388240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "and then you have this mitos model that",
+        "offset": 1390880,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "was just released and you can see it",
+        "offset": 1392880,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "breaks that line. It would be like you",
+        "offset": 1394080,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "know around where my mouse is here if it",
+        "offset": 1395520,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "was following that line and just",
+        "offset": 1397600,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "breaking it. And so if you look at this",
+        "offset": 1399120,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "graph and then you go back to wait but",
+        "offset": 1401039,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "why and you look at this you're like oh",
+        "offset": 1402559,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "are we just like on this angle here",
+        "offset": 1404640,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "basically and is this happening",
+        "offset": 1406480,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": ">> it's worth pointing out this is like a",
+        "offset": 1408720,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "10 year 11year-old prediction like you",
+        "offset": 1410159,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "know this isn't",
+        "offset": 1412559,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": ">> it was cool Musk shared it I think back",
+        "offset": 1413520,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "then",
+        "offset": 1416400,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": ">> there are many folks that sort of say",
+        "offset": 1417280,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "you know like there are some physical",
+        "offset": 1420559,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "limitations to large language models",
+        "offset": 1422640,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "there's only so much better they can be",
+        "offset": 1424880,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "but",
+        "offset": 1426400,
+        "duration": 2480
+      },
+      {
+        "lang": "en",
+        "text": ">> you know um like it's",
+        "offset": 1427280,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": ">> and also So I think the argument is like",
+        "offset": 1428880,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "this model is not publicly available and",
+        "offset": 1430880,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "by the time we get this level of public",
+        "offset": 1432799,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "availability in terms of like you know",
+        "offset": 1434799,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "intelligence like it may be further",
+        "offset": 1436559,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "along that line to the point where that",
+        "offset": 1438159,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "line may not look as broken as it looks",
+        "offset": 1440000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "now. That's my argument as well like",
+        "offset": 1441919,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "when these were all released on day one",
+        "offset": 1443760,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "and you had access. I would also argue",
+        "offset": 1445520,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "that even if this is as far as it goes,",
+        "offset": 1447440,
+        "duration": 6640
+      },
+      {
+        "lang": "en",
+        "text": "right? Imagine Methos is like it can't",
+        "offset": 1451039,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "physically get any better than that for",
+        "offset": 1454080,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "whatever reason.",
+        "offset": 1456159,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": ">> I think that's already enough like once",
+        "offset": 1457279,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "people learn how to utilize it that it's",
+        "offset": 1459520,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "like it's hugely disruptive like coding",
+        "offset": 1462159,
+        "duration": 5601
+      },
+      {
+        "lang": "en",
+        "text": "like you know it solves like 94% I mean",
+        "offset": 1464799,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "93% of coding uh I don't have the",
+        "offset": 1467760,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "benchmark here but like it solves coding",
+        "offset": 1470159,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "like it's coding is sorted and there's",
+        "offset": 1472400,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "no coding without these tools going",
+        "offset": 1474720,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "forward and if you don't you will get",
+        "offset": 1476640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "hacked by one of these models. So it's",
+        "offset": 1478400,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "not even like you should use it for",
+        "offset": 1481200,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "productivity is you will die if you do",
+        "offset": 1482480,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "not use it right and that's the best",
+        "offset": 1484640,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "marketing argument. So yeah it's like",
+        "offset": 1486880,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "it's going to change things",
+        "offset": 1488559,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "significantly the same way opus is",
+        "offset": 1489760,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "already changing the world. The cloud",
+        "offset": 1491520,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "code adoption has grown massively. We",
+        "offset": 1492960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "might talk about entropics annual",
+        "offset": 1494480,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "recurring revenue that has been",
+        "offset": 1496960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "basically growing by 10 billion dollars",
+        "offset": 1498559,
+        "duration": 5841
+      },
+      {
+        "lang": "en",
+        "text": "in one month in March which is",
+        "offset": 1500960,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "absolutely insane.",
+        "offset": 1504400,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": ">> Let's talk about that now if you want.",
+        "offset": 1506240,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. Okay. Well, I mean, I think",
+        "offset": 1507679,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": ">> this ties back into what I was saying",
+        "offset": 1509360,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "about the IPO is like they're trying to",
+        "offset": 1510640,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "show revenue like hard this year to pump",
+        "offset": 1512640,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "that valuation.",
+        "offset": 1515840,
+        "duration": 2319
+      },
+      {
+        "lang": "en",
+        "text": ">> That's the graph.",
+        "offset": 1517279,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": ">> And yeah, I mean it looks like the wave",
+        "offset": 1518159,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "of Y graph, doesn't it?",
+        "offset": 1519679,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. And most important, I mean, OpenA",
+        "offset": 1521440,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "has not reported their revenue for a",
+        "offset": 1523440,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "while. So, it's like, you know, they may",
+        "offset": 1524960,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "actually be closed as a while, but it",
+        "offset": 1526799,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "looks like they may have overtaken open",
+        "offset": 1528880,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "AAI right now as the leading AI lab. And",
+        "offset": 1530799,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "the trend is vertical. I think someone",
+        "offset": 1533679,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "did a projection if it kept going that",
+        "offset": 1535520,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "way, which is quite unlikely for a few",
+        "offset": 1537600,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "years, but it would be like 274 billion",
+        "offset": 1539679,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "in a year or something like you know it",
+        "offset": 1542080,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "would be like kind of insane and so like",
+        "offset": 1544159,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "yeah it's vertical and so that's why",
+        "offset": 1546240,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "they have compute issues like that's",
+        "offset": 1548320,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "what's happening and that's why they",
+        "offset": 1550000,
+        "duration": 2559
+      },
+      {
+        "lang": "en",
+        "text": "can't.",
+        "offset": 1551279,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": ">> That's all to say is that there are",
+        "offset": 1552559,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "millions of users who are paying them a",
+        "offset": 1554480,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "couple hundred bucks to get thousands of",
+        "offset": 1557200,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "dollars worth of credits essentially per",
+        "offset": 1559440,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "month. So like they're still subsidizing",
+        "offset": 1561679,
+        "duration": 2401
+      },
+      {
+        "lang": "en",
+        "text": "us",
+        "offset": 1563360,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": ">> and that's what they're taking in. So",
+        "offset": 1564080,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": ">> I guess the argument is you know they're",
+        "offset": 1566240,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "buying market share and all that but",
+        "offset": 1567679,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "like if they stop subsidizing or when",
+        "offset": 1569360,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "this eventually the gravy train runs out",
+        "offset": 1571600,
+        "duration": 5679
+      },
+      {
+        "lang": "en",
+        "text": "like do we convert to being a 3k a month",
+        "offset": 1573840,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "user and",
+        "offset": 1577279,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": ">> not necessarily like think about it if",
+        "offset": 1578480,
+        "duration": 5840
+      },
+      {
+        "lang": "en",
+        "text": "you distill mythos to the level of haiku",
+        "offset": 1580320,
+        "duration": 6479
+      },
+      {
+        "lang": "en",
+        "text": ">> you probably get a better model than",
+        "offset": 1584320,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "opus 4.6",
+        "offset": 1586799,
+        "duration": 2561
+      },
+      {
+        "lang": "en",
+        "text": "for example,",
+        "offset": 1588400,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": ">> which for many people's jobs today is",
+        "offset": 1589360,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "enough. And provided, let's say you have",
+        "offset": 1592799,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "a mitos level model that is kind of like",
+        "offset": 1594640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "your main operator, but it can call sub",
+        "offset": 1597520,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "agents, right? Provided it just calls",
+        "offset": 1599200,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "like, you know, an equivalent of op 4.6,",
+        "offset": 1601120,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "but that costs the price of haiku like",
+        "offset": 1603039,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "to do subtasks for example, potentially",
+        "offset": 1605520,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "they can turn your subscription",
+        "offset": 1608400,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "profitable and you're still happy. So",
+        "offset": 1609679,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "that's kind of like entropic's bet. I",
+        "offset": 1611679,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "think it's like as things are",
+        "offset": 1613760,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "progressing and I'm telling you teaching",
+        "offset": 1614880,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "people every day people are progressing",
+        "offset": 1616880,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "slower than the models and it's harder",
+        "offset": 1618240,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "to move people than to move the models",
+        "offset": 1620080,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "and so my guess is like they will turn",
+        "offset": 1622159,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "that profitable if the capacities",
+        "offset": 1624799,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "increase at this pace still",
+        "offset": 1627120,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": ">> are you not financial advice but are you",
+        "offset": 1628799,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "buying stock in the IPO then",
+        "offset": 1630960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": ">> I don't know we say I mean I'm not even",
+        "offset": 1632880,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "sure I'll be asked to be honest uh but",
+        "offset": 1634960,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "uh",
+        "offset": 1637600,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": ">> no no so in the IPO it's like any",
+        "offset": 1637760,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": ">> before I know that on the private market",
+        "offset": 1640400,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "right now you know like there's the",
+        "offset": 1642159,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "private market in San Francisco for",
+        "offset": 1643200,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "people like employees selling their",
+        "offset": 1645120,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "shares they vested etc. People are",
+        "offset": 1646559,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "fighting to buy Entropic shares and",
+        "offset": 1648880,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "there are OpenAI shares that are still",
+        "offset": 1651760,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "left on the market right now and people",
+        "offset": 1653520,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "are not buying them. So it's like it",
+        "offset": 1655039,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "seems like Entropic is the bet right now",
+        "offset": 1656960,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "but the valuation right now is going to",
+        "offset": 1659360,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "explode. But like my guess is right now",
+        "offset": 1661679,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "the big growth here is actually",
+        "offset": 1664000,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "enterprise. It's not even your",
+        "offset": 1665520,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "subscription. It's like they're doing a",
+        "offset": 1666720,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "like I think I read an article that said",
+        "offset": 1668400,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "that eight out of 10 of the Fortune 50",
+        "offset": 1670480,
+        "duration": 5679
+      },
+      {
+        "lang": "en",
+        "text": "companies are now entropic customers.",
+        "offset": 1673520,
+        "duration": 6159
+      },
+      {
+        "lang": "en",
+        "text": "So, so that's a very very strong market",
+        "offset": 1676159,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "penetration.",
+        "offset": 1679679,
+        "duration": 2321
+      },
+      {
+        "lang": "en",
+        "text": ">> 40 out of 50. Yeah.",
+        "offset": 1680480,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. And that means that and I think",
+        "offset": 1682000,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "that's where the growth comes from",
+        "offset": 1684159,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "because they charge per token at the",
+        "offset": 1685440,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "enterprise level. So they charge their",
+        "offset": 1687120,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "API prices that are very high. And now",
+        "offset": 1688320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "open air is pretty much the challenger",
+        "offset": 1690960,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "at this point which puts them in a very",
+        "offset": 1692480,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "interesting situation with all this",
+        "offset": 1694159,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "middle story actually. Um so",
+        "offset": 1695760,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": ">> what is their response likely to be",
+        "offset": 1697679,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "then?",
+        "offset": 1699919,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": ">> Okay. Uh I want to show you a tweet like",
+        "offset": 1700480,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "we're doing a Twitter episode today. So",
+        "offset": 1702559,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "you can see this tweet from this guy",
+        "offset": 1705200,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "called Adu who I don't really know but",
+        "offset": 1706960,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "he said it will probably be months",
+        "offset": 1708880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "before we use a model of this level of",
+        "offset": 1710880,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "capabilities and shared the benchmarks",
+        "offset": 1712640,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "for mitos",
+        "offset": 1714559,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "but who is this guy if you mouse over",
+        "offset": 1716720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "his avatar you'll see that he's the head",
+        "offset": 1718880,
+        "duration": 6320
+      },
+      {
+        "lang": "en",
+        "text": "of codeex at open AAI openai has also",
+        "offset": 1721360,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "been bragging about having an internal",
+        "offset": 1725200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "model that is incredible and will change",
+        "offset": 1726880,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "the world Samman has done an interview",
+        "offset": 1729360,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "with Axios last week Greg Brokeman which",
+        "offset": 1731360,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "is I I think that's his name is the CTO",
+        "offset": 1734240,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "of OpenAI did an interview on the big",
+        "offset": 1736080,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "technology podcast. I listen to both and",
+        "offset": 1738480,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "they're basically saying like they're",
+        "offset": 1740480,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "basically telling people like mass",
+        "offset": 1742880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "unemployment is coming. That's basically",
+        "offset": 1744799,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "what they're saying. And so like they're",
+        "offset": 1746720,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "feeling quite confident and strong about",
+        "offset": 1748480,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "their upcoming model called spot. And",
+        "offset": 1750399,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "then you see that you see this which is",
+        "offset": 1752320,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "a response to it will be months before",
+        "offset": 1754240,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "we can use this. Which tells me that",
+        "offset": 1756000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "that's the interesting proposition,",
+        "offset": 1758480,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "right? I think open air is probably the",
+        "offset": 1759760,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "only lab who can compete with this mto",
+        "offset": 1761200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "thing. I think the Google models are not",
+        "offset": 1763919,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "there. They can barely code already. So",
+        "offset": 1765360,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "yeah, I think I think open air is the",
+        "offset": 1767039,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "only lab at this point that is",
+        "offset": 1768799,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "positioned to throw something out there.",
+        "offset": 1770000,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "And so the question is assuming they can",
+        "offset": 1772399,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "throw a model out there that's competing",
+        "offset": 1775440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "with this. How do they release it? Do",
+        "offset": 1777360,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "they follow entropic in saying this is",
+        "offset": 1779200,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "too dangerous so we only give it to big",
+        "offset": 1780799,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "companies to patch? But remember they're",
+        "offset": 1783039,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "the challenger, right? Let's go back to",
+        "offset": 1785200,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "their uh revenue number if I can find it",
+        "offset": 1787840,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "here. They want to catch up. They are",
+        "offset": 1790399,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "also valued at insane valuation and",
+        "offset": 1792320,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "they're going to collapse if they don't",
+        "offset": 1794399,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "make money. So they have a big incentive",
+        "offset": 1796080,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "to cut the grass under entropics feats",
+        "offset": 1798799,
+        "duration": 5441
+      },
+      {
+        "lang": "en",
+        "text": "and really a model that is going to be",
+        "offset": 1801120,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "close at least to the performances of",
+        "offset": 1804240,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "this earlier to gain market share and",
+        "offset": 1806080,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "gain revenue and get back some of these",
+        "offset": 1809279,
+        "duration": 5601
+      },
+      {
+        "lang": "en",
+        "text": "enterprise customers. So if OpenAI does",
+        "offset": 1811600,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "that then entropic will be forced to",
+        "offset": 1814880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "release something close enough as well",
+        "offset": 1816960,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "to maintain their lead. And so we're",
+        "offset": 1818640,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "either going to go into that fight",
+        "offset": 1820320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "between the AI companies and the",
+        "offset": 1822320,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "consumer wins provided the internet",
+        "offset": 1824480,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "doesn't collapse or we are going to go",
+        "offset": 1826080,
+        "duration": 5599
+      },
+      {
+        "lang": "en",
+        "text": "into that twoclass system where",
+        "offset": 1829760,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "enterprise has access to these best",
+        "offset": 1831679,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "models first for like six to 12 months",
+        "offset": 1834480,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "and then the proumers the people with",
+        "offset": 1836880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "the subscriptions etc get kind of like a",
+        "offset": 1838799,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "watered down version of that later on.",
+        "offset": 1840640,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "Um, and so like that's what's playing",
+        "offset": 1843279,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "out in this industry right now is are",
+        "offset": 1845120,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "you going to be able to have access to",
+        "offset": 1847520,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "the frontier with just your credit card",
+        "offset": 1849919,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "in your hand or do you need to be a big",
+        "offset": 1851840,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "enterprise? It's interesting you",
+        "offset": 1853440,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "mentioned about jobs and stuff because",
+        "offset": 1854880,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "they've Anthropic actually has this",
+        "offset": 1856559,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": "economic index uh section on their site",
+        "offset": 1858559,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": ">> and they show throughout all their data",
+        "offset": 1862080,
+        "duration": 6240
+      },
+      {
+        "lang": "en",
+        "text": "like which jobs are like mostly",
+        "offset": 1864080,
+        "duration": 7040
+      },
+      {
+        "lang": "en",
+        "text": "automating tasks, augmenting tasks and",
+        "offset": 1868320,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "have tasks that don't appear in their",
+        "offset": 1871120,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "data. So you know a cashier for example",
+        "offset": 1872720,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "like yeah like most of the stuff that",
+        "offset": 1875679,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "they do is not they're not using AI for",
+        "offset": 1877919,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "but there's you know a few few things",
+        "offset": 1880080,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "there whereas you know like a software",
+        "offset": 1882159,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "developer or a web developer like half",
+        "offset": 1884159,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "of the stuff that they do now is",
+        "offset": 1886880,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "augmented or automated. So I think like",
+        "offset": 1889120,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "the disruption is likely to be quite",
+        "offset": 1891840,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "like focused in certain areas and less",
+        "offset": 1894240,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "so in others which is you know obvious",
+        "offset": 1896880,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "but also they have this like global",
+        "offset": 1898559,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "usage as well. So you can see in like",
+        "offset": 1900559,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "the you know you call it like the",
+        "offset": 1902559,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "developed world primarily like the",
+        "offset": 1904480,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "colors are darker green the usage is",
+        "offset": 1906720,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "much much higher. So we might be moving",
+        "offset": 1908640,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "towards this kind of like twostage world",
+        "offset": 1910799,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "where there are countries companies",
+        "offset": 1913919,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "people that have access to this because",
+        "offset": 1916720,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "they can afford it right it's not cheap.",
+        "offset": 1918720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "200 bucks a month to use this is a lot",
+        "offset": 1920960,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "of money in some countries like you know",
+        "offset": 1923200,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "to",
+        "offset": 1926159,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": ">> like you're gonna have the poor people",
+        "offset": 1926559,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "the kind of proumers in the west and",
+        "offset": 1928559,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "then you're gonna have enterprise and",
+        "offset": 1930640,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "then you might have three levels of",
+        "offset": 1932080,
+        "duration": 2719
+      },
+      {
+        "lang": "en",
+        "text": "models as well like they use the mini",
+        "offset": 1933360,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "models then you use the kind of like",
+        "offset": 1934799,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "opus sonet levels and you kind of get a",
+        "offset": 1936240,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "tier above for enterprise that was kind",
+        "offset": 1938320,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "of the promise of AI is like um and",
+        "offset": 1941039,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "that's one of the things that's",
+        "offset": 1942960,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "interesting with open AI is like their",
+        "offset": 1943919,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "ethos on that is very different from",
+        "offset": 1945600,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "entropic entropic is like the corporate",
+        "offset": 1947120,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "overlord like the suits and tie They",
+        "offset": 1949200,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "want they want the big money from the",
+        "offset": 1951200,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "big companies. Open AAI because they",
+        "offset": 1952640,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "come from this nonprofit background etc.",
+        "offset": 1954480,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "Like the company's culture is a little",
+        "offset": 1956720,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "bit different. And one of the things",
+        "offset": 1958000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "they keep hammering is like we're not",
+        "offset": 1959600,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "necessarily going to make decisions.",
+        "offset": 1961200,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "We're going to put these things in the",
+        "offset": 1962880,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "hands of people and then like we think",
+        "offset": 1964080,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "it's fairer if everyone has access to it",
+        "offset": 1966240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "basically. And so like you know broad",
+        "offset": 1968159,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "broad access cheaper APIs in general as",
+        "offset": 1970880,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "well and trying to do the best while",
+        "offset": 1972880,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "distributing as much as possible which",
+        "offset": 1975760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "could potentially mean that this spot",
+        "offset": 1978000,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "model maybe a bit under but also",
+        "offset": 1979760,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "available earlier and then you know",
+        "offset": 1982320,
+        "duration": 5599
+      },
+      {
+        "lang": "en",
+        "text": "entropic is forced to distill a version",
+        "offset": 1985360,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "of methos that competes with that or",
+        "offset": 1987919,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "something like that and we get much",
+        "offset": 1989600,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "closer. That's my guess. I think that's",
+        "offset": 1990880,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "what's going to happen. I think there",
+        "offset": 1992640,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "will be there will be a struggle between",
+        "offset": 1993760,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "security and these models and but they",
+        "offset": 1995760,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "will be forced because the force of the",
+        "offset": 1998240,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "market is just too strong like they have",
+        "offset": 1999840,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "the EIPO is this year etc.",
+        "offset": 2001440,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": ">> I think my main take away from all this",
+        "offset": 2003279,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "is that everything we assume that would",
+        "offset": 2005039,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "happen you know you kind of have this",
+        "offset": 2007760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "based on how things currently are like",
+        "offset": 2009679,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "where the trajectory is. like that our",
+        "offset": 2012000,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "understanding of that is poor and I",
+        "offset": 2015679,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "think we need to really expect a lot of",
+        "offset": 2018480,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "disruption and unexpected things in the",
+        "offset": 2020880,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "coming months uh alone",
+        "offset": 2023840,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": ">> and a lot of people are like oh I'm just",
+        "offset": 2025600,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "going to wait till it like figures it",
+        "offset": 2026799,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "out for me etc. But the point is I think",
+        "offset": 2028399,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "the interfaces are not going to change",
+        "offset": 2029919,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "very much. I do think like those CLA",
+        "offset": 2031200,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "tools will still be around. There will",
+        "offset": 2033039,
+        "duration": 2561
+      },
+      {
+        "lang": "en",
+        "text": "probably be a desktop app like the Codex",
+        "offset": 2034159,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "app etc. But you need to learn these",
+        "offset": 2035600,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "tools. You need to you need to do that.",
+        "offset": 2037600,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": ">> If you would like to learn how to use",
+        "offset": 2040399,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "claude code, which is probably in fact",
+        "offset": 2042559,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "definitely the single most important",
+        "offset": 2044960,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "work tool that you can learn and use in",
+        "offset": 2046799,
+        "duration": 5441
+      },
+      {
+        "lang": "en",
+        "text": "AI right now. We actually have a free",
+        "offset": 2049599,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "guide. There's a few videos up there. So",
+        "offset": 2052240,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "if you go to authorityhacker.comclude",
+        "offset": 2054240,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "code, you will be able to see how we're",
+        "offset": 2058079,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "using it in our business to uh make",
+        "offset": 2061280,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "sales, do our marketing, automate all",
+        "offset": 2064000,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "our operations, these types of things.",
+        "offset": 2066240,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "and we'll also show you how to set it up",
+        "offset": 2067839,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "as well. So,",
+        "offset": 2069760,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "authorityhacker.com/learnclaude",
+        "offset": 2070960,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "code and you can get access to that",
+        "offset": 2074560,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "today. Let's move on though and talk",
+        "offset": 2076560,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "about image models because there have",
+        "offset": 2079280,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "been some leaks I guess you would call",
+        "offset": 2082480,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "it that. Um,",
+        "offset": 2084960,
+        "duration": 2719
+      },
+      {
+        "lang": "en",
+        "text": ">> it's been tested in open arena like you",
+        "offset": 2086000,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "know there are sites where they test",
+        "offset": 2087679,
+        "duration": 2881
+      },
+      {
+        "lang": "en",
+        "text": "things and so yeah.",
+        "offset": 2089040,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. So, this is GPT image 2. Yeah.",
+        "offset": 2090560,
+        "duration": 6400
+      },
+      {
+        "lang": "en",
+        "text": "which is OpenAI's new image model. And",
+        "offset": 2094480,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "I've got a website up here, so the AI",
+        "offset": 2096960,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "corner. And they've kind of summed up a",
+        "offset": 2099520,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "bunch of these leaks right here. Starts",
+        "offset": 2101280,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "off with this image of Sam Alman in a",
+        "offset": 2103839,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "NASA space suit in space. And you know,",
+        "offset": 2106240,
+        "duration": 5359
+      },
+      {
+        "lang": "en",
+        "text": "looks decentish, like kind of AI too",
+        "offset": 2108560,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "cinematic for me. Yeah,",
+        "offset": 2111599,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": ">> I don't know. Um, but if we actually",
+        "offset": 2113119,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "look through some of the things which",
+        "offset": 2115119,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "are shared here, you know, we're seeing",
+        "offset": 2116800,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "pretty good like real life images of the",
+        "offset": 2119200,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "inside of a store. We've got a kind of",
+        "offset": 2121599,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "like infographic.",
+        "offset": 2123920,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "Let's just check it out.",
+        "offset": 2125839,
+        "duration": 2721
+      },
+      {
+        "lang": "en",
+        "text": ">> The body. I can't zoom in on it.",
+        "offset": 2126640,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": ">> I'll show you some images then. Uh I",
+        "offset": 2128560,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "have some.",
+        "offset": 2130880,
+        "duration": 2080
+      },
+      {
+        "lang": "en",
+        "text": ">> This one I just wanted to show though is",
+        "offset": 2131440,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "it's a photo of an IKEA",
+        "offset": 2132960,
+        "duration": 6159
+      },
+      {
+        "lang": "en",
+        "text": ">> IKEA building, but it's not a photo of",
+        "offset": 2137440,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "an IKEA building. It's an AI generation",
+        "offset": 2139119,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "of it and you would not know looking at",
+        "offset": 2140800,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "it. It looks like a photo. So like the",
+        "offset": 2143200,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "photo realism is pretty damn good.",
+        "offset": 2145359,
+        "duration": 5121
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. Here's this one. I like the",
+        "offset": 2148960,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "mundane photos because they're like the",
+        "offset": 2150480,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "hardest thing to do basically like you",
+        "offset": 2152720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "know make it look like a bad iPhone",
+        "offset": 2154560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "photo and it just feels like it. But",
+        "offset": 2156640,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "like this is a medicare sheet for",
+        "offset": 2158720,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "example and you can see that maybe the",
+        "offset": 2160320,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "handwriting is a little bit too clean I",
+        "offset": 2162079,
+        "duration": 2641
+      },
+      {
+        "lang": "en",
+        "text": "would say. But I like the kind of like",
+        "offset": 2163520,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "scribbles for example here. Um but",
+        "offset": 2164720,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "overall like I think if you post this on",
+        "offset": 2166560,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "social people will believe it. Even this",
+        "offset": 2168800,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "this kind of like technical documents is",
+        "offset": 2170800,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "very hard to do with AI to do something",
+        "offset": 2172560,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "like this with the writing etc. Uh this",
+        "offset": 2174240,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "complex one as well. I would say maybe",
+        "offset": 2176640,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "the hand like the texture of the skin",
+        "offset": 2178320,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "still maybe missing a little bit but I",
+        "offset": 2180800,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "mean again if I posted this on social",
+        "offset": 2183119,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "unless I'm pixel peeping it's very hard",
+        "offset": 2185040,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "to tell it's AI and you know the box of",
+        "offset": 2186880,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "conflicts looks very good which is quite",
+        "offset": 2190079,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "interesting is like the world knowledge",
+        "offset": 2191839,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "of this model is excellent in the sense",
+        "offset": 2194079,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "that it knows what a box of conflicts",
+        "offset": 2196320,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "should look like. Now, it's not perfect.",
+        "offset": 2198720,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "Like I think for example, like you know",
+        "offset": 2200240,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "the little like rating and whatever like",
+        "offset": 2202240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "the text starts falling apart like the",
+        "offset": 2204400,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "logo with the leaf here is also falling",
+        "offset": 2206160,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "apart a little bit. But again it's",
+        "offset": 2208000,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "incredible and look at this one for",
+        "offset": 2210000,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "example. It's like uh Obama and Trump",
+        "offset": 2211440,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "taking a selfie together. And",
+        "offset": 2214640,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": ">> I mean like honestly like you look at a",
+        "offset": 2216400,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "lot of AI images and things like that",
+        "offset": 2218560,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "and it's really at the stage with this",
+        "offset": 2220240,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "where it's you cannot tell like you",
+        "offset": 2221920,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "don't even get",
+        "offset": 2223839,
+        "duration": 2161
+      },
+      {
+        "lang": "en",
+        "text": ">> I mean Trump is a little bit more orange",
+        "offset": 2224480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "in real life but other than that uh it's",
+        "offset": 2226000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "pretty",
+        "offset": 2228480,
+        "duration": 2480
+      },
+      {
+        "lang": "en",
+        "text": ">> cool. You mentioned the handwriting. I",
+        "offset": 2229200,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "found this one a guy called Blake",
+        "offset": 2230960,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "Robbins posted it and it looks like",
+        "offset": 2232800,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "actual handwriting not kind of AI done.",
+        "offset": 2234560,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "It's a bit messy. It's it's",
+        "offset": 2237280,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. I mean you cannot tell that this",
+        "offset": 2239599,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "is AI generated handwriting which again",
+        "offset": 2241599,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "poses issues for things like people",
+        "offset": 2244160,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "signing documents and signatures and",
+        "offset": 2246400,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "yeah",
+        "offset": 2248560,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": ">> generate an ID photo for kids you know",
+        "offset": 2249760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "imagine you know a lot of places nowaday",
+        "offset": 2252240,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "they just you can show a photo of your",
+        "offset": 2253760,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "ID and they're like ah it's fine imagine",
+        "offset": 2255359,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "if your kid generates an ID that's like",
+        "offset": 2257440,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "two two three years older than them for",
+        "offset": 2259680,
+        "duration": 2320
+      },
+      {
+        "lang": "en",
+        "text": "example",
+        "offset": 2261280,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": ">> we used to do that oh gosh this is",
+        "offset": 2262000,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "dating me now like back in 2002 2003 we",
+        "offset": 2263920,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "like scan in my passport and then go",
+        "offset": 2267839,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "into Microsoft Paint and like edit the",
+        "offset": 2270400,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "numbers to make me look 18 instead of 17",
+        "offset": 2272800,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "and print it off.",
+        "offset": 2275440,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah, that worked. But I I can't even",
+        "offset": 2277760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "imagine like what the fake ID landscape",
+        "offset": 2279839,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "looks like for kids these days. So",
+        "offset": 2282000,
+        "duration": 6240
+      },
+      {
+        "lang": "en",
+        "text": ">> yeah, if you know, drop us a comment. Uh",
+        "offset": 2284160,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "but yeah, it's like so again that is",
+        "offset": 2288240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "also pretty scary. Uh and this model",
+        "offset": 2290640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "again for ads is going to be incredible.",
+        "offset": 2292720,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "No is already pretty good, but it looks",
+        "offset": 2295200,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "like we're getting another wave. And",
+        "offset": 2297440,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "obviously Google probably has seen that",
+        "offset": 2299040,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "there have Google IO in 1 month exactly",
+        "offset": 2301119,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "today. And they basically haven't been",
+        "offset": 2303680,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "releasing anything recently, so expect",
+        "offset": 2305680,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "all the releases to come in exactly one",
+        "offset": 2307359,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "month, including new Google models and",
+        "offset": 2309359,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "everything.",
+        "offset": 2311359,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": ">> Yeah. Anything else to say on OpenAI's",
+        "offset": 2312079,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "image model then?",
+        "offset": 2314400,
+        "duration": 2320
+      },
+      {
+        "lang": "en",
+        "text": ">> No, I think it's going to be great.",
+        "offset": 2315440,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": ">> We'll wrap it up there. If you want to",
+        "offset": 2316720,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "stay uptod date with the latest",
+        "offset": 2318480,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "developments and AI and how this is",
+        "offset": 2319839,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "going to affect small businesses, online",
+        "offset": 2321839,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "businesses, knowledge work, then make",
+        "offset": 2323760,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "sure to subscribe to this podcast so you",
+        "offset": 2325520,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "don't miss future episodes. We're",
+        "offset": 2328160,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "releasing new episode almost every week.",
+        "offset": 2329839,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "We stay on top of all this stuff so you",
+        "offset": 2331520,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "don't have to and we just distill it",
+        "offset": 2333760,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "into exactly the stuff that you need to",
+        "offset": 2335200,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "pay attention to. So, we'll save you",
+        "offset": 2337839,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "from all the noise out there uh and just",
+        "offset": 2339920,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "give you what you need to know. So,",
+        "offset": 2342320,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "subscribe, leave a comment if you're",
+        "offset": 2343440,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "watching on YouTube. Um, we answer all",
+        "offset": 2345119,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "of those. Uh, other than that, see you",
+        "offset": 2347040,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "next week.",
+        "offset": 2348720,
+        "duration": 2560
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}
