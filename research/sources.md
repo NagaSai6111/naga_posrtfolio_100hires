@@ -7,6 +7,7 @@
 | Gael Breton | Co-Founder, Authority Hacker | [Website](https://www.authorityhacker.com/), [LinkedIn](https://www.linkedin.com/in/gael-breton/), [YouTube](https://www.youtube.com/@AuthorityHackerPodcast) | LinkedIn notes collected 2026-07-03; YouTube transcripts collected 2026-07-03; YouTube video dates range 2026-03-19 to 2026-06-10 | Practical SEO operator focused on AI-assisted content systems, authority sites, workflow automation, Claude Code, topical authority, and quality evaluation loops. |
 | Mark Williams-Cook | SEO consultant and founder, AlsoAsked | [YouTube](https://www.youtube.com/@mwcsearch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-15 to 2026-06-17 | Practical SEO educator focused on search intent, topical authority, Google visibility, and data-driven SEO workflows. |
 | Lily Ray | SEO expert and speaker | [YouTube](https://www.youtube.com/@lilyray) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2024-03-08 to 2025-11-10 | Search quality and algorithm update expert focused on Google core updates, helpful content, AI search, and organic search strategy. |
+| Tim Soulo | CMO, Ahrefs | [Website](https://ahrefs.com/), [YouTube](https://www.youtube.com/@AhrefsCom/videos) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-05-27 to 2026-06-30 | SEO and content marketing operator focused on AI SEO, affiliate search, marketing systems, and practical use of Ahrefs workflows. |
 
 ## Gael Breton
 
@@ -70,6 +71,26 @@
 | 2024-04-06 | The Cycles of Google's Algorithm Updates: Thoughts on the March Core Update & Helpful Content Update | https://www.youtube.com/watch?v=gyWQeIGzc3k | Useful for understanding repeated patterns in Google algorithm updates. |
 | 2024-03-14 | The Helpful Content Update - Reflecting on What Happened | https://www.youtube.com/watch?v=-ewdcdsJ2k4 | Useful for evaluating helpful content impacts and recovery thinking. |
 | 2024-03-08 | March 2024 Core Update & Spam Updates with Lily Ray | https://www.youtube.com/watch?v=HScvmekUAB4 | Useful for studying core update and spam update implications for SEO strategy. |
+
+## Tim Soulo
+
+**Research focus:** AI SEO, affiliate websites, content marketing, Ahrefs workflows, marketing automation, and practical SEO operations.
+
+**Why selected:** Tim leads marketing at Ahrefs and appears on Ahrefs videos that show tactical SEO workflows, AI-assisted marketing systems, and current search trends.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/tim_soulo/<video-id-title>/transcript.md`
+
+## Tim Soulo / Ahrefs YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-06-30 | Google Crushed Affiliate Websites. His Grew Anyway. | https://www.youtube.com/watch?v=Sk8MAbD39Qw | Useful for studying affiliate-site resilience and search traffic recovery strategy. |
+| 2026-06-17 | AI SEO Course for Beginners: Complete AEO Tutorial | https://www.youtube.com/watch?v=uza9GX0E2mw | Useful for understanding AI search optimization and AEO fundamentals. |
+| 2026-06-10 | I Used AI Agents to Replace Our Marketing Agency | https://www.youtube.com/watch?v=rGdR1KC6O2s | Useful for researching AI agents in marketing operations and production workflows. |
+| 2026-06-03 | Why I Switched from ChatGPT to Claude | https://www.youtube.com/watch?v=Xq9qD7Xl5Ps | Useful for practical model-selection discussion in SEO and marketing workflows. |
+| 2026-05-27 | This AI Tool Generates Viral Thumbnails (Prompts Included) | https://www.youtube.com/watch?v=W6ofmUbVr6M | Useful for AI-assisted creative production and YouTube packaging research. |
 
 ## Collection Notes
 

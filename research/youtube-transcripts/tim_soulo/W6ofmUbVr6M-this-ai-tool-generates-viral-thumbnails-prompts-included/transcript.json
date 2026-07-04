@@ -1,0 +1,2018 @@
+{
+  "video_id": "W6ofmUbVr6M",
+  "url": "https://www.youtube.com/watch?v=W6ofmUbVr6M",
+  "title": "This AI Tool Generates Viral Thumbnails (Prompts Included)",
+  "upload_date": "2026-05-27T05:00:01-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T14:05:55+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "So, most AI thumbnail generators, they",
+        "offset": 0,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "just spit out very generic images that",
+        "offset": 1880,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "look exactly the same as everything else",
+        "offset": 4080,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "out there. And so, I actually built one",
+        "offset": 6320,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "that's trained on 8 years of YouTube",
+        "offset": 8040,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "best practices. [music] So, it's stuff",
+        "offset": 10400,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "that I've learned from spending tens of",
+        "offset": 12040,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "thousands of dollars with the",
+        "offset": 13760,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "consultants behind some of the biggest",
+        "offset": 15120,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "channels online. So, let me show you.",
+        "offset": 17200,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "So, right now I'm creating a video",
+        "offset": 19480,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "called why I switched from ChatGPT to",
+        "offset": 20720,
+        "duration": 7080
+      },
+      {
+        "lang": "en",
+        "text": "Claude, and it's a talking head video on",
+        "offset": 23640,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "exactly that.",
+        "offset": 27800,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "And I want myself to be in the image.",
+        "offset": 29640,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "So, I'm going to drag that and hit",
+        "offset": 32040,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "generate three thumbnail concepts.",
+        "offset": 34520,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "And right now it's generating the images",
+        "offset": 37120,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "with Gemini. And we actually have some",
+        "offset": 38800,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "decent thumbnails. They're all three",
+        "offset": 40960,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "completely different concepts. People",
+        "offset": 42520,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "typically look like me, but I'm using",
+        "offset": 44720,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "this mostly for prototyping. You can",
+        "offset": 46080,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "download the thumbnail if you want to",
+        "offset": 47920,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "know why it works based on YouTube best",
+        "offset": 49240,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "practices. I've trained it to do that.",
+        "offset": 51040,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "This is the image prompt that it came up",
+        "offset": 53040,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "with that it'll give to Gemini to",
+        "offset": 54640,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "actually generate these. All right, so",
+        "offset": 56280,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "let's go to YouTube and let's try",
+        "offset": 57720,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "something different here.",
+        "offset": 59240,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "Living with Tom Brady for a day. Yeah,",
+        "offset": 60640,
+        "duration": 4599
+      },
+      {
+        "lang": "en",
+        "text": "let's try that. So, let's say living",
+        "offset": 63320,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "with Tom Brady for a day. Let's just say",
+        "offset": 65239,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "that we want to do something like this.",
+        "offset": 68400,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "We'll hit generate. It's going to ask",
+        "offset": 69480,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "Claude for thumbnail concepts. I'm",
+        "offset": 71400,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "really curious what this is going to",
+        "offset": 73840,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "look like. Yeah, and look at that. So,",
+        "offset": 74840,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "Tom Brady's crazy diet, living with Tom",
+        "offset": 76760,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "Brady for a day. Tom Brady's in the",
+        "offset": 78600,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "background. I train like Brady.",
+        "offset": 80480,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "24 hours with Brady. I don't really like",
+        "offset": 82720,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "that one, but the other two are actually",
+        "offset": 84360,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "kind of decent and they do follow the",
+        "offset": 86120,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "YouTube best principles, which I'll get",
+        "offset": 87640,
+        "duration": 2360
+      },
+      {
+        "lang": "en",
+        "text": "into",
+        "offset": 88960,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "in a bit. So, here's the prompt that I",
+        "offset": 90000,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "used to build this thumbnail generator.",
+        "offset": 91760,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "So, I said, build me a YouTube thumbnail",
+        "offset": 93360,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "generator as an internal console",
+        "offset": 95880,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "application for my team. What it does,",
+        "offset": 97880,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "so it's going to generate three distinct",
+        "offset": 100760,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "thumbnail concepts, and it's going to",
+        "offset": 103040,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "render each as a downloadable mock-up",
+        "offset": 104880,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "styled like a real YouTube feed tile.",
+        "offset": 106960,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "And for each concept, I want to know in",
+        "offset": 109680,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "roughly two to three sentences why it's",
+        "offset": 111920,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "going to earn clicks. So, it has",
+        "offset": 113400,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "psychological hook, etc. The inputs, I'm",
+        "offset": 116200,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "going to give it a working title. I can",
+        "offset": 119160,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "give it a script or a description, and",
+        "offset": 120800,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "based on my experience, it works much",
+        "offset": 122720,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "better with just a short description.",
+        "offset": 124000,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "And a reference image of a person if I",
+        "offset": 125920,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "want that person to be in the thumbnail.",
+        "offset": 127400,
+        "duration": 2999
+      },
+      {
+        "lang": "en",
+        "text": "So, it's going to use the latest Opus",
+        "offset": 128920,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "model from Anthropic, which is also",
+        "offset": 130399,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "Claude, uh to generate three concepts",
+        "offset": 132959,
+        "duration": 6361
+      },
+      {
+        "lang": "en",
+        "text": "following the best practice uh packaging",
+        "offset": 136320,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "document I'm uploading. So, you can see",
+        "offset": 139320,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "that I I uploaded a document up here,",
+        "offset": 140840,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "and this is basically like a summarized",
+        "offset": 143440,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "version of years of notes that I've been",
+        "offset": 145640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "taking. And for each concept, Opus",
+        "offset": 147640,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "should write a detailed image prompt.",
+        "offset": 150200,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "So, basically, Opus is is coming up with",
+        "offset": 152440,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "these concepts, and then it's going to",
+        "offset": 154440,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "write a prompt for Gemini, and it's",
+        "offset": 156360,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "going to pass that image prompt over to",
+        "offset": 158240,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "Gemini, and it's going to actually",
+        "offset": 160400,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "produce the thumbnail. So, that's how",
+        "offset": 161920,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "this is going to work. Obviously,",
+        "offset": 163760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "thumbnails should be 16:9, and the text",
+        "offset": 165000,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "overlay should be baked in directly to",
+        "offset": 167760,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "the generated image. In terms of output,",
+        "offset": 170440,
+        "duration": 4519
+      },
+      {
+        "lang": "en",
+        "text": "we're going to see three thumbnails side",
+        "offset": 172640,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "by side that kind of look like a YouTube",
+        "offset": 174959,
+        "duration": 3881
+      },
+      {
+        "lang": "en",
+        "text": "feed, and each one should have a",
+        "offset": 177400,
+        "duration": 2839
+      },
+      {
+        "lang": "en",
+        "text": "download button where you can download",
+        "offset": 178840,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "them. Each card should be expandable",
+        "offset": 180239,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "about why this works. And we're also",
+        "offset": 182120,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "going to have a history tab uh where we",
+        "offset": 183840,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "can, you know, generate different",
+        "offset": 185840,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "thumbnails and see everything that's",
+        "offset": 187040,
+        "duration": 2919
+      },
+      {
+        "lang": "en",
+        "text": "been done. And then finally, I just",
+        "offset": 188480,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "mentioned again that I'm going to be",
+        "offset": 189959,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "uploading the best practices document",
+        "offset": 191720,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "for the AI to actually do this. And the",
+        "offset": 194440,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "tool that I actually ran this in is",
+        "offset": 196800,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "called Agent A, and it's an AI agent",
+        "offset": 198320,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "that has unrestricted access to Ahrefs",
+        "offset": 200880,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "data. So, it can actually pull real SEO,",
+        "offset": 202600,
+        "duration": 5320
+      },
+      {
+        "lang": "en",
+        "text": "Google, and marketing data, which is",
+        "offset": 205920,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "super powerful for any marketer. Uh and",
+        "offset": 207920,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "rather than just like generating",
+        "offset": 210080,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "reports, it can actually build stuff. It",
+        "offset": 211600,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "can do stuff for you. And I'm going to",
+        "offset": 213760,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "show you why this matters a lot for",
+        "offset": 215280,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "YouTube in a bit. So, I'm going to walk",
+        "offset": 217480,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "you through the build now. So, it starts",
+        "offset": 219040,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "off, says that it understands what I",
+        "offset": 221360,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "want, and then it kind of asks me",
+        "offset": 223120,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "questions like Claude has planning mode,",
+        "offset": 225320,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "and it asks me about style. So, like how",
+        "offset": 227800,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "do I want it to look here? I just said",
+        "offset": 231200,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "that I wanted to have a generic",
+        "offset": 233320,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "placeholder, so do you want to upload",
+        "offset": 234320,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "like your brand logo and stuff? I don't",
+        "offset": 236160,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "really need that, not a huge deal.",
+        "offset": 238000,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "Um should you be able to delete stuff? I",
+        "offset": 240200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "said no, let's let's keep the history",
+        "offset": 242400,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "permanent so we can actually see the",
+        "offset": 244600,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "different um versions that we have,",
+        "offset": 245880,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "especially right now it generates three,",
+        "offset": 248040,
+        "duration": 3320
+      },
+      {
+        "lang": "en",
+        "text": "so let's say that I wanted to generate",
+        "offset": 250040,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "three times and I'd have nine thumbnails",
+        "offset": 251360,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "to look from. I can see them all side by",
+        "offset": 253400,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "side on one screen and actually decide",
+        "offset": 255400,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "what I want. And then there's just one",
+        "offset": 258560,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "other technical question here about um",
+        "offset": 259880,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Gemini. So it has all the answers that",
+        "offset": 262000,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "it needs, it goes through and it",
+        "offset": 263880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "actually starts building everything.",
+        "offset": 265720,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "Very similar to the way that Claude",
+        "offset": 267640,
+        "duration": 2600
+      },
+      {
+        "lang": "en",
+        "text": "works and it makes sense because we're",
+        "offset": 269000,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "using the Opus 4.7 model. Whole bunch of",
+        "offset": 270240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "different models that you can use here,",
+        "offset": 273280,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "there's actually a free one here, too. I",
+        "offset": 274720,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "haven't tried and it's basically just",
+        "offset": 276400,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "walking you through the thought process",
+        "offset": 278960,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "and everything that it's actually doing",
+        "offset": 281280,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "to build what it needs to do. Roughly 16",
+        "offset": 282840,
+        "duration": 6520
+      },
+      {
+        "lang": "en",
+        "text": "minutes to complete the build of this",
+        "offset": 285919,
+        "duration": 5721
+      },
+      {
+        "lang": "en",
+        "text": "thumbnail generator tool. And this app",
+        "offset": 289360,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "only cost me $3.29",
+        "offset": 291640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "to build. And so this is what we ended",
+        "offset": 294520,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "up with. You just enter a title, a",
+        "offset": 296200,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "description,",
+        "offset": 298000,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "you can upload an image if you want and",
+        "offset": 299320,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "then it'll actually build a thumbnail",
+        "offset": 300880,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "for you. So let's try to go into YouTube",
+        "offset": 302320,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "here.",
+        "offset": 304600,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "Um can we survive a one-star golf",
+        "offset": 305720,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "course? Okay?",
+        "offset": 308120,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "Build the thumbnail here. Can we survive",
+        "offset": 310080,
+        "duration": 6880
+      },
+      {
+        "lang": "en",
+        "text": "a one-star golf course?",
+        "offset": 313600,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "I love YouTube golf, by the way. I'm",
+        "offset": 316960,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "going to drag and drop an image of me",
+        "offset": 318320,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "here. Just use that same green screen",
+        "offset": 320600,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "one and it's actually really good at",
+        "offset": 322360,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "changing the expressions. It's pretty",
+        "offset": 324280,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "standard photo of me, right? Making like",
+        "offset": 326200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "a a no expression face, like",
+        "offset": 327960,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "right? Nothing crazy there, so I'm going",
+        "offset": 330600,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "to hit the generate thumbnail. Our",
+        "offset": 332320,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "original sample is right here.",
+        "offset": 334320,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "Yeah, you know, like these thumbnails",
+        "offset": 336840,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "are actually like quite decent, like",
+        "offset": 338520,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "I really like this thumbnail.",
+        "offset": 342080,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "Uh I would totally use this. Anyway, let",
+        "offset": 344200,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "me walk you through some of the YouTube",
+        "offset": 346440,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "best practices so you can see that it's",
+        "offset": 347720,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "using um contrasting colors, so the blue",
+        "offset": 349280,
+        "duration": 5560
+      },
+      {
+        "lang": "en",
+        "text": "and the green here. It has the hint of",
+        "offset": 352480,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "yellow here. One thing that a lot of",
+        "offset": 354840,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "people who create thumbnails do is they",
+        "offset": 357040,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "put too much inside the thumbnail. So,",
+        "offset": 358880,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "in the actual training document, it",
+        "offset": 361320,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "should limit it to only three focal",
+        "offset": 363440,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "points. So, if you look at these",
+        "offset": 365280,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "thumbnails,",
+        "offset": 366840,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "at least the first two, that's exactly",
+        "offset": 368240,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "what you get. So, you get me in all",
+        "offset": 369840,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "white, which contrasts from this color.",
+        "offset": 372440,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "You have the club here, and then you",
+        "offset": 374600,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "have the dirty course, like with long",
+        "offset": 376440,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "grass. Here, I actually really like this",
+        "offset": 378440,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "thumbnail. We have a bigger close-up",
+        "offset": 380600,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "photo of me",
+        "offset": 382600,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "pointing towards what? A golf cart",
+        "offset": 384000,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "that's sinking here. So, we have focal",
+        "offset": 386720,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "point one, focal point two, large or",
+        "offset": 388360,
+        "duration": 5320
+      },
+      {
+        "lang": "en",
+        "text": "really good contrasting colors here,",
+        "offset": 391520,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "short text. Some people put in way too",
+        "offset": 393680,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "much text. People aren't reading that.",
+        "offset": 395800,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "And so, this is basically how it works.",
+        "offset": 397919,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "It And if we go through the history,",
+        "offset": 400320,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "you're going to see some of those best",
+        "offset": 402640,
+        "duration": 2760
+      },
+      {
+        "lang": "en",
+        "text": "practices come into play here. Same",
+        "offset": 403720,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "thing here. We have one, two, three. For",
+        "offset": 405400,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "these ones here, uh do YouTube ads",
+        "offset": 408160,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "actually work? We made a video on this",
+        "offset": 410280,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "as well. And I actually really like this",
+        "offset": 411720,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "thumbnail here. It's really bright. So,",
+        "offset": 415040,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "using bright colors is good. Yeah, so",
+        "offset": 417160,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "that's basically it. But, I want to show",
+        "offset": 419000,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "you why I built this in Agent A rather",
+        "offset": 420280,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "than Claude or another tool. And so, if",
+        "offset": 422440,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "you remember before I said that I built",
+        "offset": 424960,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "in an Agent A because it has",
+        "offset": 427000,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "unrestricted access to Ahrefs data, and",
+        "offset": 428440,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "that's actually going to be super",
+        "offset": 430280,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "helpful for YouTube. So, what I did here",
+        "offset": 431360,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "was I asked it to find me three",
+        "offset": 433480,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "high-traffic keywords in the digital",
+        "offset": 435080,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "marketing niche, cuz that's where we",
+        "offset": 436960,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "are, where the YouTube videos are",
+        "offset": 438320,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "currently ranking on Google's first",
+        "offset": 440520,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "page. So, if you've been paying",
+        "offset": 443000,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "attention, there's YouTube videos pretty",
+        "offset": 444240,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "much in every single Google search",
+        "offset": 446280,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "results page. Um and if you can rank",
+        "offset": 448040,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "your videos there, then people are going",
+        "offset": 450600,
+        "duration": 2440
+      },
+      {
+        "lang": "en",
+        "text": "to click them and you're going to get",
+        "offset": 452160,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "more views doing that. So, it's",
+        "offset": 453040,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "basically video SEO plus YouTube SEO,",
+        "offset": 454720,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "and I'm asking Agent A to find me which",
+        "offset": 457440,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "keywords I should be ranking for in",
+        "offset": 460200,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "Google and in YouTube and then to",
+        "offset": 463320,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "provide me with with those keywords are.",
+        "offset": 465560,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "Give me working titles that I can use to",
+        "offset": 468360,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "rank for it. Give me the YouTube URLs",
+        "offset": 470320,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "that are ranking so I can actually see",
+        "offset": 472400,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "data on these videos.",
+        "offset": 474520,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "And then I want you to actually run it",
+        "offset": 476280,
+        "duration": 2480
+      },
+      {
+        "lang": "en",
+        "text": "through the thumbnail generator that we",
+        "offset": 477480,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "just created. And so",
+        "offset": 478760,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "this is what happened. Took my my query",
+        "offset": 480720,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "and it figured out exactly what to do in",
+        "offset": 483160,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "Ahrefs. So it went into keywords",
+        "offset": 485760,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "explorer and it found digital marketing",
+        "offset": 487360,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "keywords and then it pulled the SERP",
+        "offset": 489520,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "which are the search engine results",
+        "offset": 491480,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "pages. It's just a two to three working",
+        "offset": 492800,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "titles and and then it ran it through",
+        "offset": 495600,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "the thumbnail generator. So it's",
+        "offset": 497680,
+        "duration": 2680
+      },
+      {
+        "lang": "en",
+        "text": "basically creating that plan so I can",
+        "offset": 498680,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "see what it's doing. It goes in, it",
+        "offset": 500360,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "pulls all that data, bing bang boom,",
+        "offset": 502800,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "eventually it comes down to 5,197",
+        "offset": 505040,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "rows here,",
+        "offset": 508080,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "200 different keywords and it's just",
+        "offset": 509280,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "giving me three of them. So it says the",
+        "offset": 511720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "keyword is Facebook Ads Library, search",
+        "offset": 513080,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "volume of this,",
+        "offset": 515880,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "keyword difficulty of this, potential",
+        "offset": 517240,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "traffic of this, which I would say is an",
+        "offset": 519159,
+        "duration": 4361
+      },
+      {
+        "lang": "en",
+        "text": "overestimation. It tells you the intent",
+        "offset": 521200,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "of it which is informational which means",
+        "offset": 523520,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "that we can create a YouTube video on",
+        "offset": 525240,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "this and it says that the existing",
+        "offset": 527080,
+        "duration": 4759
+      },
+      {
+        "lang": "en",
+        "text": "number eight video gets roughly 328",
+        "offset": 528760,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "visits per month to that video. So let's",
+        "offset": 531839,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "see here.",
+        "offset": 534520,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "We can actually click that video",
+        "offset": 535680,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "and you can see right here",
+        "offset": 537920,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "the views to this video. It was",
+        "offset": 540160,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "published a year ago and this is the",
+        "offset": 541640,
+        "duration": 6440
+      },
+      {
+        "lang": "en",
+        "text": "graph of a video that gets search",
+        "offset": 545200,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "traffic. It's passive, it's consistent,",
+        "offset": 548080,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "and it continues to grow even though the",
+        "offset": 551080,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "video was published a year ago. That's",
+        "offset": 553320,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "not how YouTube works for anyone who's,",
+        "offset": 555160,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "you know, getting views through browser",
+        "offset": 557320,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "suggested. This is very much a search",
+        "offset": 558680,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "based videos. That's affirmation for me.",
+        "offset": 561200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "So check this out. Um it gives me",
+        "offset": 563040,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "working titles to consider. So I spied",
+        "offset": 565200,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "on the top brands and you know, you can",
+        "offset": 567000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "just say like how you can just change",
+        "offset": 568760,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "this in and create the same video. How",
+        "offset": 570200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "to use Facebook Ads Library to find",
+        "offset": 572400,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "winning ads. Like you can create the",
+        "offset": 574360,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "same video. You can create both if you",
+        "offset": 576560,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "want. Um but yeah, it gives me this this",
+        "offset": 578160,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "title here, Facebook Ads Library, which",
+        "offset": 581040,
+        "duration": 3320
+      },
+      {
+        "lang": "en",
+        "text": "is more likely to rank. It's like a",
+        "offset": 583000,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "hybrid between search and browse. If we",
+        "offset": 584360,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "wanted to, we could have adjusted the",
+        "offset": 586520,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "prompt to say that we want",
+        "offset": 588840,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "search-focused titles if that's strictly",
+        "offset": 590320,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "what we're going for. The next one that",
+        "offset": 592520,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "it came up with is email marketing",
+        "offset": 594520,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "services. Right? We have some titles",
+        "offset": 596120,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "here like I tested 26 email marketing",
+        "offset": 598600,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "tools. We can call it email marketing",
+        "offset": 600960,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "services if you want to go verbatim. Uh",
+        "offset": 603240,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "and it comes up with these different",
+        "offset": 605440,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "thumbnail ideas, right? How to start",
+        "offset": 606440,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "affiliate marketing. It shows you all",
+        "offset": 608160,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "the search data here. And then it shows",
+        "offset": 609600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "you different titles. And then it says,",
+        "offset": 611600,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "\"To view or download the actual",
+        "offset": 613360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "generated thumbnails, open the history",
+        "offset": 614960,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "tab in the thumbnail generator panel.\"",
+        "offset": 616960,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "And we can see the three that were",
+        "offset": 619280,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "generated here. So, this is actually a",
+        "offset": 620600,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "decent thumbnail for what it is. So,",
+        "offset": 622800,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "let's say I wanted to download this one.",
+        "offset": 625160,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "I can send this to my thumbnail",
+        "offset": 627000,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "designer, and he can go out, use his",
+        "offset": 628640,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "essence inspiration. I can say this is",
+        "offset": 631520,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "generally what I want, but I want to",
+        "offset": 633360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "change the text to this or that. And you",
+        "offset": 634640,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "can actually make adjustments directly",
+        "offset": 636960,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "in the chat. So, let's say that I don't",
+        "offset": 639040,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "like the way that the tool is, or",
+        "offset": 641200,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "there's a feature that I want to add to",
+        "offset": 642560,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "it. Then I can just type in the chat",
+        "offset": 644040,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "exactly what I want, and Agent A will go",
+        "offset": 646280,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "and make those adjustments. Now, if you",
+        "offset": 648360,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "want this exact thumbnail generator, you",
+        "offset": 650280,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "can build it yourself using the steps",
+        "offset": 652120,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "and prompts that I just walk you",
+        "offset": 653880,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "through. Or if you've got an Agent A",
+        "offset": 655280,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "workspace, you can actually just",
+        "offset": 657040,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "download it by clicking on apps, click",
+        "offset": 658480,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "on install beside thumbnail generator,",
+        "offset": 660720,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "and it'll be in your workspace. And if",
+        "offset": 662720,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "there's anything that you want me to",
+        "offset": 664160,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "build for you, just tell me in the",
+        "offset": 665440,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "comments below.",
+        "offset": 666880,
+        "duration": 2760
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}

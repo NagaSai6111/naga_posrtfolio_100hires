@@ -1,0 +1,1928 @@
+{
+  "video_id": "rGdR1KC6O2s",
+  "url": "https://www.youtube.com/watch?v=rGdR1KC6O2s",
+  "title": "I Used AI Agents to Replace Our Marketing Agency",
+  "upload_date": "2026-06-10T05:00:09-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T14:05:49+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "At some point, every marketer pays an",
+        "offset": 0,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "agency to do something they know they",
+        "offset": 1840,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "could do better themselves. I hired one",
+        "offset": 3680,
+        "duration": 4920
+      },
+      {
+        "lang": "en",
+        "text": "for outreach. They sent 100 emails, got",
+        "offset": 5800,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "three replies, and two of those were",
+        "offset": 8600,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "people asking us to stop emailing them.",
+        "offset": 11040,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "The problem wasn't just the results. It",
+        "offset": 13880,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "was the weeks of waiting, the wrong",
+        "offset": 16000,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "people getting targeted, emails that",
+        "offset": 17920,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "clearly weren't written by anyone who",
+        "offset": 19960,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "understood what we actually do.",
+        "offset": 22120,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "But AI has changed what's possible here.",
+        "offset": 25080,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "It doesn't get tired, it doesn't cut",
+        "offset": 27560,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "corners, and unlike humans, I can speak",
+        "offset": 29280,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "freely without hurting its feelings. So",
+        "offset": 32279,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "I'm building a fully autonomous agent",
+        "offset": 34800,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "pipeline that prospects, vets, and",
+        "offset": 36520,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "writes personalized emails to complete",
+        "offset": 38960,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "strangers convincing them to tell me",
+        "offset": 41160,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "their greatest [music] marketing",
+        "offset": 43440,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "secrets. And if this fails, then I",
+        "offset": 44640,
+        "duration": 4485
+      },
+      {
+        "lang": "en",
+        "text": "wasted my time and we're back to paying",
+        "offset": 47240,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "[music] thousands for outreach that",
+        "offset": 49125,
+        "duration": 4035
+      },
+      {
+        "lang": "en",
+        "text": "barely works. But before I could build",
+        "offset": 50960,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "anything, I needed to figure out what I",
+        "offset": 53160,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "was actually going [music] to build it",
+        "offset": 55000,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "in. I narrowed it down to three options:",
+        "offset": 56400,
+        "duration": 5960
+      },
+      {
+        "lang": "en",
+        "text": "N8N, Claude, or Open Claude.",
+        "offset": 59280,
+        "duration": 6280
+      },
+      {
+        "lang": "en",
+        "text": "N8N I ruled out pretty fast. So it kind",
+        "offset": 62360,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "of just feels like Zapier, like you're",
+        "offset": 65560,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "just dragging and dropping steps into a",
+        "offset": 67640,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "visual workflow. Like it's cool, [music]",
+        "offset": 69600,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "but it doesn't really feel like I'm",
+        "offset": 71880,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "doing anything AI native. That left me",
+        "offset": 73920,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "with Claude and Open Claude. They're",
+        "offset": 76360,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "both really good options, but I like how",
+        "offset": 78480,
+        "duration": 4705
+      },
+      {
+        "lang": "en",
+        "text": "with Open Claude I'm not tied down",
+        "offset": 81160,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "[music] to one model. If I want to",
+        "offset": 83185,
+        "duration": 3855
+      },
+      {
+        "lang": "en",
+        "text": "generate images with these emails, then",
+        "offset": 84960,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "I can easily plug [music] in Nano",
+        "offset": 87040,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "Banana. And so it's just a lot more",
+        "offset": 88920,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "flexible. But what sealed the deal for",
+        "offset": 90920,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "me was something pretty simple. Open",
+        "offset": 92880,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "Claude can run through Slack.",
+        "offset": 95400,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "Okay, so I'm on Slack like all day and",
+        "offset": 97960,
+        "duration": 2911
+      },
+      {
+        "lang": "en",
+        "text": "there's just something about working",
+        "offset": 99680,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "[music] inside the tool that you're",
+        "offset": 100871,
+        "duration": 3649
+      },
+      {
+        "lang": "en",
+        "text": "already doing work in that makes it feel",
+        "offset": 102960,
+        "duration": 3151
+      },
+      {
+        "lang": "en",
+        "text": "so much more real and productive.",
+        "offset": 104520,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "[music] If I do it in Claude, I'd have",
+        "offset": 106111,
+        "duration": 4009
+      },
+      {
+        "lang": "en",
+        "text": "something like this super complex",
+        "offset": 108280,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "agentic workflow, and then here, what do",
+        "offset": 110120,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "I have? I have a recipe and then like",
+        "offset": 112640,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "symptoms of stomach pains [music] or",
+        "offset": 114840,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "something below that, it just feels kind",
+        "offset": 117160,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "of weird. So, with Open Claw installed,",
+        "offset": 118960,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "locked [music] and loaded, it was time",
+        "offset": 121520,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "to actually build the thing. And it all",
+        "offset": 123400,
+        "duration": 5400
+      },
+      {
+        "lang": "en",
+        "text": "starts by giving a system taste. The",
+        "offset": 125720,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "thing with AI content is that it all",
+        "offset": 128800,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "kind of just sounds the same. And if I",
+        "offset": 130920,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "just let it loose on outreach, it's",
+        "offset": 132800,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "going to feel like spam for the people",
+        "offset": 135480,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "who are getting these emails. So, the",
+        "offset": 136920,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "voice, the taste, [music]",
+        "offset": 139080,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "the judgment, that has to come from me.",
+        "offset": 140920,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "The point of creating this, it's not",
+        "offset": 143920,
+        "duration": 4766
+      },
+      {
+        "lang": "en",
+        "text": "just to have AI do the actual work, it's",
+        "offset": 145680,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "[music] for AI to do it the way that I",
+        "offset": 148686,
+        "duration": 5714
+      },
+      {
+        "lang": "en",
+        "text": "would do it without me doing it. Do it!",
+        "offset": 150800,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "Okay, so here's the plan. I need a",
+        "offset": 154400,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "project manager first. I'm going to call",
+        "offset": 156040,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "it the campaign coordinator. Then we've",
+        "offset": 157640,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "got three specialist agents underneath,",
+        "offset": 159440,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "a prospector, a vetter, and a",
+        "offset": 161680,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "copywriter. The ones actually doing the",
+        "offset": 163640,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "grunt work. And to make sure the project",
+        "offset": 165640,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "goes how I'd actually do it, the",
+        "offset": 167320,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "coordinator's [music] going to interview",
+        "offset": 169920,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "me. Like, to the point where it's asking",
+        "offset": 171320,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "me an annoying amount of questions until",
+        "offset": 173560,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "we're [music] completely aligned. And if",
+        "offset": 176120,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "it works the way that I'm envisioning,",
+        "offset": 177680,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "it's basically foolproof.",
+        "offset": 180760,
+        "duration": 3479
+      },
+      {
+        "lang": "en",
+        "text": "To create this interview, I needed to",
+        "offset": 182760,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "make a markdown file for the campaign",
+        "offset": 184239,
+        "duration": 3748
+      },
+      {
+        "lang": "en",
+        "text": "coordinator, which is basically text",
+        "offset": 186160,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "[music] instructions that tells the",
+        "offset": 187987,
+        "duration": 4093
+      },
+      {
+        "lang": "en",
+        "text": "agent how to do its job. I used Claude",
+        "offset": 189320,
+        "duration": 3907
+      },
+      {
+        "lang": "en",
+        "text": "to generate this file.",
+        "offset": 192080,
+        "duration": 1480
+      },
+      {
+        "lang": "en",
+        "text": ">> [music]",
+        "offset": 193227,
+        "duration": 1732
+      },
+      {
+        "lang": "en",
+        "text": ">> Then I repeated the process for the",
+        "offset": 193560,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "prospect, the vetter, and the",
+        "offset": 194959,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "copywriter. And when I went to review",
+        "offset": 196360,
+        "duration": 5320
+      },
+      {
+        "lang": "en",
+        "text": "the files, something was clearly off.",
+        "offset": 198239,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "What the heck?",
+        "offset": 201680,
+        "duration": 3559
+      },
+      {
+        "lang": "en",
+        "text": "After tons of review, I don't know what",
+        "offset": 203440,
+        "duration": 3079
+      },
+      {
+        "lang": "en",
+        "text": "that means.",
+        "offset": 205239,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "multiple fixes, Give me a bullet point",
+        "offset": 206519,
+        "duration": 6281
+      },
+      {
+        "lang": "en",
+        "text": "list of all the fixes [music] required.",
+        "offset": 209560,
+        "duration": 6600
+      },
+      {
+        "lang": "en",
+        "text": "There's too many.",
+        "offset": 212800,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "And another solid hour of work,",
+        "offset": 216160,
+        "duration": 5640
+      },
+      {
+        "lang": "en",
+        "text": "corrupted file. Regenerate it. We got it",
+        "offset": 218400,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "to a good place. Okay, so now it's",
+        "offset": 221800,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "generating the instructions for my main",
+        "offset": 223920,
+        "duration": 5400
+      },
+      {
+        "lang": "en",
+        "text": "agent Abot. Now we get to actually test",
+        "offset": 226640,
+        "duration": 5319
+      },
+      {
+        "lang": "en",
+        "text": "this out. I'm pumped. It was time to",
+        "offset": 229320,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "find out if this thing actually works. I",
+        "offset": 231959,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "opened Slack and prompted my Slack bot",
+        "offset": 234280,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "to kick off the campaign.",
+        "offset": 236280,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "Come on, do it.",
+        "offset": 238480,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "Do it. Start asking [music] me questions",
+        "offset": 240160,
+        "duration": 5640
+      },
+      {
+        "lang": "en",
+        "text": "from the ICP interview.",
+        "offset": 242560,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "Success.",
+        "offset": 247600,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "This is sick. Okay, I hope this works",
+        "offset": 249640,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "now. This is the easy part. So, I went",
+        "offset": 251680,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "off to answer the questions from the ICP",
+        "offset": 253680,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "interview starting with why I'm even",
+        "offset": 255480,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "doing outreach. We're launching a new",
+        "offset": 257400,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "video series called Traffic Hunters",
+        "offset": 259400,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "where I sit down with founders and",
+        "offset": 261239,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "marketers who've gotten exceptional",
+        "offset": 262640,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "results using digital [music] marketing",
+        "offset": 264360,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "and I asked them to share their juiciest",
+        "offset": 266360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "secrets. For this outreach campaign to",
+        "offset": 268240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "be successful, I need to book at least",
+        "offset": 270360,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "five meetings. Now, all I had to do was",
+        "offset": 272880,
+        "duration": 6200
+      },
+      {
+        "lang": "en",
+        "text": "tell OpenClaw the ideal guest profile.",
+        "offset": 275960,
+        "duration": 6560
+      },
+      {
+        "lang": "en",
+        "text": "I think a good fit are websites that are",
+        "offset": 279080,
+        "duration": 6200
+      },
+      {
+        "lang": "en",
+        "text": "ideally not super authoritative and that",
+        "offset": 282520,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "they have significant search [music]",
+        "offset": 285280,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "traffic. Still going through the",
+        "offset": 287120,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "questionnaire. I don't know how long",
+        "offset": 288960,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "this is going to take. If [music] it",
+        "offset": 290480,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "works, it's all worth it. A few more",
+        "offset": 291600,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "questions on vetting criteria and",
+        "offset": 293400,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "personalized templates and bing bang",
+        "offset": 295320,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "boom, we were done. All right, so here",
+        "offset": 297360,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "we go. Perfect. Let me draft the",
+        "offset": 299760,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "template based on what you've described.",
+        "offset": 301080,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "That's decent email.",
+        "offset": 303040,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "Done. That's a wrap. With the campaign",
+        "offset": 305520,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "brief completely filled out, it was time",
+        "offset": 308040,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "for the moment of truth. Is the campaign",
+        "offset": 309880,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "coordinator going to spawn the",
+        "offset": 312440,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "prospector?",
+        "offset": 314200,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "All right, come on.",
+        "offset": 315640,
+        "duration": 5560
+      },
+      {
+        "lang": "en",
+        "text": "Come on. Please work. Please.",
+        "offset": 317480,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "Man, this would be so dope if it",
+        "offset": 321200,
+        "duration": 3719
+      },
+      {
+        "lang": "en",
+        "text": "actually works. Oh, and I forgot to",
+        "offset": 322720,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "mention I built a dashboard so I could",
+        "offset": 324919,
+        "duration": 3801
+      },
+      {
+        "lang": "en",
+        "text": "track everything that was being done.",
+        "offset": 326680,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "Nothing yet.",
+        "offset": 328720,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "Oh, jeez, it's working. Okay, so let me",
+        "offset": 330560,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "walk you through everything that is",
+        "offset": 333480,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "happening right now. We have the",
+        "offset": 335280,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "prospector that's going in and looking",
+        "offset": 337160,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "for for contacts using the Intros MCP",
+        "offset": 339960,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "server. The campaign coordinator created",
+        "offset": 342120,
+        "duration": 6200
+      },
+      {
+        "lang": "en",
+        "text": "this outreach campaign here basically",
+        "offset": 345680,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "saying that we're looking for 200",
+        "offset": 348320,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "prospects. We have the vetter, the",
+        "offset": 349640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "copywriter, the drafter, [music] and as",
+        "offset": 351480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "they go, they're supposed to check the",
+        "offset": 354200,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "different items that happen. And then we",
+        "offset": 355480,
+        "duration": 2680
+      },
+      {
+        "lang": "en",
+        "text": "have [music]",
+        "offset": 357600,
+        "duration": 2200
+      },
+      {
+        "lang": "en",
+        "text": "the actual outreach tool that was",
+        "offset": 358160,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "created. So, in the settings, they had",
+        "offset": 359800,
+        "duration": 5320
+      },
+      {
+        "lang": "en",
+        "text": "contact title priorities, [music] and",
+        "offset": 363400,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "it's going to look for people with those",
+        "offset": 365120,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "titles basically as a first contact",
+        "offset": 366240,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "point. And then we have our template,",
+        "offset": 368000,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "which was generated and approved in",
+        "offset": 370480,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "Slack, and now we're at the point of",
+        "offset": 372360,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "adding prospects. I click back to check",
+        "offset": 375040,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "on the campaign, and nothing could have",
+        "offset": 377360,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "prepared me for what I was about to see.",
+        "offset": 379040,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "Oh, jeez. It's adding prospects. Oh my",
+        "offset": 381520,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "gosh. Vacuum Wars, man, that sounds like",
+        "offset": 384120,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "a cool niche. Holy crap, they've had",
+        "offset": 386760,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "some serious traffic growth. Oh, and",
+        "offset": 388840,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "then it's going down. We're almost at",
+        "offset": 390840,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "the end here of the prospector.",
+        "offset": 392880,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "Let's see if it actually marks [music]",
+        "offset": 395560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "the task as done.",
+        "offset": 397400,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "Yes, it's done. Sick. Found 200",
+        "offset": 399720,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "prospects. [music]",
+        "offset": 402600,
+        "duration": 2760
+      },
+      {
+        "lang": "en",
+        "text": "Let's see if it sent the message in",
+        "offset": 403800,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Slack.",
+        "offset": 405360,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "Nice, prospecting's done. I found 165",
+        "offset": 407240,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "solid prospects across food, travel, and",
+        "offset": 409600,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "fitness, and sports niches, all enriched",
+        "offset": 411960,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "with Ahrefs metrics. 124 have emails, 89",
+        "offset": 414040,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "have named contacts ready for freaking",
+        "offset": 417240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "vetting.",
+        "offset": 420520,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "Yes.",
+        "offset": 421720,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "Then the campaign coordinator spawned",
+        "offset": 423320,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "the vetter, and that's when things",
+        "offset": 424800,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "started to unravel. The vetter's done",
+        "offset": 426400,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "apparently, and there's no way this is",
+        "offset": 428680,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "right. The vetter had disqualified",
+        "offset": 431000,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "almost every single prospect, including",
+        "offset": 432720,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "sites with clear consistent traffic",
+        "offset": 435120,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "growth. This is growing traffic. How is",
+        "offset": 437080,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "that declining? So, we need to find out",
+        "offset": 439200,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "what happened here and fix the vetter in",
+        "offset": 440960,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "the way that it's looking at traffic.",
+        "offset": 443680,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "After some debugging, we found the",
+        "offset": 446880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "problem. The traffic slope field in the",
+        "offset": 448520,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "enrichment data is calculating",
+        "offset": 450720,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "incorrectly. It's showing negative",
+        "offset": 452040,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "values for sites [music] that actually",
+        "offset": 453960,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "have massive growth. Looking at your",
+        "offset": 455200,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "screenshot example and the raw data,",
+        "offset": 456800,
+        "duration": 4119
+      },
+      {
+        "lang": "en",
+        "text": "prospects with clear 5-year growth are",
+        "offset": 459080,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "showing negative slopes and are getting",
+        "offset": 460919,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "disqualified.",
+        "offset": 462520,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Okay, so it's a it's a bug in the",
+        "offset": 464120,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "software.",
+        "offset": 465960,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "Bug in the tool.",
+        "offset": 467360,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "Fix the core issue",
+        "offset": 469680,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "now.",
+        "offset": 472360,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "More hours of debugging and finally I",
+        "offset": 473520,
+        "duration": 3325
+      },
+      {
+        "lang": "en",
+        "text": "think",
+        "offset": 476440,
+        "duration": 520
+      },
+      {
+        "lang": "en",
+        "text": ">> [music]",
+        "offset": 476845,
+        "duration": 1755
+      },
+      {
+        "lang": "en",
+        "text": ">> things are better now. So basically it",
+        "offset": 476960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "said this is a permanent fix. There's",
+        "offset": 478600,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "102 qualified now and 63 disqualified,",
+        "offset": 480960,
+        "duration": 6760
+      },
+      {
+        "lang": "en",
+        "text": "zero flagged. Sweet. I think it's doing",
+        "offset": 485080,
+        "duration": 4865
+      },
+      {
+        "lang": "en",
+        "text": "it properly. Moment of truth. All right,",
+        "offset": 487720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "[music] let's refresh.",
+        "offset": 489945,
+        "duration": 4055
+      },
+      {
+        "lang": "en",
+        "text": "Oh my gosh, I think it's actually",
+        "offset": 492360,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "working.",
+        "offset": 494000,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Yeah, that's a growing traffic trend.",
+        "offset": 495280,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "The tool got it right. All right, so I'm",
+        "offset": 497440,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "going to go and I'm going to run the",
+        "offset": 499600,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "copywriter one last time which is kind",
+        "offset": 500560,
+        "duration": 6640
+      },
+      {
+        "lang": "en",
+        "text": "of our final test. We were almost done.",
+        "offset": 502600,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "Oh my gosh.",
+        "offset": 507880,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "Sweet. Wait, why is it doing that",
+        "offset": 509160,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "though?",
+        "offset": 510840,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "NO!",
+        "offset": 511880,
+        "duration": 3719
+      },
+      {
+        "lang": "en",
+        "text": "It's not actually merging the freaking",
+        "offset": 513840,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "things there.",
+        "offset": 515599,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "Oh my goodness.",
+        "offset": 517080,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "That's a a big problem and this is why",
+        "offset": 518599,
+        "duration": 5481
+      },
+      {
+        "lang": "en",
+        "text": "we don't automatically send emails for",
+        "offset": 521200,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "that very reason. Yeah, it screwed up",
+        "offset": 524080,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "royally on",
+        "offset": 526960,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "my drafts here.",
+        "offset": 529600,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "All right, so a sub agent's gone and",
+        "offset": 532040,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "working on all the fixes. So now I'm",
+        "offset": 533520,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "just debugging.",
+        "offset": 534960,
+        "duration": 3879
+      },
+      {
+        "lang": "en",
+        "text": "It's waiting game now. All right, let's",
+        "offset": 536400,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "watch it do its thing.",
+        "offset": 538839,
+        "duration": 3321
+      },
+      {
+        "lang": "en",
+        "text": "There's six tasks. I want to drain six",
+        "offset": 540360,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "pots before those six tasks are done.",
+        "offset": 542160,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "But before we find out who wins, let me",
+        "offset": 544839,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "tell you about the irony of this whole",
+        "offset": 546640,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "project. Well, okay, we're one for one.",
+        "offset": 548040,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "I spent days building a custom agent",
+        "offset": 550920,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "pipeline to do prospecting, vetting, and",
+        "offset": 552839,
+        "duration": 4441
+      },
+      {
+        "lang": "en",
+        "text": "outreach. And the entire [music] time",
+        "offset": 555000,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "Ahrefs has been cooking up Agent A which",
+        "offset": 557280,
+        "duration": 5426
+      },
+      {
+        "lang": "en",
+        "text": "can do all of this natively. [music]",
+        "offset": 559600,
+        "duration": 3106
+      },
+      {
+        "lang": "en",
+        "text": "Oh, not a chance AI. That was perfect.",
+        "offset": 563120,
+        "duration": 4116
+      },
+      {
+        "lang": "en",
+        "text": "It's an AI marketer with unrestricted",
+        "offset": 565480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "[music] access to every Ahrefs metric.",
+        "offset": 567236,
+        "duration": 4444
+      },
+      {
+        "lang": "en",
+        "text": "Prospecting, done. Vetting traffic",
+        "offset": 569480,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "trends, done. Connecting to my custom",
+        "offset": 571680,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "outreach tool, yeah, it can do that too.",
+        "offset": 573960,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "Done game.",
+        "offset": 577560,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "Oh, no it's not. Shoot. Shoot, it's at",
+        "offset": 579040,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "five tasks. [music] So, if you want the",
+        "offset": 580920,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "version of this that doesn't require six",
+        "offset": 582320,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "hours of fixing slope calculations,",
+        "offset": 584360,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "link's in the description. All right,",
+        "offset": 586800,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "final putt. Six fixes.",
+        "offset": 588800,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "Let's freaking go.",
+        "offset": 591400,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "I got it.",
+        "offset": 593640,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "AI can fix six issues with my outreach",
+        "offset": 596240,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "system",
+        "offset": 599000,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "almost in the same time as I can drain",
+        "offset": 600360,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "six putts from like eight feet away.",
+        "offset": 602040,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "That's wild. With everything finally",
+        "offset": 604120,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "working, there was only one thing left",
+        "offset": 606240,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "to do, [music] run the whole pipeline",
+        "offset": 608160,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "autonomously. But, I had an early",
+        "offset": 610200,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "morning flight to catch. So, I packed",
+        "offset": 612280,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "things up and the next morning I would",
+        "offset": 613960,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "put everything I worked towards to the",
+        "offset": 616280,
+        "duration": 4067
+      },
+      {
+        "lang": "en",
+        "text": "test. [music]",
+        "offset": 618120,
+        "duration": 2227
+      },
+      {
+        "lang": "en",
+        "text": "Okay, so I got to catch a flight in like",
+        "offset": 620840,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "40 minutes and I'm about to try to run",
+        "offset": 622840,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "this in full autonomous mode. I don't",
+        "offset": 624680,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "know if it's going to work or not. Let's",
+        "offset": 626520,
+        "duration": 5800
+      },
+      {
+        "lang": "en",
+        "text": "flipping go. All right.",
+        "offset": 629640,
+        "duration": 6680
+      },
+      {
+        "lang": "en",
+        "text": "Autonomous mode activated.",
+        "offset": 632320,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Prospector spawned.",
+        "offset": 637600,
+        "duration": 5400
+      },
+      {
+        "lang": "en",
+        "text": "Okay, we're starting to add people.",
+        "offset": 640560,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "Done, done. Oh, no way. Prospects",
+        "offset": 643000,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "started to roll in. Time was up. I had",
+        "offset": 645200,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "to run, literally. But, by the time I",
+        "offset": 648000,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "got to my gate, the results were in.",
+        "offset": 650680,
+        "duration": 6240
+      },
+      {
+        "lang": "en",
+        "text": "74 drafts, all there waiting. [music]",
+        "offset": 653720,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "The next day I started sending.",
+        "offset": 656920,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "Honestly, I wasn't expecting much.",
+        "offset": 659080,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "I was wrong.",
+        "offset": 662680,
+        "duration": 3159
+      },
+      {
+        "lang": "en",
+        "text": "I'm still in the middle of sending these",
+        "offset": 664320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "emails. Got 25 left and we've got like",
+        "offset": 665839,
+        "duration": 5721
+      },
+      {
+        "lang": "en",
+        "text": "seven replies. This is insane. From 54",
+        "offset": 668480,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "emails sent, we got 11 replies and",
+        "offset": 671560,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "booked seven meetings, exceeding our",
+        "offset": 673600,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "original goal. But, did these founders",
+        "offset": 675480,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "actually meet with us and hand over",
+        "offset": 677920,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "their greatest marketing secrets?",
+        "offset": 679880,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "Subscribe. [music]",
+        "offset": 682080,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "You won't want to miss this.",
+        "offset": 683160,
+        "duration": 3160
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}
