@@ -296,14 +296,117 @@ def rss_channel_videos(channel_id: str, limit: int) -> list[VideoSeed]:
     return seeds
 
 
+def extract_json_object_after_marker(text: str, marker: str) -> dict[str, Any]:
+    marker_index = text.find(marker)
+    if marker_index == -1:
+        raise ValueError(f"Marker not found: {marker}")
+
+    start = text.find("{", marker_index)
+    if start == -1:
+        raise ValueError(f"JSON object not found after marker: {marker}")
+
+    depth = 0
+    in_string = False
+    escape = False
+    for index in range(start, len(text)):
+        char = text[index]
+        if in_string:
+            if escape:
+                escape = False
+            elif char == "\\":
+                escape = True
+            elif char == '"':
+                in_string = False
+            continue
+
+        if char == '"':
+            in_string = True
+        elif char == "{":
+            depth += 1
+        elif char == "}":
+            depth -= 1
+            if depth == 0:
+                return json.loads(text[start : index + 1])
+
+    raise ValueError(f"JSON object did not close after marker: {marker}")
+
+
+def add_query_param(url: str, key: str, value: str) -> str:
+    parsed = urllib.parse.urlparse(url)
+    query = urllib.parse.parse_qs(parsed.query)
+    query[key] = [value]
+    return urllib.parse.urlunparse(
+        parsed._replace(query=urllib.parse.urlencode(query, doseq=True))
+    )
+
+
+def choose_caption_track(caption_tracks: list[dict[str, Any]], lang: str) -> dict[str, Any]:
+    if not caption_tracks:
+        raise RuntimeError("No caption tracks are available for this video.")
+
+    normalized = lang.lower()
+    for track in caption_tracks:
+        language_code = str(track.get("languageCode", "")).lower()
+        if language_code == normalized:
+            return track
+    for track in caption_tracks:
+        language_code = str(track.get("languageCode", "")).lower()
+        if language_code.startswith(normalized):
+            return track
+    for track in caption_tracks:
+        language_code = str(track.get("languageCode", "")).lower()
+        if language_code.startswith(normalized.split("-")[0]):
+            return track
+    return caption_tracks[0]
+
+
+def fetch_timedtext_transcript(seed: VideoSeed, *, lang: str) -> dict[str, Any]:
+    page = fetch_text(seed.url, timeout=45)
+    player_response = extract_json_object_after_marker(page, "ytInitialPlayerResponse")
+    tracklist = (
+        player_response.get("captions", {})
+        .get("playerCaptionsTracklistRenderer", {})
+        .get("captionTracks", [])
+    )
+    track = choose_caption_track(tracklist, lang)
+    base_url = track.get("baseUrl")
+    if not base_url:
+        raise RuntimeError("Caption track did not include a baseUrl.")
+
+    transcript_url = add_query_param(html.unescape(base_url), "fmt", "json3")
+    transcript_json = json.loads(fetch_text(transcript_url, timeout=45))
+    content: list[dict[str, Any]] = []
+    for event in transcript_json.get("events", []):
+        segs = event.get("segs") or []
+        text_value = "".join(str(seg.get("utf8", "")) for seg in segs).strip()
+        if not text_value:
+            continue
+        content.append(
+            {
+                "text": html.unescape(text_value),
+                "offset": int(event.get("tStartMs", 0)),
+                "duration": int(event.get("dDurationMs", 0)),
+                "lang": track.get("languageCode", lang),
+            }
+        )
+
+    if not content:
+        raise RuntimeError("Caption track was found, but no transcript text was returned.")
+
+    return {
+        "content": content,
+        "lang": track.get("languageCode", lang),
+        "availableLangs": [
+            str(item.get("languageCode", "")) for item in tracklist if item.get("languageCode")
+        ],
+    }
+
+
 def fetch_free_transcript(seed: VideoSeed, *, lang: str) -> dict[str, Any]:
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
-    except ImportError as exc:
-        raise RuntimeError(
-            "Install the free transcript dependency first: "
-            "python -m pip install -r scripts/requirements.txt"
-        ) from exc
+    except ImportError:
+        return fetch_timedtext_transcript(seed, lang=lang)
 
     api = YouTubeTranscriptApi()
     try:
@@ -337,6 +440,8 @@ def fetch_free_transcript(seed: VideoSeed, *, lang: str) -> dict[str, Any]:
             "lang": lang,
             "availableLangs": [lang],
         }
+    except Exception:
+        return fetch_timedtext_transcript(seed, lang=lang)
 
 
 def transcript_to_text(content: Any) -> str:

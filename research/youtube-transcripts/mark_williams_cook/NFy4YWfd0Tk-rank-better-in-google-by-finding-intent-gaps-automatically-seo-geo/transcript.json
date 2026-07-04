@@ -1,0 +1,218 @@
+{
+  "video_id": "NFy4YWfd0Tk",
+  "url": "https://www.youtube.com/watch?v=NFy4YWfd0Tk",
+  "title": "Rank better in Google by finding intent gaps automatically #seo #geo",
+  "upload_date": "2026-06-17T02:48:07-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T11:45:58+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "text": "I made a free tool that's proven to",
+        "offset": 0,
+        "duration": 3200,
+        "lang": "en"
+      },
+      {
+        "text": "improve your search visibility by using",
+        "offset": 1520,
+        "duration": 3160,
+        "lang": "en"
+      },
+      {
+        "text": "Google's own data to tell you what",
+        "offset": 3200,
+        "duration": 3200,
+        "lang": "en"
+      },
+      {
+        "text": "questions it expects you to answer.",
+        "offset": 4680,
+        "duration": 2720,
+        "lang": "en"
+      },
+      {
+        "text": ">> All you need to do is head to",
+        "offset": 6400,
+        "duration": 3920,
+        "lang": "en"
+      },
+      {
+        "text": "intentgaps.com, enter the URL of your",
+        "offset": 7400,
+        "duration": 4360,
+        "lang": "en"
+      },
+      {
+        "text": "content you'd like to analyze, then",
+        "offset": 10320,
+        "duration": 3360,
+        "lang": "en"
+      },
+      {
+        "text": "press fetch page, and the tool will go",
+        "offset": 11760,
+        "duration": 3680,
+        "lang": "en"
+      },
+      {
+        "text": "off and scrape your page. It will then",
+        "offset": 13680,
+        "duration": 3640,
+        "lang": "en"
+      },
+      {
+        "text": "analyze the page and choose the page",
+        "offset": 15440,
+        "duration": 3080,
+        "lang": "en"
+      },
+      {
+        "text": "topic, which you can edit if you're not",
+        "offset": 17320,
+        "duration": 2600,
+        "lang": "en"
+      },
+      {
+        "text": "happy. You can also set a country and",
+        "offset": 18520,
+        "duration": 3480,
+        "lang": "en"
+      },
+      {
+        "text": "language location. Press find content",
+        "offset": 19920,
+        "duration": 3480,
+        "lang": "en"
+      },
+      {
+        "text": "gaps, and in the background, it will be",
+        "offset": 22000,
+        "duration": 3160,
+        "lang": "en"
+      },
+      {
+        "text": "using the also asked API to find the",
+        "offset": 23400,
+        "duration": 3840,
+        "lang": "en"
+      },
+      {
+        "text": "nearest proximity questions. All of",
+        "offset": 25160,
+        "duration": 3360,
+        "lang": "en"
+      },
+      {
+        "text": "these will be provided for you in a",
+        "offset": 27240,
+        "duration": 2920,
+        "lang": "en"
+      },
+      {
+        "text": "list. The ones marked green are the ones",
+        "offset": 28520,
+        "duration": 3240,
+        "lang": "en"
+      },
+      {
+        "text": "that AI thinks is particularly relevant",
+        "offset": 30160,
+        "duration": 3280,
+        "lang": "en"
+      },
+      {
+        "text": "to your content. You can add and remove",
+        "offset": 31760,
+        "duration": 3280,
+        "lang": "en"
+      },
+      {
+        "text": "them by clicking on them. Click score",
+        "offset": 33440,
+        "duration": 3440,
+        "lang": "en"
+      },
+      {
+        "text": "content, and the AI will go through your",
+        "offset": 35040,
+        "duration": 3400,
+        "lang": "en"
+      },
+      {
+        "text": "website and work out which of these",
+        "offset": 36880,
+        "duration": 3360,
+        "lang": "en"
+      },
+      {
+        "text": "questions you answer fully, which you",
+        "offset": 38440,
+        "duration": 3240,
+        "lang": "en"
+      },
+      {
+        "text": "answer partially, and which you don't",
+        "offset": 40240,
+        "duration": 3200,
+        "lang": "en"
+      },
+      {
+        "text": "answer at all, which is the basis for",
+        "offset": 41680,
+        "duration": 3080,
+        "lang": "en"
+      },
+      {
+        "text": "knowing what you need to do next. We",
+        "offset": 43440,
+        "duration": 2360,
+        "lang": "en"
+      },
+      {
+        "text": "know this works because there's been",
+        "offset": 44760,
+        "duration": 2560,
+        "lang": "en"
+      },
+      {
+        "text": "independent studies that show there's a",
+        "offset": 45800,
+        "duration": 2840,
+        "lang": "en"
+      },
+      {
+        "text": "strong correlation between how",
+        "offset": 47320,
+        "duration": 2800,
+        "lang": "en"
+      },
+      {
+        "text": "thoroughly websites answer these",
+        "offset": 48640,
+        "duration": 3080,
+        "lang": "en"
+      },
+      {
+        "text": "questions and how visible they are in",
+        "offset": 50120,
+        "duration": 4080,
+        "lang": "en"
+      },
+      {
+        "text": "Google.",
+        "offset": 51720,
+        "duration": 2480,
+        "lang": "en"
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}

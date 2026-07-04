@@ -1,0 +1,80 @@
+{
+  "video_id": "aDyp_4xUkBk",
+  "url": "https://www.youtube.com/watch?v=aDyp_4xUkBk",
+  "title": "Topical authority isn't as important as you think #seo #topicalauthority",
+  "upload_date": "2026-06-15T03:40:06-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T11:46:00+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "text": "Topical authority is nowhere near as",
+        "offset": 0,
+        "duration": 3240,
+        "lang": "en"
+      },
+      {
+        "text": "important as many SEOs will have you to",
+        "offset": 1560,
+        "duration": 3160,
+        "lang": "en"
+      },
+      {
+        "text": "believe, and I can prove it to you. A",
+        "offset": 3240,
+        "duration": 3120,
+        "lang": "en"
+      },
+      {
+        "text": "couple of years ago, the Vatican website",
+        "offset": 4720,
+        "duration": 3760,
+        "lang": "en"
+      },
+      {
+        "text": "got hacked, and the hackers put CBD",
+        "offset": 6360,
+        "duration": 4520,
+        "lang": "en"
+      },
+      {
+        "text": "gummy pages on the site. Within days,",
+        "offset": 8480,
+        "duration": 4160,
+        "lang": "en"
+      },
+      {
+        "text": "they were ranking in Google. So, if",
+        "offset": 10880,
+        "duration": 3800,
+        "lang": "en"
+      },
+      {
+        "text": "anyone can explain to me how the Vatican",
+        "offset": 12640,
+        "duration": 3960,
+        "lang": "en"
+      },
+      {
+        "text": "website is a topical authority on CBD",
+        "offset": 14680,
+        "duration": 5360,
+        "lang": "en"
+      },
+      {
+        "text": "gummies, I would love to hear it.",
+        "offset": 16600,
+        "duration": 3440,
+        "lang": "en"
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}

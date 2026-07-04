@@ -5,6 +5,7 @@
 | Expert | Role | Main links | Dates collected | Brief annotation |
 | --- | --- | --- | --- | --- |
 | Gael Breton | Co-Founder, Authority Hacker | [Website](https://www.authorityhacker.com/), [LinkedIn](https://www.linkedin.com/in/gael-breton/), [YouTube](https://www.youtube.com/@AuthorityHackerPodcast) | LinkedIn notes collected 2026-07-03; YouTube transcripts collected 2026-07-03; YouTube video dates range 2026-03-19 to 2026-06-10 | Practical SEO operator focused on AI-assisted content systems, authority sites, workflow automation, Claude Code, topical authority, and quality evaluation loops. |
+| Mark Williams-Cook | SEO consultant and founder, AlsoAsked | [YouTube](https://www.youtube.com/@mwcsearch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-15 to 2026-06-17 | Practical SEO educator focused on search intent, topical authority, Google visibility, and data-driven SEO workflows. |
 
 ## Gael Breton
 
@@ -17,7 +18,7 @@
 - LinkedIn research notes: `research/linkedin-posts/gael-breton/summary.md`
 - YouTube transcripts: `research/youtube-transcripts/gael_breton/<video-id-title>/transcript.md`
 
-## YouTube Videos Collected
+## Gael Breton YouTube Videos Collected
 
 | Date | Video | Link | Annotation |
 | --- | --- | --- | --- |
@@ -32,7 +33,24 @@
 | 2026-03-25 | I Hired Claude Code as My Employee | https://www.youtube.com/watch?v=b0oL4SEVzwM | Strong source for agentic coding workflows and AI as an operational assistant. |
 | 2026-03-19 | The AI Golden Age Ends This Month | https://www.youtube.com/watch?v=dqs9s32iU1s | Useful for broader AI trend framing and market/context analysis. |
 
+## Mark Williams-Cook
+
+**Research focus:** Search intent, topical authority, SEO tools, Google visibility, and practical search strategy.
+
+**Why selected:** Mark publishes concise SEO videos that explain how to use search data and intent analysis to improve organic visibility.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/mark_williams_cook/<video-id-title>/transcript.md`
+
+## Mark Williams-Cook YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-06-17 | Rank better in Google by finding intent gaps automatically #seo #geo | https://www.youtube.com/watch?v=NFy4YWfd0Tk | Useful for understanding how intent-gap analysis can improve search visibility. |
+| 2026-06-15 | Topical authority isn't as important as you think #seo #topicalauthority | https://www.youtube.com/watch?v=aDyp_4xUkBk | Useful for evaluating topical authority claims and prioritizing SEO strategy. |
+
 ## Collection Notes
 
-- YouTube transcripts were collected with Supadata in native-caption mode and stored under the expert folder `research/youtube-transcripts/gael_breton/`.
-- LinkedIn posts are stored under the author folder. Manual collected
+- YouTube transcripts were collected with Supadata in native-caption mode and stored under expert folders in `research/youtube-transcripts/`.
+- LinkedIn posts are stored under author folders when available.
