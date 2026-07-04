@@ -9,6 +9,7 @@
 | Lily Ray | SEO expert and speaker | [YouTube](https://www.youtube.com/@lilyray) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2024-03-08 to 2025-11-10 | Search quality and algorithm update expert focused on Google core updates, helpful content, AI search, and organic search strategy. |
 | Tim Soulo | CMO, Ahrefs | [Website](https://ahrefs.com/), [YouTube](https://www.youtube.com/@AhrefsCom/videos) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-05-27 to 2026-06-30 | SEO and content marketing operator focused on AI SEO, affiliate search, marketing systems, and practical use of Ahrefs workflows. |
 | Matt Diggity | SEO expert, Founder of Diggity Marketing & The Search Initiative | [Website](https://diggitymarketing.com/), [YouTube](https://www.youtube.com/@MattDiggity) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-07-23 to 2026-06-09 | Practical SEO operator focused on AI search optimization, digital PR, content repurposing, SEO automation, and case-study-driven AI-SEO techniques. |
+| Nathan Gotch | SEO expert, Founder of Gotch SEO & Rankability | [Website](https://www.rankability.com/), [YouTube](https://www.youtube.com/@nathangotch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-11 to 2026-07-01 | SEO educator focused on AI search visibility, answer engine optimization, ecommerce SEO, Google algorithm updates, and practical SEO campaign frameworks. |
 
 ## Gael Breton
 
@@ -112,6 +113,26 @@
 | 2026-03-02 | I Stopped Publishing New Content. Something Crazy Happened… | https://www.youtube.com/watch?v=-fK3OaJ9Mjk | Useful for content repurposing strategy and distribution-first SEO approach. |
 | 2025-10-29 | I Let an AI Run my SEO Campaign. Here's what happened… | https://www.youtube.com/watch?v=xG9Vu9yrQzw | Useful for AI-automated SEO campaign setup using Make.com and OpenAI. |
 | 2025-07-23 | I Tried 3 Weird AI-SEO Techniques. Trash or Smash? | https://www.youtube.com/watch?v=EItVZ5W5FUc | Useful for evaluating AI logfile analysis, schema markup, and multimodal SEO techniques. |
+
+## Nathan Gotch
+
+**Research focus:** AI search visibility, answer engine optimization (AEO), ecommerce SEO, Google algorithm updates, and practical SEO campaign strategies.
+
+**Why selected:** Nathan runs Gotch SEO and Rankability, producing educational SEO content focused on ranking across AI search engines, adapting to algorithm updates, and building systematic SEO campaigns.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/nathan_gotch/<video-id-title>/transcript.md`
+
+## Nathan Gotch YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-07-01 | How to rank everywhere with SEO content | https://www.youtube.com/watch?v=qzMAGdzra88 | Useful for understanding multi-platform SEO content strategies and answer engine optimization. |
+| 2026-06-25 | Important Change to SEO (New Google Algorithm Update) | https://www.youtube.com/watch?v=kMsVDnFphRA | Useful for tracking latest Google algorithm update impacts and SEO adaptation strategies. |
+| 2026-06-23 | Ecommerce SEO Strategy (What Actually Works in 2026) | https://www.youtube.com/watch?v=6o0mabKRmIo | Useful for ecommerce SEO frameworks including Shopify SEO and AI-driven ecommerce optimization. |
+| 2026-06-17 | Is SEO finally dead? New 2026 study | https://www.youtube.com/watch?v=-Buvu-F0_ts | Useful for evaluating SEO viability in the AI era with data-backed analysis. |
+| 2026-06-11 | 7-Step SEO Campaign Checklist (for 2026) | https://www.youtube.com/watch?v=H_l6nQjrc0Y | Useful for systematic SEO campaign planning and execution frameworks. |
 
 ## Collection Notes
 
