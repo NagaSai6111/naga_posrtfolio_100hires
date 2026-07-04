@@ -11,6 +11,7 @@
 | Matt Diggity | SEO expert, Founder of Diggity Marketing & The Search Initiative | [Website](https://diggitymarketing.com/), [YouTube](https://www.youtube.com/@MattDiggity) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-07-23 to 2026-06-09 | Practical SEO operator focused on AI search optimization, digital PR, content repurposing, SEO automation, and case-study-driven AI-SEO techniques. |
 | Nathan Gotch | SEO expert, Founder of Gotch SEO & Rankability | [Website](https://www.rankability.com/), [YouTube](https://www.youtube.com/@nathangotch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-11 to 2026-07-01 | SEO educator focused on AI search visibility, answer engine optimization, ecommerce SEO, Google algorithm updates, and practical SEO campaign frameworks. |
 | Koray Tuğberk GÜBÜR | SEO expert, Founder of Holistic SEO | [Website](https://www.holisticseo.digital), [YouTube](https://www.youtube.com/@KorayTugberkGUBUR) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-04-07 to 2025-04-10 | Semantic SEO and topical authority expert focused on e-commerce SEO case studies, topical maps, YMYL rankings, entity-based optimization, and Google algorithm analysis. |
+| Julian Goldie | AI & SEO content creator | [YouTube](https://www.youtube.com/@JulianGoldieSEO) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-07-03 to 2026-07-04 | AI tools and automation-focused creator covering AI agents, coding automation, token optimization, and emerging AI platforms. |
 
 ## Gael Breton
 
@@ -151,6 +152,27 @@
 | --- | --- | --- | --- |
 | 2025-04-07 | E-commerce SEO Case Study for CBD Niche: 3X Growth with Topical Authority | https://www.youtube.com/watch?v=AdqgkIUXZb8 | Useful for understanding topical maps, content networks, and functionality-based ranking factors in e-commerce SEO. |
 | 2025-04-10 | Topical Authority for YMYL Website: Global SEO Case Study for E-commerce (10X Growth) | https://www.youtube.com/watch?v=K8g9QW2QkIE | Useful for YMYL optimization, content freshness strategies, query semantic distance, and centerpiece annotation concepts. |
+
+## Julian Goldie
+
+**Research focus:** AI tools, AI agents, coding automation, token optimization, and emerging AI platforms.
+
+**Why selected:** Julian publishes high-frequency content on cutting-edge AI tools and agent frameworks, useful for understanding the latest AI automation landscape and how new tools can be integrated into workflows.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/julian_goldie/<video-id-title>/transcript.md`
+
+## Julian Goldie YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-07-04 | Hermes Apollo AI is INSANE! | https://www.youtube.com/watch?v=XdipS9o1RGg | Useful for understanding Hermes Apollo AI capabilities and practical applications. |
+| 2026-07-04 | Fable 5: FREE Tools Cut Tokens by 95%! | https://www.youtube.com/watch?v=v_wQ1X5i81Y | Useful for token optimization strategies and cost reduction in AI workflows. |
+| 2026-07-03 | Agent OS: VPS + Elevenlabs + Hermes! | https://www.youtube.com/watch?v=hba6Y4erYXI | Useful for agent orchestration and deploying AI agents on VPS infrastructure. |
+| 2026-07-03 | Fable 5 Disappears In 3 Days: Do THIS Now! | https://www.youtube.com/watch?v=cQ00R8N2oCE | Useful for tracking rapidly changing AI tool availability and adoption urgency. |
+| 2026-07-03 | ZCode + GLM-5.2 Automates Coding | https://www.youtube.com/watch?v=E6n8UwM5Alo | Useful for AI-assisted coding automation using ZCode and GLM-5.2. |
+| 2026-07-03 | NEW NotebookLM Video AI Agent Update! | https://www.youtube.com/watch?v=w9PZRPQwz90 | Useful for understanding NotebookLM's video AI agent capabilities and updates. |
 
 ## Collection Notes
 
