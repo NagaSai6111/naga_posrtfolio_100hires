@@ -10,6 +10,7 @@
 | Tim Soulo | CMO, Ahrefs | [Website](https://ahrefs.com/), [YouTube](https://www.youtube.com/@AhrefsCom/videos) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-05-27 to 2026-06-30 | SEO and content marketing operator focused on AI SEO, affiliate search, marketing systems, and practical use of Ahrefs workflows. |
 | Matt Diggity | SEO expert, Founder of Diggity Marketing & The Search Initiative | [Website](https://diggitymarketing.com/), [YouTube](https://www.youtube.com/@MattDiggity) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-07-23 to 2026-06-09 | Practical SEO operator focused on AI search optimization, digital PR, content repurposing, SEO automation, and case-study-driven AI-SEO techniques. |
 | Nathan Gotch | SEO expert, Founder of Gotch SEO & Rankability | [Website](https://www.rankability.com/), [YouTube](https://www.youtube.com/@nathangotch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-11 to 2026-07-01 | SEO educator focused on AI search visibility, answer engine optimization, ecommerce SEO, Google algorithm updates, and practical SEO campaign frameworks. |
+| Koray Tuğberk GÜBÜR | SEO expert, Founder of Holistic SEO | [Website](https://www.holisticseo.digital), [YouTube](https://www.youtube.com/@KorayTugberkGUBUR) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-04-07 to 2025-04-10 | Semantic SEO and topical authority expert focused on e-commerce SEO case studies, topical maps, YMYL rankings, entity-based optimization, and Google algorithm analysis. |
 
 ## Gael Breton
 
@@ -133,6 +134,23 @@
 | 2026-06-23 | Ecommerce SEO Strategy (What Actually Works in 2026) | https://www.youtube.com/watch?v=6o0mabKRmIo | Useful for ecommerce SEO frameworks including Shopify SEO and AI-driven ecommerce optimization. |
 | 2026-06-17 | Is SEO finally dead? New 2026 study | https://www.youtube.com/watch?v=-Buvu-F0_ts | Useful for evaluating SEO viability in the AI era with data-backed analysis. |
 | 2026-06-11 | 7-Step SEO Campaign Checklist (for 2026) | https://www.youtube.com/watch?v=H_l6nQjrc0Y | Useful for systematic SEO campaign planning and execution frameworks. |
+
+## Koray Tuğberk GÜBÜR
+
+**Research focus:** Semantic SEO, topical authority, topical maps, e-commerce SEO, YMYL website optimization, entity-based SEO, and Google algorithm analysis.
+
+**Why selected:** Koray is a leading voice on semantic SEO and topical authority, sharing in-depth case studies that demonstrate how structured topical maps, entity optimization, and content networks drive organic growth for e-commerce and YMYL websites.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/koray_tugberk_gubur/<video-id-title>/transcript.md`
+
+## Koray Tuğberk GÜBÜR YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2025-04-07 | E-commerce SEO Case Study for CBD Niche: 3X Growth with Topical Authority | https://www.youtube.com/watch?v=AdqgkIUXZb8 | Useful for understanding topical maps, content networks, and functionality-based ranking factors in e-commerce SEO. |
+| 2025-04-10 | Topical Authority for YMYL Website: Global SEO Case Study for E-commerce (10X Growth) | https://www.youtube.com/watch?v=K8g9QW2QkIE | Useful for YMYL optimization, content freshness strategies, query semantic distance, and centerpiece annotation concepts. |
 
 ## Collection Notes
 
