@@ -8,6 +8,7 @@
 | Mark Williams-Cook | SEO consultant and founder, AlsoAsked | [YouTube](https://www.youtube.com/@mwcsearch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-15 to 2026-06-17 | Practical SEO educator focused on search intent, topical authority, Google visibility, and data-driven SEO workflows. |
 | Lily Ray | SEO expert and speaker | [YouTube](https://www.youtube.com/@lilyray) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2024-03-08 to 2025-11-10 | Search quality and algorithm update expert focused on Google core updates, helpful content, AI search, and organic search strategy. |
 | Tim Soulo | CMO, Ahrefs | [Website](https://ahrefs.com/), [YouTube](https://www.youtube.com/@AhrefsCom/videos) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-05-27 to 2026-06-30 | SEO and content marketing operator focused on AI SEO, affiliate search, marketing systems, and practical use of Ahrefs workflows. |
+| Matt Diggity | SEO expert, Founder of Diggity Marketing & The Search Initiative | [Website](https://diggitymarketing.com/), [YouTube](https://www.youtube.com/@MattDiggity) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-07-23 to 2026-06-09 | Practical SEO operator focused on AI search optimization, digital PR, content repurposing, SEO automation, and case-study-driven AI-SEO techniques. |
 
 ## Gael Breton
 
@@ -91,6 +92,26 @@
 | 2026-06-10 | I Used AI Agents to Replace Our Marketing Agency | https://www.youtube.com/watch?v=rGdR1KC6O2s | Useful for researching AI agents in marketing operations and production workflows. |
 | 2026-06-03 | Why I Switched from ChatGPT to Claude | https://www.youtube.com/watch?v=Xq9qD7Xl5Ps | Useful for practical model-selection discussion in SEO and marketing workflows. |
 | 2026-05-27 | This AI Tool Generates Viral Thumbnails (Prompts Included) | https://www.youtube.com/watch?v=W6ofmUbVr6M | Useful for AI-assisted creative production and YouTube packaging research. |
+
+## Matt Diggity
+
+**Research focus:** AI search optimization, digital PR for AI citations, content repurposing, SEO automation, and practical AI-SEO case studies.
+
+**Why selected:** Matt runs Diggity Marketing and The Search Initiative, sharing case-study-driven SEO workflows focused on AI search loopholes, Reddit engagement for AI citations, content repurposing, and automated SEO campaigns.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/matt_diggity/<video-id-title>/transcript.md`
+
+## Matt Diggity YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-06-09 | The Latest AI Search Loophole… Does It Actually Work? | https://www.youtube.com/watch?v=fHuomy6gAOA | Useful for understanding digital PR strategies to get cited by AI search tools. |
+| 2026-04-20 | Is Reddit REALLY The KEY to AI Search? Let's Find Out… | https://www.youtube.com/watch?v=f03ZfdtkMzk | Useful for studying Reddit engagement strategies for AI search visibility. |
+| 2026-03-02 | I Stopped Publishing New Content. Something Crazy Happened… | https://www.youtube.com/watch?v=-fK3OaJ9Mjk | Useful for content repurposing strategy and distribution-first SEO approach. |
+| 2025-10-29 | I Let an AI Run my SEO Campaign. Here's what happened… | https://www.youtube.com/watch?v=xG9Vu9yrQzw | Useful for AI-automated SEO campaign setup using Make.com and OpenAI. |
+| 2025-07-23 | I Tried 3 Weird AI-SEO Techniques. Trash or Smash? | https://www.youtube.com/watch?v=EItVZ5W5FUc | Useful for evaluating AI logfile analysis, schema markup, and multimodal SEO techniques. |
 
 ## Collection Notes
 
