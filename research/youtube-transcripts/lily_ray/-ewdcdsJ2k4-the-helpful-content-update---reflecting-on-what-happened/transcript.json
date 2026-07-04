@@ -1,0 +1,3740 @@
+{
+  "video_id": "-ewdcdsJ2k4",
+  "url": "https://www.youtube.com/watch?v=-ewdcdsJ2k4",
+  "title": "The Helpful Content Update - Reflecting on What Happened",
+  "upload_date": "2024-03-14T12:52:05-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T13:24:09+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "hey what's up everyone today I'm going",
+        "offset": 3480,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "to talk about a pretty controversial",
+        "offset": 5400,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "Topic in the SEO space which is the",
+        "offset": 7200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "helpful content update and the helpful",
+        "offset": 9160,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "content system which Google has now",
+        "offset": 11200,
+        "duration": 4919
+      },
+      {
+        "lang": "en",
+        "text": "incorporated into its core ranking",
+        "offset": 13920,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "systems so this is a very controversial",
+        "offset": 16119,
+        "duration": 6481
+      },
+      {
+        "lang": "en",
+        "text": "topic because this is a an update and a",
+        "offset": 19119,
+        "duration": 6121
+      },
+      {
+        "lang": "en",
+        "text": "ranking system that has affected so many",
+        "offset": 22600,
+        "duration": 5320
+      },
+      {
+        "lang": "en",
+        "text": "different websites and site owners",
+        "offset": 25240,
+        "duration": 4119
+      },
+      {
+        "lang": "en",
+        "text": "especially in the last year so we had",
+        "offset": 27920,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "the notorious September 2023 helpful",
+        "offset": 29359,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "content update and for anybody who's",
+        "offset": 31640,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "unfamiliar that was part of a new",
+        "offset": 33760,
+        "duration": 5319
+      },
+      {
+        "lang": "en",
+        "text": "ranking system that Google introduced in",
+        "offset": 36280,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "2022 um I actually wrote about it the",
+        "offset": 39079,
+        "duration": 3721
+      },
+      {
+        "lang": "en",
+        "text": "day it was introduced it was Google's",
+        "offset": 41280,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "new helpful content system and at the",
+        "offset": 42800,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "time that it was introduced we actually",
+        "offset": 45200,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "thought that it was going to be much",
+        "offset": 46480,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "more impactful than it was so it kind of",
+        "offset": 47600,
+        "duration": 3799
+      },
+      {
+        "lang": "en",
+        "text": "flew under the radar for a lot of sites",
+        "offset": 49600,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "in fact a lot of the sites that were hit",
+        "offset": 51399,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "negatively last year actually saw",
+        "offset": 53120,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "increases during that time so I think",
+        "offset": 54440,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "Google was still figuring out exactly",
+        "offset": 56520,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "what the helpful content system was",
+        "offset": 58320,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "going to do and it's no secret at this",
+        "offset": 60039,
+        "duration": 6400
+      },
+      {
+        "lang": "en",
+        "text": "point that the September 2023 helpful",
+        "offset": 62960,
+        "duration": 5960
+      },
+      {
+        "lang": "en",
+        "text": "content update was a bit of a blood bath",
+        "offset": 66439,
+        "duration": 5241
+      },
+      {
+        "lang": "en",
+        "text": "for many many different sites um I want",
+        "offset": 68920,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "to talk about it today because my team",
+        "offset": 71680,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "and I have been pretty obsessed with",
+        "offset": 73880,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "this update we've been we've been",
+        "offset": 76080,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "researching it we've been working with",
+        "offset": 77680,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "dozens of affected websites I've been",
+        "offset": 80000,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "paying very close attention to sites",
+        "offset": 82040,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "that are impacted by this update and I",
+        "offset": 84000,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "want to share what I know from what I",
+        "offset": 86280,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "found um I will start by saying I",
+        "offset": 87960,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "understand this is a very emotional",
+        "offset": 91280,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "topic for a lot of people uh I'm very",
+        "offset": 92560,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "sensitive to that I've worked very",
+        "offset": 94799,
+        "duration": 4441
+      },
+      {
+        "lang": "en",
+        "text": "closely and spoken to a lot of the",
+        "offset": 97119,
+        "duration": 4121
+      },
+      {
+        "lang": "en",
+        "text": "different affected site owners and I do",
+        "offset": 99240,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "understand that pretty much almost",
+        "offset": 101240,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "everyone that I've spoken to all the",
+        "offset": 103000,
+        "duration": 3079
+      },
+      {
+        "lang": "en",
+        "text": "clients that we've worked with who have",
+        "offset": 104280,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "been affected by The Helpful content",
+        "offset": 106079,
+        "duration": 4680
+      },
+      {
+        "lang": "en",
+        "text": "update have lost a lot uh of traffic and",
+        "offset": 107520,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "revenue and and in some cases their",
+        "offset": 110759,
+        "duration": 3241
+      },
+      {
+        "lang": "en",
+        "text": "livelihood and had to lay people off and",
+        "offset": 112320,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "things like this so I understand this is",
+        "offset": 114000,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "a very uh emotional and sensitive",
+        "offset": 115520,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "subject so I want to start by saying I",
+        "offset": 118039,
+        "duration": 4601
+      },
+      {
+        "lang": "en",
+        "text": "don't mean anything that I'm going to",
+        "offset": 121039,
+        "duration": 3481
+      },
+      {
+        "lang": "en",
+        "text": "talk about today as any type of uh",
+        "offset": 122640,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "personal attack or judgment on anybody I",
+        "offset": 124520,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "know that in fact I think many if not",
+        "offset": 126479,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "most of the people who were affected by",
+        "offset": 129520,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "this update had really no idea and a lot",
+        "offset": 130800,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "of people could never have seen this",
+        "offset": 133200,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "coming um I think those of us that work",
+        "offset": 134360,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "specifically looking at Google",
+        "offset": 136959,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "algorithms and penalties for for many",
+        "offset": 138040,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "years I did find myself uh over the last",
+        "offset": 139760,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "few years warning a lot of site owners",
+        "offset": 143040,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "against some of the tactics that it",
+        "offset": 144720,
+        "duration": 2840
+      },
+      {
+        "lang": "en",
+        "text": "seems like Google is going against with",
+        "offset": 145920,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "this type of update um but Frank",
+        "offset": 147560,
+        "duration": 6039
+      },
+      {
+        "lang": "en",
+        "text": "there's a lot of uh seos out there and",
+        "offset": 150720,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "marketers and site owners who probably",
+        "offset": 153599,
+        "duration": 4201
+      },
+      {
+        "lang": "en",
+        "text": "thought they were doing everything right",
+        "offset": 156440,
+        "duration": 2760
+      },
+      {
+        "lang": "en",
+        "text": "because Google was rewarding them with",
+        "offset": 157800,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "lots of traffic so I understand that it",
+        "offset": 159200,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "feels very blindsiding to lose",
+        "offset": 160920,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "everything overnight with seemingly",
+        "offset": 163000,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "little warning so that is in fact",
+        "offset": 164480,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "something that is happening I think that",
+        "offset": 166920,
+        "duration": 3319
+      },
+      {
+        "lang": "en",
+        "text": "there's many site owners who found",
+        "offset": 168720,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "themselves in a situation where they",
+        "offset": 170239,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "thought they were doing everything right",
+        "offset": 172000,
+        "duration": 2519
+      },
+      {
+        "lang": "en",
+        "text": "you know they were following Google's",
+        "offset": 173200,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "guidelines they were following let's",
+        "offset": 174519,
+        "duration": 4121
+      },
+      {
+        "lang": "en",
+        "text": "call it uh white hat marketing advice",
+        "offset": 176159,
+        "duration": 4521
+      },
+      {
+        "lang": "en",
+        "text": "and uh ended up in a situation where",
+        "offset": 178640,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "they are now you know seeing 80 or 90",
+        "offset": 180680,
+        "duration": 6400
+      },
+      {
+        "lang": "en",
+        "text": "plus% declines in traffic and visibility",
+        "offset": 184120,
+        "duration": 5399
+      },
+      {
+        "lang": "en",
+        "text": "so I'm sensitive to that and I do want",
+        "offset": 187080,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "to talk about just a lot of the patterns",
+        "offset": 189519,
+        "duration": 4041
+      },
+      {
+        "lang": "en",
+        "text": "that I've seen over the last several",
+        "offset": 191319,
+        "duration": 4041
+      },
+      {
+        "lang": "en",
+        "text": "months of looking really closely at the",
+        "offset": 193560,
+        "duration": 4599
+      },
+      {
+        "lang": "en",
+        "text": "impacts and to this day speaking with",
+        "offset": 195360,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "site owners that were affected by this",
+        "offset": 198159,
+        "duration": 4281
+      },
+      {
+        "lang": "en",
+        "text": "so that's my experience um let's talk a",
+        "offset": 199720,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "little bit about what happened recently",
+        "offset": 202440,
+        "duration": 3879
+      },
+      {
+        "lang": "en",
+        "text": "so we're currently in the midst of the",
+        "offset": 204480,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "March Court update I just did a video",
+        "offset": 206319,
+        "duration": 4361
+      },
+      {
+        "lang": "en",
+        "text": "about that uh if if you read Google's",
+        "offset": 208200,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "documentation about this update it's a",
+        "offset": 210680,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "little sneaky but they did kind of",
+        "offset": 212280,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "quietly consolidate what was previously",
+        "offset": 215239,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "The Helpful content ranking system into",
+        "offset": 217760,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "the core ranking system so what does",
+        "offset": 219959,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "that mean it means that we're not going",
+        "offset": 222480,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "to get new helpful content updates we're",
+        "offset": 223959,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "not goingon to get all right today is",
+        "offset": 226159,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "the day when the helpful content system",
+        "offset": 228120,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "has been updated and everybody that's",
+        "offset": 230080,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "been impacted can go check their traffic",
+        "offset": 231680,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "and know specifically if that's what's",
+        "offset": 233439,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "impacting their sites or not we used to",
+        "offset": 235040,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "have that we're not going to have that",
+        "offset": 236879,
+        "duration": 3401
+      },
+      {
+        "lang": "en",
+        "text": "anymore so if anything you're going to",
+        "offset": 238319,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "see those big algorithmic impacts that",
+        "offset": 240280,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "you often see during big Google updates",
+        "offset": 242720,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "those are going to probably happen",
+        "offset": 245120,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "during Poe updates but the helpful",
+        "offset": 246120,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "content uh what was previously The",
+        "offset": 248079,
+        "duration": 3481
+      },
+      {
+        "lang": "en",
+        "text": "Helpful content system is different",
+        "offset": 249879,
+        "duration": 3881
+      },
+      {
+        "lang": "en",
+        "text": "because it uses this machine learning",
+        "offset": 251560,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "classifier to apply a negative",
+        "offset": 253760,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "classifier on affected sites that can",
+        "offset": 256519,
+        "duration": 4921
+      },
+      {
+        "lang": "en",
+        "text": "supposedly be lifted at any point",
+        "offset": 259280,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "outside of an algorithm update so",
+        "offset": 261440,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "there's a lot there uh that basically",
+        "offset": 264080,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "means that there's not going to be a lot",
+        "offset": 266040,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "of clear indication from Google if your",
+        "offset": 267720,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "website has been impacted by this",
+        "offset": 269400,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "especially going forward you're not",
+        "offset": 271000,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "going to get that clear date it's not",
+        "offset": 272360,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "going to be September 17th 2023 it's",
+        "offset": 273560,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "going to potentially be any day but I",
+        "offset": 276080,
+        "duration": 5119
+      },
+      {
+        "lang": "en",
+        "text": "would I would imagine and I am",
+        "offset": 278440,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "anticipating that we're still only a",
+        "offset": 281199,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "week into what is probably going to be a",
+        "offset": 283440,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "four-week March core update I think that",
+        "offset": 285280,
+        "duration": 5479
+      },
+      {
+        "lang": "en",
+        "text": "we're probably not seeing the biggest",
+        "offset": 288400,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "impacts for the sites that were",
+        "offset": 290759,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "previously affected by The Helpful",
+        "offset": 292360,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "content update just yet that's just my",
+        "offset": 293560,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "theory I've been looking at the numbers",
+        "offset": 295000,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "this is pretty well known in our bace at",
+        "offset": 298000,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "the moment I mean today it's what March",
+        "offset": 300160,
+        "duration": 5800
+      },
+      {
+        "lang": "en",
+        "text": "14th 2024 there are no big success",
+        "offset": 301520,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "stories or case studies to my knowledge",
+        "offset": 305960,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "of sites that have had their helpful",
+        "offset": 308000,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "content update classifier lifted they've",
+        "offset": 310320,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "seen a significant recovery correct me",
+        "offset": 312520,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "if I'm wrong feel free to share your",
+        "offset": 314880,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "stories but from what I've seen from",
+        "offset": 316199,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "what I've spoken to others about there",
+        "offset": 318240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "are little to none and the ones that",
+        "offset": 320120,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "I've seen because I have dug into the",
+        "offset": 322160,
+        "duration": 3319
+      },
+      {
+        "lang": "en",
+        "text": "ones that seem like oh maybe this is a",
+        "offset": 324160,
+        "duration": 3319
+      },
+      {
+        "lang": "en",
+        "text": "recovery I don't think it's truly a",
+        "offset": 325479,
+        "duration": 4201
+      },
+      {
+        "lang": "en",
+        "text": "recovery from the classifier being a",
+        "offset": 327479,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "apply to those sites so we'll wait and",
+        "offset": 329680,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "see over the next couple of weeks how",
+        "offset": 332120,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "that pans out because it's possible that",
+        "offset": 333880,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "we will start to see some movement among",
+        "offset": 335720,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "the effected sites but unfortunately",
+        "offset": 337360,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "many of the sites that were hit by the",
+        "offset": 339600,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "September helpful content update are",
+        "offset": 340880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "either flat or in some cases down as of",
+        "offset": 342880,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "the first week of the March core update",
+        "offset": 345120,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "so not super promising but we still have",
+        "offset": 347039,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "a while to go and I do think we're",
+        "offset": 350000,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "probably going to start to see some",
+        "offset": 352000,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "Tremors hopefully positive for many of",
+        "offset": 353360,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "these sites over the next few weeks now",
+        "offset": 355160,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "what are some of the big patterns that",
+        "offset": 358639,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "I've noticed as I've worked with sites",
+        "offset": 359880,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "that have been affected by these updates",
+        "offset": 362319,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "um you know working with at this point",
+        "offset": 364000,
+        "duration": 5599
+      },
+      {
+        "lang": "en",
+        "text": "dozens of affected websites for the",
+        "offset": 366960,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "helpful content update specifically the",
+        "offset": 369599,
+        "duration": 4600
+      },
+      {
+        "lang": "en",
+        "text": "patterns become abundantly clear the",
+        "offset": 371599,
+        "duration": 4121
+      },
+      {
+        "lang": "en",
+        "text": "patterns are actually pretty clear to me",
+        "offset": 374199,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "from the get-go because generally",
+        "offset": 375720,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "speaking these sites are all kind of",
+        "offset": 377319,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "similar now I know if you're working on",
+        "offset": 379680,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "one you know if you have a site about uh",
+        "offset": 381759,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "best barbecue girls and that's your",
+        "offset": 384639,
+        "duration": 4601
+      },
+      {
+        "lang": "en",
+        "text": "Niche you might say well my site's",
+        "offset": 386639,
+        "duration": 3721
+      },
+      {
+        "lang": "en",
+        "text": "completely different from the site",
+        "offset": 389240,
+        "duration": 2760
+      },
+      {
+        "lang": "en",
+        "text": "that's writing about men's hairstyle",
+        "offset": 390360,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "advice but at the end of the day if you",
+        "offset": 392000,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "look at the templates if you look at the",
+        "offset": 394400,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "way the sites are structured if you look",
+        "offset": 396080,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "at the use of SEO throughout the site if",
+        "offset": 397440,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "you look at the use of affiliate links",
+        "offset": 400240,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "the ad networks all these things that",
+        "offset": 401680,
+        "duration": 3799
+      },
+      {
+        "lang": "en",
+        "text": "you can kind of like strip the site down",
+        "offset": 403960,
+        "duration": 3320
+      },
+      {
+        "lang": "en",
+        "text": "and look at it as a sum of its parts",
+        "offset": 405479,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "they're very similar site they're just",
+        "offset": 407280,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "about different topics now multiply that",
+        "offset": 408680,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "by all the different niches and all the",
+        "offset": 410680,
+        "duration": 2720
+      },
+      {
+        "lang": "en",
+        "text": "different topics that people might be",
+        "offset": 412280,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "writing about or buying domains and",
+        "offset": 413400,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "Publishing a lot of content in those",
+        "offset": 416000,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "areas the sites kind of look the same to",
+        "offset": 417440,
+        "duration": 4759
+      },
+      {
+        "lang": "en",
+        "text": "Google I'm sorry to say and I know that",
+        "offset": 419720,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "different levels of automation were used",
+        "offset": 422199,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "in the content creation process I know",
+        "offset": 424280,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "that people have all kinds of different",
+        "offset": 426120,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "bells and whistles that make the sites",
+        "offset": 428240,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "feel a little bit different or maybe",
+        "offset": 429680,
+        "duration": 2919
+      },
+      {
+        "lang": "en",
+        "text": "some are higher quality some are low",
+        "offset": 431160,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "lower quality some use real experts some",
+        "offset": 432599,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "don't some have authors some don't",
+        "offset": 434759,
+        "duration": 2681
+      },
+      {
+        "lang": "en",
+        "text": "there's all these different things that",
+        "offset": 436360,
+        "duration": 2399
+      },
+      {
+        "lang": "en",
+        "text": "like when you look at the sites one by",
+        "offset": 437440,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "one they might feel different but really",
+        "offset": 438759,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "when you take a step back and you look",
+        "offset": 441120,
+        "duration": 4359
+      },
+      {
+        "lang": "en",
+        "text": "at dozens or hundreds of these sites",
+        "offset": 442879,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "they are generally very similar so some",
+        "offset": 445479,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "of the things that I've noticed",
+        "offset": 448319,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "these are generally content websites",
+        "offset": 450520,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "that make money through ads and",
+        "offset": 453319,
+        "duration": 2320
+      },
+      {
+        "lang": "en",
+        "text": "affiliate",
+        "offset": 454520,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "links that's just true across the board",
+        "offset": 455639,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "uh whenever I'm analyzing a site and I'm",
+        "offset": 458520,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "trying to see if it was The Helpful",
+        "offset": 460879,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "content update that hit the site because",
+        "offset": 462199,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "unfortunately there were several major",
+        "offset": 464319,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "Google updates that happened in 2023",
+        "offset": 466319,
+        "duration": 4521
+      },
+      {
+        "lang": "en",
+        "text": "around the same time so sometimes it can",
+        "offset": 468759,
+        "duration": 3961
+      },
+      {
+        "lang": "en",
+        "text": "be a bit confusing like you think that",
+        "offset": 470840,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "you were hit by The Helpful content",
+        "offset": 472720,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "update but really you were hit by for",
+        "offset": 473960,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "example the October core update they",
+        "offset": 475520,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "were close together but when I see when",
+        "offset": 477120,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "I'm doing that analysis and I see that",
+        "offset": 480240,
+        "duration": 6040
+      },
+      {
+        "lang": "en",
+        "text": "uh the site is let's say like e-commerce",
+        "offset": 482800,
+        "duration": 7560
+      },
+      {
+        "lang": "en",
+        "text": "or um I don't know a News website it's",
+        "offset": 486280,
+        "duration": 6520
+      },
+      {
+        "lang": "en",
+        "text": "possible that those sites were affected",
+        "offset": 490360,
+        "duration": 4920
+      },
+      {
+        "lang": "en",
+        "text": "but really generally speaking the",
+        "offset": 492800,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "majority of what I'm seeing are content",
+        "offset": 495280,
+        "duration": 6840
+      },
+      {
+        "lang": "en",
+        "text": "Niche publisher websites that uh have a",
+        "offset": 498639,
+        "duration": 5081
+      },
+      {
+        "lang": "en",
+        "text": "lot of ads and a lot of affiliate links",
+        "offset": 502120,
+        "duration": 5079
+      },
+      {
+        "lang": "en",
+        "text": "and in many cases a lot of best of top",
+        "offset": 503720,
+        "duration": 6360
+      },
+      {
+        "lang": "en",
+        "text": "10 best X product a lot of that type of",
+        "offset": 507199,
+        "duration": 5121
+      },
+      {
+        "lang": "en",
+        "text": "content they generally over index on",
+        "offset": 510080,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "that type of content beyond that it",
+        "offset": 512320,
+        "duration": 5719
+      },
+      {
+        "lang": "en",
+        "text": "feels like a lot of these site owners",
+        "offset": 515599,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "were getting their SEO advice from the",
+        "offset": 518039,
+        "duration": 4761
+      },
+      {
+        "lang": "en",
+        "text": "same place same places um I've spoken to",
+        "offset": 519680,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "a number of them in some cases I talked",
+        "offset": 522800,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "to them about where did they learn this",
+        "offset": 524480,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "who are they following um did they buy",
+        "offset": 526839,
+        "duration": 5641
+      },
+      {
+        "lang": "en",
+        "text": "links where did the Links come from",
+        "offset": 529440,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "believe it or not a lot of site owners",
+        "offset": 532480,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "answer it in the same ways they are",
+        "offset": 534640,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "getting their advice from the same",
+        "offset": 536800,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "places now this is not to say that those",
+        "offset": 538040,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "are not good places to get advice I",
+        "offset": 539920,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "think actually a lot of them are getting",
+        "offset": 542079,
+        "duration": 4361
+      },
+      {
+        "lang": "en",
+        "text": "advice from reputable SEO Publications",
+        "offset": 543519,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "the difference is that Google needed to",
+        "offset": 546440,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "create a system to devalue sites that",
+        "offset": 548560,
+        "duration": 7240
+      },
+      {
+        "lang": "en",
+        "text": "are to SEO forward there are sites that",
+        "offset": 552200,
+        "duration": 7079
+      },
+      {
+        "lang": "en",
+        "text": "found essentially loopholes on Google or",
+        "offset": 555800,
+        "duration": 6200
+      },
+      {
+        "lang": "en",
+        "text": "are uh exploiting opportunities on",
+        "offset": 559279,
+        "duration": 5441
+      },
+      {
+        "lang": "en",
+        "text": "Google to make a lot of money off of",
+        "offset": 562000,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "ways that many different Google",
+        "offset": 564720,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "Searchers are searching for information",
+        "offset": 566399,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "and they went a bit too far with just",
+        "offset": 569000,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "capitalizing on opportunities to make",
+        "offset": 571399,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "money online without adding real value",
+        "offset": 573800,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "to Google Searchers now that's Google's",
+        "offset": 576839,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "perspective okay I'm not saying that's",
+        "offset": 579800,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "my perspective I'm saying that's why",
+        "offset": 581560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "Google had to do this do I think that",
+        "offset": 583079,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "Google went a bit too far yes I actually",
+        "offset": 585720,
+        "duration": 6359
+      },
+      {
+        "lang": "en",
+        "text": "do um I've seen I want to say maybe five",
+        "offset": 587880,
+        "duration": 6800
+      },
+      {
+        "lang": "en",
+        "text": "or 10 examples of sites that were bit",
+        "offset": 592079,
+        "duration": 5961
+      },
+      {
+        "lang": "en",
+        "text": "brutally like lost 70 80 90% of their",
+        "offset": 594680,
+        "duration": 5480
+      },
+      {
+        "lang": "en",
+        "text": "traffic and I don't think was justified",
+        "offset": 598040,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "at all and I don't think those sites",
+        "offset": 600160,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "could have seen it coming and I also",
+        "offset": 601600,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "think that those sites actually when you",
+        "offset": 603279,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "look at Google's guidance for site",
+        "offset": 605880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "owners they're very closely aligned so I",
+        "offset": 607200,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "do think that Niche bloggers generally",
+        "offset": 609720,
+        "duration": 5239
+      },
+      {
+        "lang": "en",
+        "text": "speaking were at a huge disadvantage",
+        "offset": 613200,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "even the ones that were actually really",
+        "offset": 614959,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "closely following Google's guidelines so",
+        "offset": 617000,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "it's very tricky and um if you're a site",
+        "offset": 619440,
+        "duration": 6040
+      },
+      {
+        "lang": "en",
+        "text": "that has another you know a core product",
+        "offset": 622519,
+        "duration": 5161
+      },
+      {
+        "lang": "en",
+        "text": "or you sell products online or you have",
+        "offset": 625480,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "some type of other offering above and",
+        "offset": 627680,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "Beyond just offering affiliate content",
+        "offset": 629320,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "you're at an advantage when it comes to",
+        "offset": 632120,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "this type of update just based on what",
+        "offset": 633880,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "I've seen so uh the sites are almost",
+        "offset": 635120,
+        "duration": 5159
+      },
+      {
+        "lang": "en",
+        "text": "always doing the same thing which is",
+        "offset": 638920,
+        "duration": 6080
+      },
+      {
+        "lang": "en",
+        "text": "that they are in a niche and they then",
+        "offset": 640279,
+        "duration": 6161
+      },
+      {
+        "lang": "en",
+        "text": "find all the different ways that people",
+        "offset": 645000,
+        "duration": 2760
+      },
+      {
+        "lang": "en",
+        "text": "are searching for things in that Niche",
+        "offset": 646440,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "right SEO keyword research and they're",
+        "offset": 647760,
+        "duration": 5079
+      },
+      {
+        "lang": "en",
+        "text": "trying to have one page per thing that",
+        "offset": 650839,
+        "duration": 4921
+      },
+      {
+        "lang": "en",
+        "text": "people search for so this is generally",
+        "offset": 652839,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "speaking like what we try to do in the",
+        "offset": 655760,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "SEO space I think the issue is that too",
+        "offset": 657480,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "many site owners were doing it on",
+        "offset": 660240,
+        "duration": 5640
+      },
+      {
+        "lang": "en",
+        "text": "similar topics and now we have thousands",
+        "offset": 662320,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "and thousands of business owners taking",
+        "offset": 665880,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "the same SEO advice finding the same",
+        "offset": 667480,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "keyword research opportunities with the",
+        "offset": 670519,
+        "duration": 6201
+      },
+      {
+        "lang": "en",
+        "text": "same SEO tools that tell you you know if",
+        "offset": 673160,
+        "duration": 5239
+      },
+      {
+        "lang": "en",
+        "text": "you're going to write about a funny",
+        "offset": 676720,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "quote you stand to make you know you",
+        "offset": 678399,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "could get a million clicks per month or",
+        "offset": 681279,
+        "duration": 3401
+      },
+      {
+        "lang": "en",
+        "text": "whatever the numbers are and now you",
+        "offset": 682800,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "have a thousand people writing about",
+        "offset": 684680,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "funny quotes right Google can't serve",
+        "offset": 685760,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "all these websites so if you're all",
+        "offset": 688320,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "saying the same thing with a bunch of",
+        "offset": 690800,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "ads and a a bunch of affiliate links",
+        "offset": 692680,
+        "duration": 5560
+      },
+      {
+        "lang": "en",
+        "text": "Google had to kind of like thin out the",
+        "offset": 694760,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "number of sites that are all competing",
+        "offset": 698240,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "for these same keywords now the ones",
+        "offset": 699639,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "that are doing this in a way that is not",
+        "offset": 701200,
+        "duration": 5079
+      },
+      {
+        "lang": "en",
+        "text": "the most valuable helpful content and I",
+        "offset": 704279,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "know that's very hard to assess when",
+        "offset": 706279,
+        "duration": 3481
+      },
+      {
+        "lang": "en",
+        "text": "it's your own content but compare",
+        "offset": 707639,
+        "duration": 3561
+      },
+      {
+        "lang": "en",
+        "text": "yourself to the thousands of other",
+        "offset": 709760,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "people that are doing the exact same",
+        "offset": 711200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "thing it becomes very trick tricky for",
+        "offset": 712760,
+        "duration": 4759
+      },
+      {
+        "lang": "en",
+        "text": "Google to do this algorithmically to say",
+        "offset": 715360,
+        "duration": 4599
+      },
+      {
+        "lang": "en",
+        "text": "okay if a trillion people people or a",
+        "offset": 717519,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "billion people or whatever it is have",
+        "offset": 719959,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "pages that are the hund funniest quotes",
+        "offset": 722079,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "in 2023",
+        "offset": 724200,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "2024 which is the best one because guess",
+        "offset": 725680,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "what most of them have the exact same",
+        "offset": 728760,
+        "duration": 3319
+      },
+      {
+        "lang": "en",
+        "text": "quotes and most of them have stock",
+        "offset": 730160,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "photography and most of them have the",
+        "offset": 732079,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "same affiliate links and most of them",
+        "offset": 733680,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "have the same ad networks how is Google",
+        "offset": 734959,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "supposed to choose who gets to be number",
+        "offset": 736560,
+        "duration": 5560
+      },
+      {
+        "lang": "en",
+        "text": "one or two or three it's really tricky",
+        "offset": 739079,
+        "duration": 4841
+      },
+      {
+        "lang": "en",
+        "text": "and so I know that when this is your",
+        "offset": 742120,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "content and like I I truly do understand",
+        "offset": 743920,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "if you built this thing it's really",
+        "offset": 746480,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "frustrating to be this is not helpful",
+        "offset": 748360,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "it's really frustrating to be told like",
+        "offset": 750560,
+        "duration": 3959
+      },
+      {
+        "lang": "en",
+        "text": "your content is not great for users",
+        "offset": 752560,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "because you had all these other signals",
+        "offset": 754519,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "and maybe you still have all these other",
+        "offset": 755839,
+        "duration": 2881
+      },
+      {
+        "lang": "en",
+        "text": "signals that people really enjoy it the",
+        "offset": 757079,
+        "duration": 2921
+      },
+      {
+        "lang": "en",
+        "text": "problem is there's just too many people",
+        "offset": 758720,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "doing it now there's too many players in",
+        "offset": 760000,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "the game and Google had to take really",
+        "offset": 762600,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "serious action and again I I do",
+        "offset": 764760,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "personally think they went a little bit",
+        "offset": 766760,
+        "duration": 2439
+      },
+      {
+        "lang": "en",
+        "text": "too",
+        "offset": 768160,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "far I don't know what they're going to",
+        "offset": 769199,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "do with this update I do think that as",
+        "offset": 771120,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "the core update rolls out over the next",
+        "offset": 773440,
+        "duration": 3959
+      },
+      {
+        "lang": "en",
+        "text": "couple of weeks I'm hopeful especially",
+        "offset": 775320,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "for the site owners including some of",
+        "offset": 777399,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "the compan that we've worked with who",
+        "offset": 778800,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "have made bold changes to their site",
+        "offset": 780360,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "they've maybe deleted a lot of unhelpful",
+        "offset": 781920,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "content they've found uh issues or",
+        "offset": 784040,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "opportunities and Tak an action on those",
+        "offset": 786920,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "I do hope and anticipate that we'll see",
+        "offset": 788880,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "some recoveries I think that we'll",
+        "offset": 791240,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "probably see that over the next couple",
+        "offset": 793320,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "of weeks but remember that this is a",
+        "offset": 794600,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "punitive update I think Glen Gabe wrote",
+        "offset": 796519,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "an article about this recently it's",
+        "offset": 798639,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "perfect word for it it's punitive The",
+        "offset": 800079,
+        "duration": 5161
+      },
+      {
+        "lang": "en",
+        "text": "Helpful content was update was made to",
+        "offset": 802639,
+        "duration": 4281
+      },
+      {
+        "lang": "en",
+        "text": "punish site owners for doing too much",
+        "offset": 805240,
+        "duration": 4200
+      },
+      {
+        "lang": "en",
+        "text": "SEO content that's what it was in one",
+        "offset": 806920,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "sentence uh other algorithm updates like",
+        "offset": 809440,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "core updates can result in lots of",
+        "offset": 812040,
+        "duration": 4840
+      },
+      {
+        "lang": "en",
+        "text": "winners right we can see lots of sites",
+        "offset": 814079,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "that have explosive growth and we're",
+        "offset": 816880,
+        "duration": 2959
+      },
+      {
+        "lang": "en",
+        "text": "starting to see this now with the March",
+        "offset": 818560,
+        "duration": 3480
+      },
+      {
+        "lang": "en",
+        "text": "core update this site one of the sites",
+        "offset": 819839,
+        "duration": 4521
+      },
+      {
+        "lang": "en",
+        "text": "that I'm working on 100% growth in",
+        "offset": 822040,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "traffic overnight right uh that can",
+        "offset": 824360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "happen that didn't happen with the",
+        "offset": 826560,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "helpful content update in September",
+        "offset": 828360,
+        "duration": 2719
+      },
+      {
+        "lang": "en",
+        "text": "because it wasn't structured that way it",
+        "offset": 829800,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "wasn't meant to work that way the",
+        "offset": 831079,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "helpful content system or what was",
+        "offset": 832600,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "previously The Helpful content system",
+        "offset": 834639,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "because it doesn't exist anymore fun",
+        "offset": 836199,
+        "duration": 4361
+      },
+      {
+        "lang": "en",
+        "text": "fact it was made to apply a classifier",
+        "offset": 837680,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "to sites that were doing things wrong so",
+        "offset": 840560,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "you will see sites go down as that",
+        "offset": 842639,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "classifier is applied the only way that",
+        "offset": 844600,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "you'll see a lot of sites get more",
+        "offset": 846519,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "traffic or more visibility or more",
+        "offset": 848199,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "rankings is because they're earning the",
+        "offset": 849639,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "positions that were lost by sites that",
+        "offset": 851160,
+        "duration": 4119
+      },
+      {
+        "lang": "en",
+        "text": "were DED during that update so that's",
+        "offset": 852759,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "not going to result in the type of",
+        "offset": 855279,
+        "duration": 2360
+      },
+      {
+        "lang": "en",
+        "text": "exponential growth that you can see",
+        "offset": 856360,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "during other types of Google updates um",
+        "offset": 857639,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "so it's punitive and when you are",
+        "offset": 860120,
+        "duration": 3719
+      },
+      {
+        "lang": "en",
+        "text": "affected by a punitive update",
+        "offset": 862120,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "unfortunately it puts it you in a much",
+        "offset": 863839,
+        "duration": 4920
+      },
+      {
+        "lang": "en",
+        "text": "uh a harder position to be able to get",
+        "offset": 866680,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "that traffic back I hate to say it uh",
+        "offset": 868759,
+        "duration": 5841
+      },
+      {
+        "lang": "en",
+        "text": "it's not exactly a manual action like",
+        "offset": 872560,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "what we're seeing sent out because with",
+        "offset": 874600,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "manual actions Google will say our web",
+        "offset": 876000,
+        "duration": 4279
+      },
+      {
+        "lang": "en",
+        "text": "spam team is on to you and you broke the",
+        "offset": 878639,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "rules this is different this is an",
+        "offset": 880279,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "algorithmic action that's been applied",
+        "offset": 882560,
+        "duration": 4519
+      },
+      {
+        "lang": "en",
+        "text": "to your site and remember that the",
+        "offset": 885079,
+        "duration": 3961
+      },
+      {
+        "lang": "en",
+        "text": "helpful content system was using machine",
+        "offset": 887079,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "learning this is something that I always",
+        "offset": 889040,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "talk to people about",
+        "offset": 891000,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "because the more signals that your site",
+        "offset": 893160,
+        "duration": 6119
+      },
+      {
+        "lang": "en",
+        "text": "has that match the signals that Google",
+        "offset": 896720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "trained its systems on to say this is",
+        "offset": 899279,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "the most unhelpful content the more your",
+        "offset": 900880,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "site looks like th that training set of",
+        "offset": 903279,
+        "duration": 3721
+      },
+      {
+        "lang": "en",
+        "text": "extremely unhelpful sites whatever that",
+        "offset": 905320,
+        "duration": 2879
+      },
+      {
+        "lang": "en",
+        "text": "set is I don't know what it is but I",
+        "offset": 907000,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "have a good idea and at this point you",
+        "offset": 908199,
+        "duration": 3161
+      },
+      {
+        "lang": "en",
+        "text": "could probably look at the sites that",
+        "offset": 910279,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "were penalized for Pure spam because",
+        "offset": 911360,
+        "duration": 2680
+      },
+      {
+        "lang": "en",
+        "text": "they're very very similar to what I",
+        "offset": 912839,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "imagine Google trained it's systems to",
+        "offset": 914040,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "look for with unhelpful content the more",
+        "offset": 916199,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "signals that your site has that matches",
+        "offset": 918680,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "those sites the more unhelpful your site",
+        "offset": 920839,
+        "duration": 4281
+      },
+      {
+        "lang": "en",
+        "text": "is deemed to be this is why when you",
+        "offset": 923000,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "have mediocre content when you have some",
+        "offset": 925120,
+        "duration": 3079
+      },
+      {
+        "lang": "en",
+        "text": "good content but some bad content",
+        "offset": 926759,
+        "duration": 4361
+      },
+      {
+        "lang": "en",
+        "text": "there's a threshold right if it's 60%",
+        "offset": 928199,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "unhelpful maybe you'll feel 60% of the",
+        "offset": 931120,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "impact it's 30% unhelpful it's 30% of",
+        "offset": 933560,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "the impact this is quite literally how",
+        "offset": 935839,
+        "duration": 2841
+      },
+      {
+        "lang": "en",
+        "text": "Google told us that this is going to",
+        "offset": 937399,
+        "duration": 3481
+      },
+      {
+        "lang": "en",
+        "text": "work so what you need to do right now if",
+        "offset": 938680,
+        "duration": 3399
+      },
+      {
+        "lang": "en",
+        "text": "you've been affected by The Helpful",
+        "offset": 940880,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "content update and hopefully you've been",
+        "offset": 942079,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "doing this because we've had a number of",
+        "offset": 944040,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "months to work on this is to try to",
+        "offset": 945279,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "identify with data and with speaking to",
+        "offset": 947600,
+        "duration": 6280
+      },
+      {
+        "lang": "en",
+        "text": "your users and with doing any type of ux",
+        "offset": 950480,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "studies or research or speaking to your",
+        "offset": 953880,
+        "duration": 3879
+      },
+      {
+        "lang": "en",
+        "text": "audience or hiring a consultant to look",
+        "offset": 955560,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "at it with a second set of eyes or",
+        "offset": 957759,
+        "duration": 3560
+      },
+      {
+        "lang": "en",
+        "text": "whatever it is identifying what that",
+        "offset": 959120,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "unhelpful content is and the numbers",
+        "offset": 961319,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "generally speak for themselves the stuff",
+        "offset": 963199,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "that dropped off the most in search",
+        "offset": 965399,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "console in Google",
+        "offset": 967959,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "analytics sometimes these Pages were",
+        "offset": 970040,
+        "duration": 3719
+      },
+      {
+        "lang": "en",
+        "text": "even removed from Google's index because",
+        "offset": 972040,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "they didn't even meet Google's initial",
+        "offset": 973759,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "criteria for indexation or for indexing",
+        "offset": 975120,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "because they were not high quality",
+        "offset": 977399,
+        "duration": 5641
+      },
+      {
+        "lang": "en",
+        "text": "enough um address those and I was just",
+        "offset": 979160,
+        "duration": 5960
+      },
+      {
+        "lang": "en",
+        "text": "speaking to a number of companies today",
+        "offset": 983040,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "luckily Google gave us the no index tag",
+        "offset": 985120,
+        "duration": 4760
+      },
+      {
+        "lang": "en",
+        "text": "right so I understand and I hate to be",
+        "offset": 987360,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "the one to be like yeah go delete all",
+        "offset": 989880,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "your content I hate I don't even want to",
+        "offset": 991240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "say that it's it's not it feels very",
+        "offset": 992800,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "unfair especially when writers have",
+        "offset": 995160,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "actually put some level of effort and",
+        "offset": 997040,
+        "duration": 3039
+      },
+      {
+        "lang": "en",
+        "text": "energy into this content like I would",
+        "offset": 998519,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "hate to tell people to go delete",
+        "offset": 1000079,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "everything you've written sucks um but",
+        "offset": 1001319,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "luckily we have no index",
+        "offset": 1003600,
+        "duration": 4280
+      },
+      {
+        "lang": "en",
+        "text": "tags no index tag is a first step that",
+        "offset": 1005240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "you can take towards saying you know",
+        "offset": 1007880,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "Google I'm owning up to the fact this",
+        "offset": 1009160,
+        "duration": 5080
+      },
+      {
+        "lang": "en",
+        "text": "content is not super high quality or",
+        "offset": 1011560,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "maybe I just want to take quick action",
+        "offset": 1014240,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "to remove it from Google's index I want",
+        "offset": 1016040,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "to remove it from consideration I want",
+        "offset": 1017519,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "to take the best performing content on",
+        "offset": 1019680,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "my site and give put my best foot",
+        "offset": 1022759,
+        "duration": 5121
+      },
+      {
+        "lang": "en",
+        "text": "forward and let Google cwl and index and",
+        "offset": 1024559,
+        "duration": 5601
+      },
+      {
+        "lang": "en",
+        "text": "and analyze that content and I want to",
+        "offset": 1027880,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "remove this other content via no index",
+        "offset": 1030160,
+        "duration": 4919
+      },
+      {
+        "lang": "en",
+        "text": "from the index maybe work on improving",
+        "offset": 1032679,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "it maybe you choose to delete it maybe",
+        "offset": 1035079,
+        "duration": 3720
+      },
+      {
+        "lang": "en",
+        "text": "you choose to 301 redirect it but we're",
+        "offset": 1036760,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "taking action with that that's a bold",
+        "offset": 1038799,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "move that you can take now for for pages",
+        "offset": 1040679,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "that you believe are unhelpful for users",
+        "offset": 1043280,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "that puts your best foot forward with",
+        "offset": 1045880,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "other content and it doesn't doesn't",
+        "offset": 1047160,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "require deleting that content you don't",
+        "offset": 1049160,
+        "duration": 3960
+      },
+      {
+        "lang": "en",
+        "text": "have to tell your content writer we're",
+        "offset": 1051120,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "we're aing all the stuff you've written",
+        "offset": 1053120,
+        "duration": 3320
+      },
+      {
+        "lang": "en",
+        "text": "but you can at least no index it and",
+        "offset": 1055000,
+        "duration": 2919
+      },
+      {
+        "lang": "en",
+        "text": "then what's nice about no index",
+        "offset": 1056440,
+        "duration": 3320
+      },
+      {
+        "lang": "en",
+        "text": "theoretically if you did want to send",
+        "offset": 1057919,
+        "duration": 4441
+      },
+      {
+        "lang": "en",
+        "text": "people to those pages via email social",
+        "offset": 1059760,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "media for whatever reason if the author",
+        "offset": 1062360,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "wants to point to the stuff that they've",
+        "offset": 1064120,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "written it's still there it's just not",
+        "offset": 1065400,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "indexed on search engines so that's one",
+        "offset": 1067320,
+        "duration": 4599
+      },
+      {
+        "lang": "en",
+        "text": "thing you can do um Google literally",
+        "offset": 1069880,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "says they have a brand new uh helpful",
+        "offset": 1071919,
+        "duration": 4601
+      },
+      {
+        "lang": "en",
+        "text": "content FAQ where basically one of the",
+        "offset": 1073760,
+        "duration": 5159
+      },
+      {
+        "lang": "en",
+        "text": "questions is like does removing uh",
+        "offset": 1076520,
+        "duration": 4279
+      },
+      {
+        "lang": "en",
+        "text": "helpful content help and in so many",
+        "offset": 1078919,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "words Google says",
+        "offset": 1080799,
+        "duration": 4201
+      },
+      {
+        "lang": "en",
+        "text": "yes that's something you can do to get",
+        "offset": 1082200,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "to address being impacted by this update",
+        "offset": 1085000,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "is you can remove offending content and",
+        "offset": 1086840,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "the rest of your content is what they'll",
+        "offset": 1089799,
+        "duration": 5321
+      },
+      {
+        "lang": "en",
+        "text": "consider so think about no index um if",
+        "offset": 1091559,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "if it's egregious enough I've also been",
+        "offset": 1095120,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "talking to a lot of companies where they",
+        "offset": 1096600,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "they wrote about topics that were very",
+        "offset": 1098080,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "much outside of their wheelhouse and in",
+        "offset": 1099840,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "in some cases in more extreme cases they",
+        "offset": 1101520,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "wrote about topics that are problematic",
+        "offset": 1103200,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "or dangerous or",
+        "offset": 1104960,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "risky Google talks about your money your",
+        "offset": 1106400,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "life",
+        "offset": 1108559,
+        "duration": 2281
+      },
+      {
+        "lang": "en",
+        "text": "uh quite often in the search quality",
+        "offset": 1109360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "guidelines and in other places if you're",
+        "offset": 1110840,
+        "duration": 3640
+      },
+      {
+        "lang": "en",
+        "text": "publishing content on something that's",
+        "offset": 1112960,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "deemed as your money your life so",
+        "offset": 1114480,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "anything that can affect a user's safety",
+        "offset": 1116760,
+        "duration": 4440
+      },
+      {
+        "lang": "en",
+        "text": "Security Financial well-being their",
+        "offset": 1119200,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "health um like family issues psychology",
+        "offset": 1121200,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "issues and I've seen a whole lot of the",
+        "offset": 1124240,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "sites that were hit by The Helpful",
+        "offset": 1126159,
+        "duration": 3081
+      },
+      {
+        "lang": "en",
+        "text": "content update they were publishing a",
+        "offset": 1127320,
+        "duration": 3479
+      },
+      {
+        "lang": "en",
+        "text": "lot of Topic in their Niche but then",
+        "offset": 1129240,
+        "duration": 2919
+      },
+      {
+        "lang": "en",
+        "text": "they kind of ventured out into this",
+        "offset": 1130799,
+        "duration": 2681
+      },
+      {
+        "lang": "en",
+        "text": "other area where you really want to have",
+        "offset": 1132159,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "a doctor involved or you really want to",
+        "offset": 1133480,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "have a psychologist involved before",
+        "offset": 1135159,
+        "duration": 3961
+      },
+      {
+        "lang": "en",
+        "text": "you're making bold claims about uh 10",
+        "offset": 1136480,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "things to know if you have blah blah",
+        "offset": 1139120,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "blah syndrome like you got to be careful",
+        "offset": 1141520,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "with that and I do think that there's",
+        "offset": 1143919,
+        "duration": 2681
+      },
+      {
+        "lang": "en",
+        "text": "certain flags that Google has to say",
+        "offset": 1145200,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "like whoa they're getting into an area",
+        "offset": 1146600,
+        "duration": 2439
+      },
+      {
+        "lang": "en",
+        "text": "that's very much outside their",
+        "offset": 1148080,
+        "duration": 2680
+      },
+      {
+        "lang": "en",
+        "text": "wheelhouse so if you have super",
+        "offset": 1149039,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "egregious content you might want to take",
+        "offset": 1150760,
+        "duration": 3799
+      },
+      {
+        "lang": "en",
+        "text": "more bold action than just no indexing",
+        "offset": 1152080,
+        "duration": 4839
+      },
+      {
+        "lang": "en",
+        "text": "but all of this starts with getting",
+        "offset": 1154559,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "inventory of your site and its content",
+        "offset": 1156919,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "and how it's performing and what have SE",
+        "offset": 1159039,
+        "duration": 3321
+      },
+      {
+        "lang": "en",
+        "text": "what what content has seen the biggest",
+        "offset": 1160919,
+        "duration": 3240
+      },
+      {
+        "lang": "en",
+        "text": "decline their declines in the last few",
+        "offset": 1162360,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "months I think that's a big clue for",
+        "offset": 1164159,
+        "duration": 3961
+      },
+      {
+        "lang": "en",
+        "text": "what might be some of the most offending",
+        "offset": 1166200,
+        "duration": 3880
+      },
+      {
+        "lang": "en",
+        "text": "content but remember this works on a",
+        "offset": 1168120,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "threshold level so if you can get your",
+        "offset": 1170080,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "site in a place where you've removed the",
+        "offset": 1172520,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "vast majority of the offending content",
+        "offset": 1175520,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "and you really truly believe that the",
+        "offset": 1177240,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "content that's left is helpful quality",
+        "offset": 1178799,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": "content according to google hopefully",
+        "offset": 1181280,
+        "duration": 5759
+      },
+      {
+        "lang": "en",
+        "text": "the classifier will be lifted now",
+        "offset": 1184320,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "everyone's getting very antsy and very",
+        "offset": 1187039,
+        "duration": 3161
+      },
+      {
+        "lang": "en",
+        "text": "frustrated because it's been a number of",
+        "offset": 1188440,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "months since September now we're in",
+        "offset": 1190200,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "March and we haven't seen any",
+        "offset": 1191799,
+        "duration": 2801
+      },
+      {
+        "lang": "en",
+        "text": "significant",
+        "offset": 1193360,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "movement this is not uncommon for Google",
+        "offset": 1194600,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "updates uh team and I have worked on",
+        "offset": 1197400,
+        "duration": 5880
+      },
+      {
+        "lang": "en",
+        "text": "helping sites recover this is my history",
+        "offset": 1200320,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "in the SEO space I've been doing this",
+        "offset": 1203280,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "for a while I would unfortunately say",
+        "offset": 1204559,
+        "duration": 5721
+      },
+      {
+        "lang": "en",
+        "text": "that it's not going to be less than six",
+        "offset": 1207919,
+        "duration": 4120
+      },
+      {
+        "lang": "en",
+        "text": "months you know assuming that you're",
+        "offset": 1210280,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "doing a lot of hard work it might be",
+        "offset": 1212039,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "more like a year if I was going to",
+        "offset": 1213640,
+        "duration": 4039
+      },
+      {
+        "lang": "en",
+        "text": "really kind of generalize what I've seen",
+        "offset": 1215480,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "and that's assuming you're doing a lot",
+        "offset": 1217679,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "of hard work so a lot of sites are",
+        "offset": 1218880,
+        "duration": 4520
+      },
+      {
+        "lang": "en",
+        "text": "sitting around currently saying this",
+        "offset": 1221280,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "isn't fair this isn't fair but they're",
+        "offset": 1223400,
+        "duration": 2920
+      },
+      {
+        "lang": "en",
+        "text": "not doing anything that's not the right",
+        "offset": 1224559,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "approach if you want to save your site",
+        "offset": 1226320,
+        "duration": 3080
+      },
+      {
+        "lang": "en",
+        "text": "you need to be doing bold bold action",
+        "offset": 1227559,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "you need to be hitting the ground",
+        "offset": 1229400,
+        "duration": 2759
+      },
+      {
+        "lang": "en",
+        "text": "running fixing as many things as",
+        "offset": 1230520,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "possible because every moment counts",
+        "offset": 1232159,
+        "duration": 4121
+      },
+      {
+        "lang": "en",
+        "text": "it's going to take Google a long time to",
+        "offset": 1233880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "process the changes that you make and",
+        "offset": 1236280,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "they quite literally say that so the",
+        "offset": 1237720,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "sooner you can get to work doing the",
+        "offset": 1239960,
+        "duration": 3719
+      },
+      {
+        "lang": "en",
+        "text": "really big bold moves that are required",
+        "offset": 1241960,
+        "duration": 4040
+      },
+      {
+        "lang": "en",
+        "text": "to to fix your site the faster Google",
+        "offset": 1243679,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "can start to process those changes so",
+        "offset": 1246000,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "hopefully you're already getting to work",
+        "offset": 1248080,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "and these are not small changes this is",
+        "offset": 1249520,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "not like I added an author name to 15",
+        "offset": 1251520,
+        "duration": 4519
+      },
+      {
+        "lang": "en",
+        "text": "articles you know what I mean like this",
+        "offset": 1254640,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "is like you have to move away from the",
+        "offset": 1256039,
+        "duration": 5961
+      },
+      {
+        "lang": "en",
+        "text": "patterns of those super super unhelpful",
+        "offset": 1259360,
+        "duration": 4679
+      },
+      {
+        "lang": "en",
+        "text": "sites and move towards the sites that",
+        "offset": 1262000,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "Google considers helpful and I think we",
+        "offset": 1264039,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "know which ones those are so hopefully",
+        "offset": 1265679,
+        "duration": 6120
+      },
+      {
+        "lang": "en",
+        "text": "that was helpful no pun intended and uh",
+        "offset": 1268679,
+        "duration": 4921
+      },
+      {
+        "lang": "en",
+        "text": "I'm open to questions I know this is a",
+        "offset": 1271799,
+        "duration": 4360
+      },
+      {
+        "lang": "en",
+        "text": "really complicated and and controversial",
+        "offset": 1273600,
+        "duration": 5240
+      },
+      {
+        "lang": "en",
+        "text": "and challenging update I know a lot of",
+        "offset": 1276159,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "people are are really kind of panicked",
+        "offset": 1278840,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "and freaking out but I I wanted to share",
+        "offset": 1280400,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "this video",
+        "offset": 1282120,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "because I've been looking at a lot of",
+        "offset": 1283600,
+        "duration": 3400
+      },
+      {
+        "lang": "en",
+        "text": "sites and the patterns are becoming",
+        "offset": 1285520,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "pretty clear to me so feel free to ask",
+        "offset": 1287000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "any questions in the comments and I will",
+        "offset": 1289039,
+        "duration": 6681
+      },
+      {
+        "lang": "en",
+        "text": "speak to you all soon bye",
+        "offset": 1291159,
+        "duration": 4561
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}

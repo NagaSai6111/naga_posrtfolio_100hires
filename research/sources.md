@@ -6,6 +6,7 @@
 | --- | --- | --- | --- | --- |
 | Gael Breton | Co-Founder, Authority Hacker | [Website](https://www.authorityhacker.com/), [LinkedIn](https://www.linkedin.com/in/gael-breton/), [YouTube](https://www.youtube.com/@AuthorityHackerPodcast) | LinkedIn notes collected 2026-07-03; YouTube transcripts collected 2026-07-03; YouTube video dates range 2026-03-19 to 2026-06-10 | Practical SEO operator focused on AI-assisted content systems, authority sites, workflow automation, Claude Code, topical authority, and quality evaluation loops. |
 | Mark Williams-Cook | SEO consultant and founder, AlsoAsked | [YouTube](https://www.youtube.com/@mwcsearch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-15 to 2026-06-17 | Practical SEO educator focused on search intent, topical authority, Google visibility, and data-driven SEO workflows. |
+| Lily Ray | SEO expert and speaker | [YouTube](https://www.youtube.com/@lilyray) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2024-03-08 to 2025-11-10 | Search quality and algorithm update expert focused on Google core updates, helpful content, AI search, and organic search strategy. |
 
 ## Gael Breton
 
@@ -49,6 +50,26 @@
 | --- | --- | --- | --- |
 | 2026-06-17 | Rank better in Google by finding intent gaps automatically #seo #geo | https://www.youtube.com/watch?v=NFy4YWfd0Tk | Useful for understanding how intent-gap analysis can improve search visibility. |
 | 2026-06-15 | Topical authority isn't as important as you think #seo #topicalauthority | https://www.youtube.com/watch?v=aDyp_4xUkBk | Useful for evaluating topical authority claims and prioritizing SEO strategy. |
+
+## Lily Ray
+
+**Research focus:** Google search quality, algorithm updates, helpful content, spam updates, AI search, and organic search strategy.
+
+**Why selected:** Lily publishes practical explanations of Google updates and search-quality issues, which are useful for understanding how AI-era SEO content should be evaluated and improved.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/lily_ray/<video-id-title>/transcript.md`
+
+## Lily Ray YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2025-11-10 | GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search - Lily Ray at MozCon 2025 | https://www.youtube.com/watch?v=2nJkT8zOzcM | Useful for understanding AI search terminology and practical strategy beyond hype. |
+| 2024-04-06 | Has Google's search quality been declining in recent years? | https://www.youtube.com/watch?v=F4YrcVkcvuk | Useful for search-quality analysis and the debate around Google result quality. |
+| 2024-04-06 | The Cycles of Google's Algorithm Updates: Thoughts on the March Core Update & Helpful Content Update | https://www.youtube.com/watch?v=gyWQeIGzc3k | Useful for understanding repeated patterns in Google algorithm updates. |
+| 2024-03-14 | The Helpful Content Update - Reflecting on What Happened | https://www.youtube.com/watch?v=-ewdcdsJ2k4 | Useful for evaluating helpful content impacts and recovery thinking. |
+| 2024-03-08 | March 2024 Core Update & Spam Updates with Lily Ray | https://www.youtube.com/watch?v=HScvmekUAB4 | Useful for studying core update and spam update implications for SEO strategy. |
 
 ## Collection Notes
 

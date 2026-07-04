@@ -1,0 +1,200 @@
+{
+  "video_id": "F4YrcVkcvuk",
+  "url": "https://www.youtube.com/watch?v=F4YrcVkcvuk",
+  "title": "Has Google's search quality been declining in recent years?",
+  "upload_date": "2024-04-06T12:23:24-07:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T13:24:02+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "um there were a lot of murmurs about how",
+        "offset": 760,
+        "duration": 3800
+      },
+      {
+        "lang": "en",
+        "text": "Google's quality search quality is",
+        "offset": 2840,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "getting worse the search results are",
+        "offset": 4560,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "getting worse um there was a pretty",
+        "offset": 6200,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "famous uh blog post and it was let me",
+        "offset": 8719,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "find this guy's Blog dkb blog Google",
+        "offset": 10840,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "search is dying I don't know why this",
+        "offset": 13679,
+        "duration": 4201
+      },
+      {
+        "lang": "en",
+        "text": "particular blog post seems to have had",
+        "offset": 16119,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "as much of an impact as it did but it",
+        "offset": 17880,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "went pretty viral on Reddit it went",
+        "offset": 19160,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "viral on Hacker News and then because it",
+        "offset": 21400,
+        "duration": 5719
+      },
+      {
+        "lang": "en",
+        "text": "was going viral some major media started",
+        "offset": 24680,
+        "duration": 4519
+      },
+      {
+        "lang": "en",
+        "text": "to um report on it as well like the",
+        "offset": 27119,
+        "duration": 4441
+      },
+      {
+        "lang": "en",
+        "text": "Atlantic had a a big hit piece against",
+        "offset": 29199,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "Google and the quality of its results",
+        "offset": 31560,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "and some of the things people were",
+        "offset": 34719,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "saying Google is like an old shopping",
+        "offset": 36200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "mall you know you go in there and you",
+        "offset": 38800,
+        "duration": 2759
+      },
+      {
+        "lang": "en",
+        "text": "like kind of forgot what you were",
+        "offset": 40600,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "looking for and like then people started",
+        "offset": 41559,
+        "duration": 5160
+      },
+      {
+        "lang": "en",
+        "text": "to really talk about the fact that SEO",
+        "offset": 44200,
+        "duration": 4199
+      },
+      {
+        "lang": "en",
+        "text": "spammers are ruining the",
+        "offset": 46719,
+        "duration": 5561
+      },
+      {
+        "lang": "en",
+        "text": "internet and I wasn't really like",
+        "offset": 48399,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": "clearly",
+        "offset": 52280,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "seeing how big of a problem this was",
+        "offset": 53920,
+        "duration": 3959
+      },
+      {
+        "lang": "en",
+        "text": "becoming until these articles started to",
+        "offset": 56280,
+        "duration": 3079
+      },
+      {
+        "lang": "en",
+        "text": "come out and it became like mainstream",
+        "offset": 57879,
+        "duration": 3160
+      },
+      {
+        "lang": "en",
+        "text": "media that like a lot of people were",
+        "offset": 59359,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "feeling that Google's results were not",
+        "offset": 61039,
+        "duration": 4761
+      },
+      {
+        "lang": "en",
+        "text": "authentic",
+        "offset": 63039,
+        "duration": 2761
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}

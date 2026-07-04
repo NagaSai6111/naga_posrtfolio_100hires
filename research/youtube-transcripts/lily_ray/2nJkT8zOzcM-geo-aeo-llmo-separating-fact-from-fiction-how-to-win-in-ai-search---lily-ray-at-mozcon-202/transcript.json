@@ -1,0 +1,6194 @@
+{
+  "video_id": "2nJkT8zOzcM",
+  "url": "https://www.youtube.com/watch?v=2nJkT8zOzcM",
+  "title": "GEO, AEO, LLMO: Separating Fact from Fiction & How to Win in AI Search - Lily Ray at MozCon 2025",
+  "upload_date": "2025-11-10T14:10:00-08:00",
+  "source": "supadata",
+  "status": "ok",
+  "error": "",
+  "fetched_at": "2026-07-04T13:24:00+00:00",
+  "transcript": {
+    "lang": "en",
+    "availableLangs": [
+      "en"
+    ],
+    "content": [
+      {
+        "lang": "en",
+        "text": "Hi everyone and welcome to GEO AEO LLMO",
+        "offset": 1040,
+        "duration": 6400
+      },
+      {
+        "lang": "en",
+        "text": "separating fact from fiction and how to",
+        "offset": 5520,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "win an AI search. This is an online",
+        "offset": 7440,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "adapted version of the presentation that",
+        "offset": 10240,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "I gave at Moscon New York City last week",
+        "offset": 12240,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "and I just wanted to share it online as",
+        "offset": 15120,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "well. So for anybody who doesn't know",
+        "offset": 17119,
+        "duration": 5681
+      },
+      {
+        "lang": "en",
+        "text": "me, my name is Lily Ray and I'm the VP",
+        "offset": 20400,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "of SEO strategy and research at an",
+        "offset": 22800,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "agency called AMSIV based here in New",
+        "offset": 24880,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "York City. And this was my fifth annual",
+        "offset": 26960,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "year presenting at Mozcon, the first",
+        "offset": 30080,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "ever Moscon New York City and my ninth",
+        "offset": 32239,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "year in a row attending Moscon. So I was",
+        "offset": 34640,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "just so excited to be back on stage with",
+        "offset": 36480,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "Moz.",
+        "offset": 38160,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "Now for anybody in the SEO and AI search",
+        "offset": 39840,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "space, this is a bit of what it's felt",
+        "offset": 42800,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "like to stay on top of all the latest",
+        "offset": 44719,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "trends and developments this year.",
+        "offset": 46320,
+        "duration": 6399
+      },
+      {
+        "lang": "en",
+        "text": "We have all types of new vocabulary and",
+        "offset": 50079,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "terminology that we need to learn like",
+        "offset": 52719,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "chunking content prompt engineering",
+        "offset": 55280,
+        "duration": 5599
+      },
+      {
+        "lang": "en",
+        "text": "token efficiency cosign similarity model",
+        "offset": 57520,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "context protocol agentic workflows so",
+        "offset": 60879,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "much new you know new concepts and new",
+        "offset": 63520,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "things to learn this year uh it's been",
+        "offset": 65600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "very overwhelming I feel like every day",
+        "offset": 67680,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "we've had to stay on top of learning all",
+        "offset": 69360,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "the latest developments in the AI space",
+        "offset": 70880,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "and I would say the most important",
+        "offset": 73119,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "question and on the top of everybody's",
+        "offset": 74560,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "mind is is this GEO8 AEO, LLMO, or",
+        "offset": 76240,
+        "duration": 6160
+      },
+      {
+        "lang": "en",
+        "text": "really just SEO.",
+        "offset": 80080,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "And in order to present this today, I",
+        "offset": 82400,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "wanted to keep things simple with a",
+        "offset": 84799,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "little bit of a story time. And I was",
+        "offset": 86560,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "thinking about, well, how can I convey",
+        "offset": 89360,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "this in a way that would make sense? And",
+        "offset": 90799,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "I thought back to this timeless article",
+        "offset": 92560,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "describing our beloved SEO industry as",
+        "offset": 94799,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "one giant alligator party. So, if",
+        "offset": 97680,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "anybody remembers the people that ruin",
+        "offset": 99759,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "the internet, uh, was written by an",
+        "offset": 101200,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "author at the Verge. Um, they talked",
+        "offset": 103200,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "about how our industry is an alligator",
+        "offset": 105439,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "party. So, I thought I would stick with",
+        "offset": 107280,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "that motif throughout today's",
+        "offset": 108560,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "presentation. And you might be",
+        "offset": 110320,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "wondering, well, I'm based in New York",
+        "offset": 112079,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "City. Why on earth would I be talking",
+        "offset": 113360,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "about alligators in New York? Well,",
+        "offset": 115040,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "believe it or not, we have had our share",
+        "offset": 117040,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "of alligators appearing in our subway",
+        "offset": 118880,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "system of New York in the gutters of the",
+        "offset": 121280,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "subway. So, it's not impossible to",
+        "offset": 123680,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "encounter an alligator once in a while.",
+        "offset": 125360,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "Um, but you're much more likely to",
+        "offset": 127040,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "encounter a rat on the New York City",
+        "offset": 128479,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "subway. So, don't be too alarmed when",
+        "offset": 129920,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "you come to visit our city. So anyway,",
+        "offset": 131760,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "let's take a journey",
+        "offset": 134480,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "into 2025, the year of AI search, the",
+        "offset": 136720,
+        "duration": 7360
+      },
+      {
+        "lang": "en",
+        "text": "allegory of the alligator.",
+        "offset": 140319,
+        "duration": 6801
+      },
+      {
+        "lang": "en",
+        "text": "Our story begins in mid 2023 in the SEO",
+        "offset": 144080,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "swamp, deep in the gutters of the subway",
+        "offset": 147120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "beneath New York City, where the SEO",
+        "offset": 149360,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "industry's biggest evolutions are",
+        "offset": 151440,
+        "duration": 6200
+      },
+      {
+        "lang": "en",
+        "text": "handled by a party of alligators.",
+        "offset": 153519,
+        "duration": 4121
+      },
+      {
+        "lang": "en",
+        "text": "Once a year, the SEO swamp alligators",
+        "offset": 157760,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "gather for their most sacred tradition,",
+        "offset": 159840,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "the SEO Hype Cycle Monopoly Tournament,",
+        "offset": 162080,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "where each alligator insists that",
+        "offset": 164400,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "they're winning, but no one ever",
+        "offset": 165840,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "actually lands on page one.",
+        "offset": 167440,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "Here we meet Mother SEO, caring, strong,",
+        "offset": 170480,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "and a bit tired of explaining canonical",
+        "offset": 173360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "tags. She's pregnant and expecting",
+        "offset": 175200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "another little alligator. A shiny new",
+        "offset": 177360,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "evolution the swamp is already hyping",
+        "offset": 179360,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "up. Could this one truly be the next big",
+        "offset": 181280,
+        "duration": 5879
+      },
+      {
+        "lang": "en",
+        "text": "thing in search?",
+        "offset": 183680,
+        "duration": 3479
+      },
+      {
+        "lang": "en",
+        "text": "Father PPC is well always reallocating",
+        "offset": 187519,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "the family budget preferably toward",
+        "offset": 190560,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "anything that can be tracked,",
+        "offset": 192560,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "attributed, and justified in a quarterly",
+        "offset": 193840,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "report.",
+        "offset": 195760,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "Each alligator represents an important",
+        "offset": 197599,
+        "duration": 4881
+      },
+      {
+        "lang": "en",
+        "text": "chapter from SEO history. Each child",
+        "offset": 199920,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "still has a faint trace of the bright",
+        "offset": 202480,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "colors they were born with during their",
+        "offset": 204400,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "own hype cycle, a reminder of when they",
+        "offset": 205760,
+        "duration": 6800
+      },
+      {
+        "lang": "en",
+        "text": "too were the next big thing in search.",
+        "offset": 208080,
+        "duration": 6960
+      },
+      {
+        "lang": "en",
+        "text": "Here we have mobile get in that 2015",
+        "offset": 212560,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "update where Google essentially told",
+        "offset": 215040,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "every website if your site isn't mobile",
+        "offset": 216480,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "friendly it might as well not exist.",
+        "offset": 218640,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "He's still forever flexing about that",
+        "offset": 220879,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "one heroic mo moment where he forced the",
+        "offset": 222560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "entire internet to go responsive yelling",
+        "offset": 224560,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "go responsive or go home at anyone who",
+        "offset": 226720,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "dared to load a desktop experience on a",
+        "offset": 229120,
+        "duration": 5759
+      },
+      {
+        "lang": "en",
+        "text": "mobile device.",
+        "offset": 231680,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "Next up is voice search the darling of",
+        "offset": 234879,
+        "duration": 5121
+      },
+      {
+        "lang": "en",
+        "text": "2016 SEO conference stages. She was",
+        "offset": 237120,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "absolutely convinced that she would",
+        "offset": 240000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "replace all typing by 2020. For a brief",
+        "offset": 241280,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "glorious moment, she had us shouting,",
+        "offset": 244159,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "\"Okay, Google\" into our phones and",
+        "offset": 245840,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "believing this was indeed the future.",
+        "offset": 247840,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "Well, she still insisted is if you would",
+        "offset": 249840,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "just speak clearly into the microphone",
+        "offset": 251920,
+        "duration": 2879
+      },
+      {
+        "lang": "en",
+        "text": "and stop having so much background",
+        "offset": 253280,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "noise.",
+        "offset": 254799,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "And here comes AMP, otherwise known as",
+        "offset": 257519,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "accelerated mobile pages, who once ran",
+        "offset": 259759,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "faster than anyone at the SEO swamp. In",
+        "offset": 262079,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "2016, he was promised a life of fame.",
+        "offset": 264639,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "Top stories, Google discover, lightning",
+        "offset": 267040,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "bolts, instant mobile glory. But after",
+        "offset": 269199,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "peaking far too early and losing his",
+        "offset": 271680,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "special treatment, no one seems to call",
+        "offset": 273680,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "anymore. He still keeps running his",
+        "offset": 275759,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "running shoes on though, just in case",
+        "offset": 277840,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Google chooses to give him a second",
+        "offset": 279280,
+        "duration": 5000
+      },
+      {
+        "lang": "en",
+        "text": "chance.",
+        "offset": 281280,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "Now we have featured Snippets, the",
+        "offset": 284639,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "overachieving middle child who always",
+        "offset": 286560,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "has the right answer. Back in 2018, she",
+        "offset": 288240,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "was the golden girl of search, answering",
+        "offset": 291040,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "questions directly at the top of Google,",
+        "offset": 293280,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "complete with a shiny position zero",
+        "offset": 295199,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "crown. In her opinion, she's the one",
+        "offset": 296960,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "who's truly started zero click search.",
+        "offset": 299520,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "But did she ever get the credit? Of",
+        "offset": 301840,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "course not. Someone else reads her work",
+        "offset": 303680,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "out loud, takes the clicks, and she's",
+        "offset": 305520,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "less sitting there like, I literally",
+        "offset": 307280,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "wrote that.",
+        "offset": 308880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "And here's Core Web Vitals, the gym bro",
+        "offset": 311039,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "of the family, forever flexing about his",
+        "offset": 313120,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "gains in page speed, responsiveness, and",
+        "offset": 315199,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "visual stability. He arrived in 2021",
+        "offset": 317280,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "with one mission. Whip the entire web",
+        "offset": 319840,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "into performance shape.",
+        "offset": 322160,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "He's always shouting, \"Always be",
+        "offset": 325039,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "optimizing,\" while checking his",
+        "offset": 326560,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "lighthouse scores like they're his",
+        "offset": 328160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "biceps in the mirror. 97% of the SEO",
+        "offset": 329440,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "swamp still doesn't understand what he",
+        "offset": 332160,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "does, and they know deep down he's still",
+        "offset": 333600,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "just a tiebreaker rank ranking signal,",
+        "offset": 335759,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "but they applaud anyway.",
+        "offset": 338160,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "The SEO swamp alligator family lives in",
+        "offset": 341759,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "perfect harmony. Each alligator adding",
+        "offset": 344160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "its own tint of past hype to the",
+        "offset": 346400,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "ecosystem. They've conquered every SEO",
+        "offset": 348160,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "is dead headline together. But tonight,",
+        "offset": 350960,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "deep beneath the roar of the New York",
+        "offset": 353840,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "City subway, something is stirring.",
+        "offset": 355360,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "Because tonight, a brand new revolution",
+        "offset": 357840,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "is about to hatch. One that promises to",
+        "offset": 360240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "change everything, just like the last",
+        "offset": 362800,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "eight did.",
+        "offset": 364880,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "And then, Mother Sio's long anticipated",
+        "offset": 366960,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "egg finally arrives. But not just any",
+        "offset": 369600,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "egg. This one is covered entirely in",
+        "offset": 372000,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "gold. The SEO swamp has never seen",
+        "offset": 374080,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "anything like it. There's awe,",
+        "offset": 376240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "confusion, and a tiny bit of fear. If",
+        "offset": 378160,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "you listen closely, you'll hear a faint",
+        "offset": 380720,
+        "duration": 6800
+      },
+      {
+        "lang": "en",
+        "text": "whisper from within. Feed me data.",
+        "offset": 382639,
+        "duration": 6881
+      },
+      {
+        "lang": "en",
+        "text": "The elder siblings peer suspiciously at",
+        "offset": 387520,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "their new brother. They've seen this",
+        "offset": 389520,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "before. The shimmer, the promises, the",
+        "offset": 391360,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "venture capital circling overhead like",
+        "offset": 394160,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "hungry vultures. AMP and core webb",
+        "offset": 395840,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "vitals exchange a look that says, \"Give",
+        "offset": 398000,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "it six months.\" A star is coming, but",
+        "offset": 399840,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "what will his name be?",
+        "offset": 402319,
+        "duration": 5761
+      },
+      {
+        "lang": "en",
+        "text": "The naming ceremony commences. Everyone",
+        "offset": 405600,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "has an opinion about what what to name",
+        "offset": 408080,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "the new baby brother.",
+        "offset": 409680,
+        "duration": 6560
+      },
+      {
+        "lang": "en",
+        "text": "Featured snippet suggests AEO, answer",
+        "offset": 413280,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "engine optimization. Voice search",
+        "offset": 416240,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "mentions that the name is already held",
+        "offset": 418479,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "by American Eagle Outfitters. The mother",
+        "offset": 419919,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "proposes LLMO, large language model",
+        "offset": 422400,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "optimization, but mobile getan says,",
+        "offset": 424960,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "\"Mom, that's a mouthful.\" All eyes",
+        "offset": 426800,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "turned to grandma SEO, who's been",
+        "offset": 428960,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "quietly observing the spectacle from the",
+        "offset": 430880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "back. She's ancient, wise, and",
+        "offset": 432639,
+        "duration": 4881
+      },
+      {
+        "lang": "en",
+        "text": "permanently unimpressed. She adjusts her",
+        "offset": 435120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "reading glasses, glares at the chaos,",
+        "offset": 437520,
+        "duration": 6399
+      },
+      {
+        "lang": "en",
+        "text": "and grumbles, \"This is all just SEO.\"",
+        "offset": 439440,
+        "duration": 6879
+      },
+      {
+        "lang": "en",
+        "text": "Father PPC proudly holds the golden baby",
+        "offset": 443919,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "above his head. He proclaims, \"We shall",
+        "offset": 446319,
+        "duration": 5761
+      },
+      {
+        "lang": "en",
+        "text": "call him Gio.\" AMP tilts his head,",
+        "offset": 449120,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "blinking. \"But dad, doesn't Gio already",
+        "offset": 452080,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "mean like 10 different things?\" Father",
+        "offset": 454639,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "PPC waves it off. \"Go it is,\" he says.",
+        "offset": 456720,
+        "duration": 5599
+      },
+      {
+        "lang": "en",
+        "text": "Generative engine optimization. It",
+        "offset": 460000,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "sounds sufficiently complicated. Baby",
+        "offset": 462319,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "Gio grins, glowing, glimmering, and",
+        "offset": 465199,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "already convinced that he's the main",
+        "offset": 467680,
+        "duration": 4359
+      },
+      {
+        "lang": "en",
+        "text": "character.",
+        "offset": 469039,
+        "duration": 3000
+      },
+      {
+        "lang": "en",
+        "text": "No sooner has baby Gio hatched than the",
+        "offset": 472080,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "headlines start to explode. There's a",
+        "offset": 474080,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "full-blown media frenzy. They claim SEO",
+        "offset": 476000,
+        "duration": 5759
+      },
+      {
+        "lang": "en",
+        "text": "is dead. All hail geo. Everything is",
+        "offset": 479039,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "chunking now. Without geo, you'll be",
+        "offset": 481759,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "invisible in AI search. There's all this",
+        "offset": 484000,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "new significant pressure from the media",
+        "offset": 486560,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "and the seauite to think beyond SEO",
+        "offset": 488240,
+        "duration": 5359
+      },
+      {
+        "lang": "en",
+        "text": "because geo has arrived.",
+        "offset": 490319,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "The rumors about geo begin to fly around",
+        "offset": 493599,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "the SEO swamp and baby geo is thought to",
+        "offset": 495599,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "revolutionize the entire search",
+        "offset": 498240,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "landscape.",
+        "offset": 499759,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "So what do we begin to hear about geo?",
+        "offset": 501680,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "What are those rumors? First, we hear",
+        "offset": 503520,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "that Google and SEO are dead because",
+        "offset": 505840,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "everyone starts their search now on chat",
+        "offset": 507919,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "GPT. We hear that you should optimize",
+        "offset": 509680,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "for conversations and prompts rather",
+        "offset": 512320,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "than focusing on keywords. We hear that",
+        "offset": 513919,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "content must be properly chunked,",
+        "offset": 516880,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "converted to vector embeddings, and",
+        "offset": 518640,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "measured with cosign similarity, or else",
+        "offset": 520000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "you'll be invisible in AI search. We",
+        "offset": 521680,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "hear that you must structure your",
+        "offset": 524159,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "content for AI ingestion, like creating",
+        "offset": 525440,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "FAQs, questions, and answers, structured",
+        "offset": 527360,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "data, bullets, and tables. We hear that",
+        "offset": 530000,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "you need to earn thirdparty mentions",
+        "offset": 532880,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "across highly cited domains to be",
+        "offset": 534320,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "visible in AI search and that you need",
+        "offset": 536000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "to own the conversation on Reddit,",
+        "offset": 537920,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "YouTube, and Facebook. We hear that AI",
+        "offset": 539760,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "search is multimodal, which means that",
+        "offset": 542640,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "it can ingest different types of content",
+        "offset": 544240,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "like video, audio, images, and more. We",
+        "offset": 546000,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "hear that you need to think about the",
+        "offset": 549120,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "evolved SEO metrics with new KPIs and",
+        "offset": 550480,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "new large language model tracking tools.",
+        "offset": 553120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "We also hear that query fanout is",
+        "offset": 555600,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "extremely important as these AI tools",
+        "offset": 557440,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "can conduct multiple searches",
+        "offset": 559519,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "simultaneously. So we need to think",
+        "offset": 561040,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "about all the different questions that",
+        "offset": 562880,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "users might be asking and optimize for",
+        "offset": 564160,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "all those different intents.",
+        "offset": 566240,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "Baby Gio becomes a celebrity overnight,",
+        "offset": 568720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "dripping gold, wearing sunglasses,",
+        "offset": 571279,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "posing for the paparazzi just like every",
+        "offset": 573360,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "prompt was written just for him. He",
+        "offset": 575200,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "bursts into the scene with a set list of",
+        "offset": 577680,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "new tricks like converting content into",
+        "offset": 579279,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "embeddings, dominating AI overviews,",
+        "offset": 581519,
+        "duration": 5361
+      },
+      {
+        "lang": "en",
+        "text": "eating clicks like like they're candy,",
+        "offset": 584480,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "and almost always refusing to site his",
+        "offset": 586880,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "sources.",
+        "offset": 589120,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "The AI press, Chachi PT the owl, Gemini",
+        "offset": 591839,
+        "duration": 5281
+      },
+      {
+        "lang": "en",
+        "text": "the dragonfly, Claude the pel the",
+        "offset": 594880,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "pelican all praise him as revolutionary",
+        "offset": 597120,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "and disruptive. Investors swoon. CMOs",
+        "offset": 599600,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "panic by dashboards. LinkedIn",
+        "offset": 602880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "influencers update their their job",
+        "offset": 605040,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "titles to GEO experts before lunch. The",
+        "offset": 606640,
+        "duration": 6800
+      },
+      {
+        "lang": "en",
+        "text": "SEO world cheers and trembles.",
+        "offset": 609200,
+        "duration": 7199
+      },
+      {
+        "lang": "en",
+        "text": "The SEO swamp erupts in chaos. Young",
+        "offset": 613440,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "Gio, now sporting designer sunglasses",
+        "offset": 616399,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "and a boa, performs his hit single,",
+        "offset": 618640,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "chunk it like it's hot to a crowd of",
+        "offset": 620880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "mesmerized tech reporters and confused",
+        "offset": 622880,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "aunties trying to understand what their",
+        "offset": 624720,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "nephew does for a living.",
+        "offset": 626560,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "So budgets and staffing begins to change",
+        "offset": 630240,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "to capture all this new AI search",
+        "offset": 632480,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "demand. And we see that Google's AI",
+        "offset": 634160,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "overviews are indeed leaning leading to",
+        "offset": 636079,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "declining organic clicks. The reality is",
+        "offset": 638240,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "that we see with a lot of sites that AI",
+        "offset": 640720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "overviews are cutting into traffic. And",
+        "offset": 643519,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "we see this phenomenon that's commonly",
+        "offset": 645200,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "referred to as the Google Search Console",
+        "offset": 647440,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "alligator mouth effect where impressions",
+        "offset": 649519,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "are rising up while clicks are",
+        "offset": 651519,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "declining. We hear that SEO KPIs like",
+        "offset": 652959,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "clicks and rankings are beginning to",
+        "offset": 655680,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "subside in importance as we need to",
+        "offset": 657519,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "think about new SEO KPIs which we'll",
+        "offset": 659360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "talk about a bit later. And as a result",
+        "offset": 661440,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "of this, new large language model",
+        "offset": 663360,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "tracking tools begin to arise.",
+        "offset": 664880,
+        "duration": 5840
+      },
+      {
+        "lang": "en",
+        "text": "Behold, King Gio perched at top his",
+        "offset": 667839,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "velvet throne labeled AI overviews",
+        "offset": 670720,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "basking in the spotlight. Here in his",
+        "offset": 672560,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "swamp palace, he devours your organic",
+        "offset": 674800,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "clicks like their Michelin starred",
+        "offset": 676720,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "grapes. And what does he offer to the",
+        "offset": 678160,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "humble websites below? Tiny scraps of",
+        "offset": 680079,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "paper currency, each one reading",
+        "offset": 682560,
+        "duration": 5959
+      },
+      {
+        "lang": "en",
+        "text": "click-through rate 8%.",
+        "offset": 684160,
+        "duration": 4359
+      },
+      {
+        "lang": "en",
+        "text": "Publishers, shown here as the swamp's",
+        "offset": 688640,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "frogs, turtles, even the occasional",
+        "offset": 690560,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "possum, leap desperately for the crumbs",
+        "offset": 692240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "of visibility. For many, it's become",
+        "offset": 694560,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "feast or famine. Meanwhile, GEO's loyal",
+        "offset": 696720,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "servants, Chachi PT, Clawude, Gemini,",
+        "offset": 699920,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "and Perplexity, present silver platters",
+        "offset": 702720,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "overflowing with queries, snippets, and",
+        "offset": 705200,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "answers. GEO smiles and takes all the",
+        "offset": 707440,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "credit.",
+        "offset": 710640,
+        "duration": 2400
+      },
+      {
+        "lang": "en",
+        "text": "But the real spectacle lies just beyond",
+        "offset": 713279,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "the throne in GEO's gift shop. Because",
+        "offset": 715120,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "remember, visibility is temporary, but",
+        "offset": 718000,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "swag is forever. A new line of AI",
+        "offset": 720560,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "visibility tracking tools has emerged.",
+        "offset": 723360,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "Profound plushies, Peak AI puzzles,",
+        "offset": 725600,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "scrunch board games, HS brand radar",
+        "offset": 728160,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "binoculars, and even nan automations and",
+        "offset": 730800,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "make.com puzzle kits for the true power",
+        "offset": 733120,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "user. Collect them all before your CFO",
+        "offset": 735200,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "notices.",
+        "offset": 737760,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "Finally, we've arrived at Gio's",
+        "offset": 740160,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "glamorous digital PR penthouse where",
+        "offset": 742079,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "influencer peacocks, eagle-eyed",
+        "offset": 744480,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "executives, and brand obsessed otter",
+        "offset": 746480,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "gather. Here, Gio teaches one golden",
+        "offset": 748800,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "rule. If you want to show up in AI",
+        "offset": 751360,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "search, you'd better show up everywhere",
+        "offset": 753440,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "else, too, and with a good reputation as",
+        "offset": 755200,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "well.",
+        "offset": 757680,
+        "duration": 6480
+      },
+      {
+        "lang": "en",
+        "text": "Meanwhile, back at the SEO swamp.",
+        "offset": 760399,
+        "duration": 5841
+      },
+      {
+        "lang": "en",
+        "text": "As the swamp settles into evening, the",
+        "offset": 764160,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "forgotten siblings gather around the TV.",
+        "offset": 766240,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "Voice search clutches a dusty Moscon",
+        "offset": 768959,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "trophy. Voice will take over by 2020. It",
+        "offset": 771120,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "reads, \"Remember when Cindrum said, \"I'd",
+        "offset": 773760,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "change everything.\" She whispers hopeful",
+        "offset": 776240,
+        "duration": 6080
+      },
+      {
+        "lang": "en",
+        "text": "yet. Mobile Get in Pats gently. Hey, we",
+        "offset": 778639,
+        "duration": 6801
+      },
+      {
+        "lang": "en",
+        "text": "had one incredible year.",
+        "offset": 782320,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "Mother SEO smiles proudly, flipping",
+        "offset": 785440,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "channels. But on every channel, it's",
+        "offset": 787680,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "Gio. Late night talk shows, sports",
+        "offset": 790000,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "highlights, a cooking segment titled",
+        "offset": 792720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "chunking content for breakfast. The",
+        "offset": 795120,
+        "duration": 6880
+      },
+      {
+        "lang": "en",
+        "text": "siblings groan. It's the circle of hype.",
+        "offset": 797200,
+        "duration": 7600
+      },
+      {
+        "lang": "en",
+        "text": "The TV flickers again and Gio's golden",
+        "offset": 802000,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "face fills the screen for the 47th",
+        "offset": 804800,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "channel in a row. Mother SEO wraps her",
+        "offset": 806880,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "tail around her children and murmurs,",
+        "offset": 809279,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "\"Don't worry, little ones. Remember that",
+        "offset": 811040,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "everyone gets their moment in the",
+        "offset": 813120,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "spotlight here in the SEO swamp.\"",
+        "offset": 814639,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "Let's take a trip back to a simpler time",
+        "offset": 818320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "when every SEO conference keynote",
+        "offset": 820639,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "promised a revolution. We start with the",
+        "offset": 822480,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "glamorous alligator Cindy Cindyrum.",
+        "offset": 824800,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "Charismatic, stylish glasses, perfect",
+        "offset": 827360,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "hair on the Moscon 2018 stage",
+        "offset": 829920,
+        "duration": 6320
+      },
+      {
+        "lang": "en",
+        "text": "proclaiming voice search is the future.",
+        "offset": 832480,
+        "duration": 6479
+      },
+      {
+        "lang": "en",
+        "text": "50% of searches will be voiced by 2020",
+        "offset": 836240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "and mobile first indexing will change",
+        "offset": 838959,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "everything. In the audience, a young",
+        "offset": 840880,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "voice search in Mobile, glowing with",
+        "offset": 843519,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "their original bright colors, leap up",
+        "offset": 845839,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "and down, convinced that this is their",
+        "offset": 848000,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "forever moment.",
+        "offset": 849600,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "Now a roaring stadium in the swamp, AMP",
+        "offset": 852160,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "and Corore Web Vitals are racing the 100",
+        "offset": 854639,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "meter dash. AMP bursts forward with",
+        "offset": 856560,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "unbelievable speed. The crowd loses its",
+        "offset": 858880,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "mind up until Core Web Vitals jogs past",
+        "offset": 861519,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "with perfect form.",
+        "offset": 864160,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "The scoreboard reads, \"Need for speed.\"",
+        "offset": 866639,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "as fans chant like they're trying to",
+        "offset": 869120,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "pass core web vitals before month end",
+        "offset": 870720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "reporting.",
+        "offset": 872639,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "Now flashback to Ross Simmons. His",
+        "offset": 875360,
+        "duration": 6080
+      },
+      {
+        "lang": "en",
+        "text": "alligator takes the Moscon 2019 stage.",
+        "offset": 878560,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "Stylish jacket swagger of a creature who",
+        "offset": 881440,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "knows distribution is destiny. Create",
+        "offset": 883600,
+        "duration": 6320
+      },
+      {
+        "lang": "en",
+        "text": "once, he says. Distribute forever.",
+        "offset": 885760,
+        "duration": 5920
+      },
+      {
+        "lang": "en",
+        "text": "In his talk, Ross shared the importance",
+        "offset": 889920,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "of having your brand mentioned across",
+        "offset": 891680,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "all platforms like Reddit, X, and",
+        "offset": 893120,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "YouTube and ensuring content was",
+        "offset": 895360,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "produced in different formats for",
+        "offset": 897199,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "multimodal search such as audio, video,",
+        "offset": 899040,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "images, presentations, and more. The",
+        "offset": 901600,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "link, the viral linkbait alligator,",
+        "offset": 903920,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "still rainbow colored, sheds tears of",
+        "offset": 906320,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "pride. This was his era. The swamp",
+        "offset": 908399,
+        "duration": 5680
+      },
+      {
+        "lang": "en",
+        "text": "cheered for crossplatform amplification.",
+        "offset": 911440,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "Does all of this sound a bit familiar?",
+        "offset": 914079,
+        "duration": 5281
+      },
+      {
+        "lang": "en",
+        "text": "We also start to hear Google's response",
+        "offset": 917440,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "to the rise of geo.",
+        "offset": 919360,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "A few months back, Danny Sullivan from",
+        "offset": 921760,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "Google gave a presentation where he",
+        "offset": 923600,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "confirmed that good SEO is really the",
+        "offset": 925120,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "same thing as good geo.",
+        "offset": 928320,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "We start to hear some other sites and",
+        "offset": 930560,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "other companies debunking GEO myths.",
+        "offset": 932720,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "First, we hear Google again saying that",
+        "offset": 935199,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "having good SEO and therefore good geo",
+        "offset": 936959,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "is largely just having great content for",
+        "offset": 939120,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "people. We hear that Google saying that",
+        "offset": 941199,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "you don't really need anything new or",
+        "offset": 943600,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "special to appear in Google's AI",
+        "offset": 945040,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "overviews like AEO or GEO. We hear",
+        "offset": 947360,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "companies like Atres saying GEO, LLMO,",
+        "offset": 950160,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "AEO, it's really all just SEO. And John",
+        "offset": 952560,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "Mueller from Google talks about",
+        "offset": 955199,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "optimizing sites for embeddings, which",
+        "offset": 956399,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "he refers to literally as keyword",
+        "offset": 958079,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "stuffing, which is a form of spam in",
+        "offset": 960000,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "Google search.",
+        "offset": 962160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "We also start to see throughout the year",
+        "offset": 964399,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "an interesting phenomenon whereby new",
+        "offset": 966160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "articles that people are publishing like",
+        "offset": 968320,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "these articles that I published on AMS",
+        "offset": 970160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "and on my personal blog and on social",
+        "offset": 972320,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "media without doing anything new or",
+        "offset": 974160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "special, you know, just provide some",
+        "offset": 976480,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "good content and use SEO fundamentals",
+        "offset": 978160,
+        "duration": 5359
+      },
+      {
+        "lang": "en",
+        "text": "and best practices. We're seeing that",
+        "offset": 981680,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "these articles are quickly cited within",
+        "offset": 983519,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "a few hours within all the different AI",
+        "offset": 985600,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "search platforms. And when I share this",
+        "offset": 987440,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "with many people, they say, \"Well, yeah,",
+        "offset": 989680,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "Lily, you have a big platform. you know,",
+        "offset": 990959,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "you have lots of people reading your",
+        "offset": 993040,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "content, so maybe it's because of that.",
+        "offset": 994160,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "Well, my teammate Will, who's been",
+        "offset": 996480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "publishing a lot of great content this",
+        "offset": 999040,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "year, he sees the same thing as well.",
+        "offset": 1000480,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "When he publishes on the AMS blog, we",
+        "offset": 1002399,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "see his article cited within a few",
+        "offset": 1004399,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "hours. And if you search for a lot of",
+        "offset": 1005839,
+        "duration": 2881
+      },
+      {
+        "lang": "en",
+        "text": "different queries around the blog that",
+        "offset": 1007519,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "he he wrote this year, you'll see his",
+        "offset": 1008720,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "content being cited across different",
+        "offset": 1010720,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "LLMs as well. I've spoken to many people",
+        "offset": 1012079,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "publishing content throughout the year",
+        "offset": 1014399,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "without doing anything revolutionary,",
+        "offset": 1016000,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "anything new or different. They're",
+        "offset": 1018079,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "seeing their content cited across all",
+        "offset": 1019600,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "the different LLMs within a few days. So",
+        "offset": 1021120,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "suddenly cracks are starting to appear",
+        "offset": 1024559,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "in our alligator Geo's golden skin",
+        "offset": 1026880,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "because nature as always has other",
+        "offset": 1030079,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "plans. Under the harsh light of",
+        "offset": 1032480,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "questions about what tactics have",
+        "offset": 1034559,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "actually changed with AI search, Gio's",
+        "offset": 1036000,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "golden coding begins to flake.",
+        "offset": 1038319,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "Publishers in the audience gasp. Beneath",
+        "offset": 1040400,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "the shimmer lies green scales, the very",
+        "offset": 1042640,
+        "duration": 6159
+      },
+      {
+        "lang": "en",
+        "text": "same green as Mother SEO. Gio panics,",
+        "offset": 1045600,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "frantically googling how to maintain",
+        "offset": 1048799,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "hype cycle momentum.",
+        "offset": 1050400,
+        "duration": 6000
+      },
+      {
+        "lang": "en",
+        "text": "But it's too late. The swamp creatures",
+        "offset": 1053919,
+        "duration": 5521
+      },
+      {
+        "lang": "en",
+        "text": "whisper the forbidden truth. Chunking is",
+        "offset": 1056400,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "just good formatting with optimized",
+        "offset": 1059440,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "headlines, schema markup, but we've been",
+        "offset": 1061520,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "doing that since 2011. Featured",
+        "offset": 1064160,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "snippets Q&As's FAQs tables and",
+        "offset": 1066240,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "bulleted lists. All of that is so 2019.",
+        "offset": 1068320,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "Perhaps the golden child isn't so golden",
+        "offset": 1071760,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "after all. they say",
+        "offset": 1073840,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "in the soft glow of the SEO swamps",
+        "offset": 1076640,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "fireflies. Mother Esio embraces her",
+        "offset": 1078880,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "golden child. Listen, my precious data",
+        "offset": 1081520,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "goblin, she says. Every one of your",
+        "offset": 1084400,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "siblings thought they too were the",
+        "offset": 1087120,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "chosen one. But here's the family",
+        "offset": 1088720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "secret. We're all just trying to answer",
+        "offset": 1090640,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "searchers questions better. Sweetie,",
+        "offset": 1092880,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "that golden shined in your scales. We've",
+        "offset": 1095120,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "seen it before. Mobile first voice",
+        "offset": 1097520,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "search. Even your brother Amp had his",
+        "offset": 1099919,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "moment in the sun.",
+        "offset": 1101679,
+        "duration": 5041
+      },
+      {
+        "lang": "en",
+        "text": "She gestures to the SEO swamp ecosystem",
+        "offset": 1104559,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "around them. Reddit frogs are croaking",
+        "offset": 1106720,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "in the distance. YouTube herand are",
+        "offset": 1109039,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "fishing for engagement. Wikipedia",
+        "offset": 1111120,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "turtles are slowly but steadily",
+        "offset": 1113440,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "providing the source of truth. Baby Gio",
+        "offset": 1115039,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "proclaims, \"But they said I would",
+        "offset": 1117760,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "replace you. I'm supposed to be the",
+        "offset": 1119840,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "future.\" Oh, my darling boy. Mother SEO",
+        "offset": 1122080,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "proclaims the future doesn't erase the",
+        "offset": 1125200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "foundation. You still need us to",
+        "offset": 1127280,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "retrieve, to index, and to ground the",
+        "offset": 1129200,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "truth. If Google and Bing are the brain",
+        "offset": 1131200,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "stem, I'm the cardiovascular system.",
+        "offset": 1133440,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "Without me, SEO, you'd hallucinate",
+        "offset": 1136240,
+        "duration": 6319
+      },
+      {
+        "lang": "en",
+        "text": "yourself into a lawsuit. Geommers, huh?",
+        "offset": 1138880,
+        "duration": 6720
+      },
+      {
+        "lang": "en",
+        "text": "So, I rely on you. And Mother Sio says,",
+        "offset": 1142559,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "\"Oh, sweetheart, even GPT5 relies on",
+        "offset": 1145600,
+        "duration": 6319
+      },
+      {
+        "lang": "en",
+        "text": "search more than ever.\"",
+        "offset": 1148480,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "The reality is that large language",
+        "offset": 1151919,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "models use what's called retrieval",
+        "offset": 1153440,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "augmented generation, otherwise known as",
+        "offset": 1155120,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "rag, which powers traditional",
+        "offset": 1156960,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "SEO powers AI search with retrieval",
+        "offset": 1159840,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "augmented generation. And the reason for",
+        "offset": 1162720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "this is because AI tools are using this",
+        "offset": 1164720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "technique that enhances the accuracy and",
+        "offset": 1166640,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "relevance of large language models by",
+        "offset": 1168880,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "allowing them to access and retrieve",
+        "offset": 1170799,
+        "duration": 3041
+      },
+      {
+        "lang": "en",
+        "text": "information from external knowledge",
+        "offset": 1172400,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "sources like search engines before",
+        "offset": 1173840,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "generating a response. so they can",
+        "offset": 1176000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "provide the most clear, factual,",
+        "offset": 1177919,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "up-to-date information uh especially",
+        "offset": 1179760,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "when the user conducts prompts that are",
+        "offset": 1181919,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "recent in nature. And the reality is",
+        "offset": 1183600,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "that GPT5, OpenAI's latest model is even",
+        "offset": 1186320,
+        "duration": 5520
+      },
+      {
+        "lang": "en",
+        "text": "more reliant on search. This is a great",
+        "offset": 1189200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "article by Dan Petravvic, who's been",
+        "offset": 1191840,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "digging deep into how large language",
+        "offset": 1193600,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "models work. And the reality of GPT5 is",
+        "offset": 1195200,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "that without grounding or retrieval",
+        "offset": 1197840,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "augmented generation, this model is",
+        "offset": 1199600,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "virtually useless. It's designed to be",
+        "offset": 1201760,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "the brain on top of tools and",
+        "offset": 1204000,
+        "duration": 3039
+      },
+      {
+        "lang": "en",
+        "text": "information that it's provided with,",
+        "offset": 1205440,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "which really implies that SEO has never",
+        "offset": 1207039,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "been more important than it is now",
+        "offset": 1209360,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "because in order to appear across these",
+        "offset": 1211360,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "different LLMs, you need to appear in",
+        "offset": 1213200,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "search engines first. This is Britney",
+        "offset": 1215600,
+        "duration": 6079
+      },
+      {
+        "lang": "en",
+        "text": "Müller, former Moscon MC and multiple",
+        "offset": 1218080,
+        "duration": 6560
+      },
+      {
+        "lang": "en",
+        "text": "year Moscon speaker as well. And she's",
+        "offset": 1221679,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "been working in the AI space for a long",
+        "offset": 1224640,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "time. And what she shared on LinkedIn,",
+        "offset": 1226559,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "and you can look up her post on this, is",
+        "offset": 1228720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "that every single URL that you see in an",
+        "offset": 1230640,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "LLM output actually comes from a search",
+        "offset": 1232640,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "engine API, Google or Bing. And the",
+        "offset": 1235039,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "reality is that many of the supposedly",
+        "offset": 1238000,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "new GEO tactics are actually rooted in",
+        "offset": 1239760,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "traditional SEO best practices. We hear",
+        "offset": 1242159,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "a lot about content chunking, so",
+        "offset": 1245360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "breaking up your content for so it's",
+        "offset": 1246960,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "more digestible for large language",
+        "offset": 1248960,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "models. The reality is that Google's",
+        "offset": 1250400,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "been doing a version of this for a long",
+        "offset": 1252880,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "time. BERT in 2019 was a deep learning",
+        "offset": 1254320,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "language model that helped Google to",
+        "offset": 1257120,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "understand queries and passages better,",
+        "offset": 1258559,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "which helped them to uh improve",
+        "offset": 1260640,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "disambiguation and to improve the",
+        "offset": 1262400,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "relevance of featured snippets. So,",
+        "offset": 1264640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "chunk optimization isn't really an SEO",
+        "offset": 1267120,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "tactic. It's an AI engineering function.",
+        "offset": 1269200,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "Large language models don't see your",
+        "offset": 1271919,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "pretty formatting. They see tokens or",
+        "offset": 1273440,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "tiny units of meaning. They, not you,",
+        "offset": 1275440,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "decide how to slice your content.",
+        "offset": 1278320,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "There's not really any cheat code that",
+        "offset": 1280159,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "you can use to chunk your content for AI",
+        "offset": 1281840,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "overviews because every model chunks",
+        "offset": 1283919,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "differently. They're constantly changing",
+        "offset": 1286000,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "this for speed, accuracy, and cost",
+        "offset": 1288080,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "considerations. So, what really is in",
+        "offset": 1290559,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "our consult in our control? It's to",
+        "offset": 1292720,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "create clear, self-contained, atomic",
+        "offset": 1295120,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "answers that stand on their own, whether",
+        "offset": 1297360,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "a human being reads them or an AI",
+        "offset": 1299360,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "extracts them.",
+        "offset": 1301679,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "We hear a lot about writing clear,",
+        "offset": 1303760,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "concise answers that are formatted for",
+        "offset": 1305280,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "LLMs. But the reality is we've been",
+        "offset": 1306880,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "doing this for a long time using things",
+        "offset": 1308960,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "like frequently asked questions, howto,",
+        "offset": 1311039,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "Q&A, and the schema that supports all",
+        "offset": 1313919,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "those different content types. We've",
+        "offset": 1316000,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "been doing this for a long time. All",
+        "offset": 1317840,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "these things can be helpful for AI",
+        "offset": 1319280,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "search as well. We hear about multimodal",
+        "offset": 1320720,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "content optimization, which is this",
+        "offset": 1323600,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "notion of producing content in different",
+        "offset": 1325120,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "formats because large language models",
+        "offset": 1327200,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "can indeed ingest different types of",
+        "offset": 1328880,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "content like video, audio, and images.",
+        "offset": 1330799,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "But the reality is we've been doing this",
+        "offset": 1333760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "in the SEO space for a while. We've been",
+        "offset": 1335520,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "producing video content for YouTube and",
+        "offset": 1337760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Instagram and Tik Tok. We've been",
+        "offset": 1339840,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "producing uh optimized podcasts. You",
+        "offset": 1341760,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "know, Google's been supporting podcast",
+        "offset": 1344559,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "optimization for a number of years.",
+        "offset": 1346080,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "We've been producing audio transcripts",
+        "offset": 1348080,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "for web accessibility and to make sure",
+        "offset": 1350799,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "that when we produce something in audio",
+        "offset": 1352400,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "or video that we have the transcripts to",
+        "offset": 1353760,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "support it. We've been doing online",
+        "offset": 1355520,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "reputation management to make sure that",
+        "offset": 1357280,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "our brand is mentioned across all the",
+        "offset": 1358799,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "different places where it matters.",
+        "offset": 1360320,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "In the AI search space, we hear a lot",
+        "offset": 1363039,
+        "duration": 3201
+      },
+      {
+        "lang": "en",
+        "text": "about earning brand mentions and",
+        "offset": 1364720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "citations. But in the SEO space, we've",
+        "offset": 1366240,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "been doing digital PR, integrating with",
+        "offset": 1368640,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "social media teams, PR and influencer",
+        "offset": 1370880,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "teams for many years to make sure that",
+        "offset": 1373280,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "our brands and our products are cited",
+        "offset": 1375200,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "across all the different sites and all",
+        "offset": 1377039,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "the different assets where it matters to",
+        "offset": 1379039,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "be mentioned.",
+        "offset": 1380640,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "We hear a lot about query fanout. So",
+        "offset": 1382720,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "this notion of you know LLM's conducting",
+        "offset": 1384640,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "multiple search queries simultaneously",
+        "offset": 1386960,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "that basically anticipate all the",
+        "offset": 1388880,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "different questions that the user might",
+        "offset": 1390480,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "be asking as part of one prompt. But the",
+        "offset": 1391679,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "reality is we've been doing a version of",
+        "offset": 1394000,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "optimizing for this for a long time in",
+        "offset": 1395520,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "the SEO space. We have tools like people",
+        "offset": 1397200,
+        "duration": 5359
+      },
+      {
+        "lang": "en",
+        "text": "also ask longtail keyword optimization",
+        "offset": 1399600,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "and question research across all the",
+        "offset": 1402559,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "different popular uh SEO keyword",
+        "offset": 1404400,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "research tools that basically do the",
+        "offset": 1406240,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "similar version of what we've been",
+        "offset": 1408400,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "optimizing for with query fanout.",
+        "offset": 1409520,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "It's also important to understand that",
+        "offset": 1412559,
+        "duration": 4881
+      },
+      {
+        "lang": "en",
+        "text": "AI search is absolutely exploding. But",
+        "offset": 1415120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "let's not forget Google. This is some",
+        "offset": 1417440,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "data that was shared with me from",
+        "offset": 1419440,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "similar web that looks at how frequently",
+        "offset": 1420640,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "people are using different LLMs compared",
+        "offset": 1423039,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "to Google search. So if you look at the",
+        "offset": 1425440,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "bottom here, you'll see us usage for",
+        "offset": 1427200,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "different large language models around",
+        "offset": 1429440,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "the world with chatpt being the green",
+        "offset": 1430720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "line that's growing the most. Um, and",
+        "offset": 1432960,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "Gemini is also growing quite a bit as",
+        "offset": 1435200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "well. But the reality is if you look at",
+        "offset": 1437360,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "the blue line up top, that's Google",
+        "offset": 1439360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "search. While people are heavily",
+        "offset": 1441360,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "adopting large language models this",
+        "offset": 1442960,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "year, it has not cut into Google's",
+        "offset": 1444640,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "market share lead across the whole",
+        "offset": 1447440,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "entire search ecosystem. If we also look",
+        "offset": 1449520,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "at the number of large language models",
+        "offset": 1452320,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "that are being downloaded worldwide, uh",
+        "offset": 1453679,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "the green bar here is chatgpt. People",
+        "offset": 1455919,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "absolutely have, you know, adopted chat",
+        "offset": 1458480,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "GPT all throughout the course of 2025.",
+        "offset": 1461039,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "But if you look at the last few months,",
+        "offset": 1463520,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "beginning in May, we're also seeing that",
+        "offset": 1465360,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "Gemini is being widely adopted and",
+        "offset": 1467440,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "downloaded around the world. This is",
+        "offset": 1469440,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "data that comes from similar web as",
+        "offset": 1471279,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "well.",
+        "offset": 1472880,
+        "duration": 3279
+      },
+      {
+        "lang": "en",
+        "text": "And if you think about the actual impact",
+        "offset": 1474640,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "that AI search is having across our",
+        "offset": 1476159,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "traffic for many different types of",
+        "offset": 1478400,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "sites, uh Glen Gabe wrote a great",
+        "offset": 1479760,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "article about this earlier in the year",
+        "offset": 1481440,
+        "duration": 2719
+      },
+      {
+        "lang": "en",
+        "text": "and it's something that we've seen with",
+        "offset": 1482880,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "our clients at AMSI as well, which is",
+        "offset": 1484159,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "that if you group all the different",
+        "offset": 1486080,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "large language model referers together",
+        "offset": 1487279,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "in a tool like Google Analytics, and you",
+        "offset": 1489279,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "look at how much traffic they are",
+        "offset": 1491520,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "driving compared to something like",
+        "offset": 1493679,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "organic search, it's still pretty",
+        "offset": 1495120,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "minuscule. Uh Glen Gabes saw with his",
+        "offset": 1496960,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "clients, it's about 1% on average. With",
+        "offset": 1499279,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "AMS, we've seen about one to maybe now",
+        "offset": 1501520,
+        "duration": 5440
+      },
+      {
+        "lang": "en",
+        "text": "2% of traffic coming from LLMs compared",
+        "offset": 1503919,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "to organic search, which is usually for",
+        "offset": 1506960,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "many sites could be 30 40 50% of their",
+        "offset": 1508640,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "overall traffic.",
+        "offset": 1511440,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "We also see that the majority of chatbt",
+        "offset": 1513520,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "users are still using Google. So while",
+        "offset": 1516240,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "many people do indeed start their search",
+        "offset": 1518799,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "on chatbt, most of them have not",
+        "offset": 1520400,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "abandoned Google. If anything, they're",
+        "offset": 1522640,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "actually using Google more. And that",
+        "offset": 1524320,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "tiny blue sliver here is the percentage",
+        "offset": 1526400,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "of users that are only using chat GPT.",
+        "offset": 1528880,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "So the reality is most people that are",
+        "offset": 1531520,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "using chat GPT are still heavily using",
+        "offset": 1532880,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "Google. And there's some new data that",
+        "offset": 1535279,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "came from Rand Fishkin and Spark Toro.",
+        "offset": 1537840,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "Um they've also been working with DAOS",
+        "offset": 1540559,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "as well as Samrush to collect some new",
+        "offset": 1542320,
+        "duration": 4719
+      },
+      {
+        "lang": "en",
+        "text": "data around search engine usage and LLM",
+        "offset": 1544559,
+        "duration": 4641
+      },
+      {
+        "lang": "en",
+        "text": "usage in 2025. And what they're seeing",
+        "offset": 1547039,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "is that traditional search usage, which",
+        "offset": 1549200,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "is reflected here in these blue bars on",
+        "offset": 1550880,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "the left side, has basically remained",
+        "offset": 1552640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "the same throughout 2025. While people",
+        "offset": 1554640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "are indeed adopting chat GPT and other",
+        "offset": 1557200,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "LLMs, which you can see here as the pink",
+        "offset": 1559200,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "bars, uh the light pink bars are heavy",
+        "offset": 1560960,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "usage of large language models",
+        "offset": 1563360,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "throughout the year, this hasn't exactly",
+        "offset": 1564559,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "cut into their use of search engines",
+        "offset": 1566799,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "like Google. If anything, it's actually",
+        "offset": 1569279,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "expanded how they use Google. So the",
+        "offset": 1571279,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "table on the right shows a study that",
+        "offset": 1574080,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "Samrush put together which basically",
+        "offset": 1575919,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "looks at the number of searches per week",
+        "offset": 1577360,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "on Google. Before using chatpt the",
+        "offset": 1578880,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "average user was seeing 10.5 sessions",
+        "offset": 1582000,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "per week on Google. After using chatpt",
+        "offset": 1584640,
+        "duration": 5600
+      },
+      {
+        "lang": "en",
+        "text": "that number actually increased to 12.6",
+        "offset": 1587600,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "which means that chatpt is actually",
+        "offset": 1590240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "encouraging users to go to Google more",
+        "offset": 1592240,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "than it was before. So the reality is",
+        "offset": 1594720,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "while there's significant overlap",
+        "offset": 1597520,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "between LLMs and search engines, they do",
+        "offset": 1598799,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "use these tools in different ways. And",
+        "offset": 1601200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Google used some great language for this",
+        "offset": 1603600,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "recently. It was an interview with",
+        "offset": 1605200,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "Robbie Stein who's a VP of product at",
+        "offset": 1606480,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "Google search. And what he says is that",
+        "offset": 1608320,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "AI search is actually expansionary. It's",
+        "offset": 1610720,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "a new addit additive tool that people",
+        "offset": 1613520,
+        "duration": 4639
+      },
+      {
+        "lang": "en",
+        "text": "are using on top of Google search. And I",
+        "offset": 1615679,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "thought that this was an interesting way",
+        "offset": 1618159,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "of thinking about this because the",
+        "offset": 1619440,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "reality is there's different ways that",
+        "offset": 1620799,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "people are using LLMs compared to search",
+        "offset": 1622080,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "engines. If you think about this, while",
+        "offset": 1624320,
+        "duration": 3839
+      },
+      {
+        "lang": "en",
+        "text": "there's a lot of overlap, there's many",
+        "offset": 1626240,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "unique use cases for LLMs, such as",
+        "offset": 1628159,
+        "duration": 4241
+      },
+      {
+        "lang": "en",
+        "text": "creative writing, homework help,",
+        "offset": 1630320,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "brainstorming, learning a language,",
+        "offset": 1632400,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "generating code, acting as a personal",
+        "offset": 1634080,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "assistant or a therapist, summarizing",
+        "offset": 1636320,
+        "duration": 4239
+      },
+      {
+        "lang": "en",
+        "text": "documents, creating personalized",
+        "offset": 1638480,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "recommendations, or generating images.",
+        "offset": 1640559,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "These are all net new ways that people",
+        "offset": 1642559,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "are using LLMs, but they still are using",
+        "offset": 1644080,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "search engines because there's a lot of",
+        "offset": 1646480,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "unique and important use cases for",
+        "offset": 1648080,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "search as well, like fact-checking and",
+        "offset": 1649600,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "research, looking up images or videos,",
+        "offset": 1651279,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "maybe navigational search, like",
+        "offset": 1653919,
+        "duration": 3521
+      },
+      {
+        "lang": "en",
+        "text": "navigating directly to a website,",
+        "offset": 1655440,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "shopping online, finding copyrighted",
+        "offset": 1657440,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "music and lyrics, looking at maps and",
+        "offset": 1659919,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "directions. All kinds of different use",
+        "offset": 1662080,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "cases that are still to this day",
+        "offset": 1664000,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "distinct from LLMs. Even though LM are",
+        "offset": 1665679,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "starting to adopt some of these",
+        "offset": 1668240,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "behaviors, remember that most people",
+        "offset": 1669440,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "around the world start their searches on",
+        "offset": 1671440,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Google and it's going to be very hard",
+        "offset": 1673440,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "for them to really kind of change those",
+        "offset": 1674880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "habits as we've seen over the last few",
+        "offset": 1676880,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "years.",
+        "offset": 1678720,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "So after a long day of shedding",
+        "offset": 1680240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "expectations and well actual gold skin,",
+        "offset": 1681840,
+        "duration": 5199
+      },
+      {
+        "lang": "en",
+        "text": "GEO looks in the mirror. What remains is",
+        "offset": 1684720,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "a strong confident mix of green and",
+        "offset": 1687039,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "gold. He finally realizes something",
+        "offset": 1688799,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "important. He isn't here to replace the",
+        "offset": 1690720,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "SEO family. He's really just their",
+        "offset": 1692880,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "newest evolution. Mother Essio reminds",
+        "offset": 1694799,
+        "duration": 5760
+      },
+      {
+        "lang": "en",
+        "text": "him how special he is. \"You help the",
+        "offset": 1697840,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "world discover answers in brand new",
+        "offset": 1700559,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "ways,\" she says, \"with, multimodal",
+        "offset": 1702159,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "searches, personalized results, paths",
+        "offset": 1705039,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "that we never had before.\"",
+        "offset": 1707360,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "Gio beams because he knows he has a job",
+        "offset": 1710240,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "that nobody else in the SEO swamp can",
+        "offset": 1712720,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "do. He celebrates his new role with his",
+        "offset": 1714720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "siblings, high-fives for featured",
+        "offset": 1717039,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "snippets, a supportive nod from Corore",
+        "offset": 1718880,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "Web Vitals, even a hug from his sister",
+        "offset": 1720799,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "voice search.",
+        "offset": 1723039,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "Because the reality is with AI, the",
+        "offset": 1724880,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "people search, the way that people",
+        "offset": 1726720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "search has absolutely changed.",
+        "offset": 1728399,
+        "duration": 4721
+      },
+      {
+        "lang": "en",
+        "text": "But the tactics to earn AI search",
+        "offset": 1731200,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "visibility are really just evolutions of",
+        "offset": 1733120,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "existing SEO and marketing best",
+        "offset": 1735520,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "practices.",
+        "offset": 1737760,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "So what are those tactics? What's so new",
+        "offset": 1739279,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "about GIO? Which by the way, it would be",
+        "offset": 1742320,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "a good time to mention that my team",
+        "offset": 1744399,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "calls it AEO, answer engine",
+        "offset": 1745760,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "optimization, also known as AI search.",
+        "offset": 1747360,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "There's all kinds of different acronyms",
+        "offset": 1750000,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "for it, but it largely all means the",
+        "offset": 1751279,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "same thing. So what's so new about geo",
+        "offset": 1752799,
+        "duration": 5921
+      },
+      {
+        "lang": "en",
+        "text": "or AEO and its role in the SEO family?",
+        "offset": 1754960,
+        "duration": 5839
+      },
+      {
+        "lang": "en",
+        "text": "Well, there's a lot of new metrics. This",
+        "offset": 1758720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "is absolutely true. The way that people",
+        "offset": 1760799,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "search is changing and the metrics are",
+        "offset": 1762640,
+        "duration": 5519
+      },
+      {
+        "lang": "en",
+        "text": "evolving just as fast. So before we used",
+        "offset": 1765279,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "to focus on things like clicks and",
+        "offset": 1768159,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "rankings. Now we need to think about",
+        "offset": 1769760,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "some new KPIs for AI search. For",
+        "offset": 1771440,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "example, branded impressions, how",
+        "offset": 1773760,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "frequently people are actually looking",
+        "offset": 1775840,
+        "duration": 4319
+      },
+      {
+        "lang": "en",
+        "text": "for and seeing our brand name, share a",
+        "offset": 1777520,
+        "duration": 5120
+      },
+      {
+        "lang": "en",
+        "text": "voice and AI search, direct and organic",
+        "offset": 1780159,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "clicks to the homepage. As large",
+        "offset": 1782640,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "language models will often recommend",
+        "offset": 1784320,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "your brand, people might be navigating",
+        "offset": 1785840,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "directly to your company website or",
+        "offset": 1787600,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "searching for your website in search",
+        "offset": 1790240,
+        "duration": 3200
+      },
+      {
+        "lang": "en",
+        "text": "engines. We need to think about AI",
+        "offset": 1791520,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "search visibility by topic, which you",
+        "offset": 1793440,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "can use with any of the large language",
+        "offset": 1795279,
+        "duration": 2961
+      },
+      {
+        "lang": "en",
+        "text": "model tracking tools to kind of break",
+        "offset": 1796799,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "out visibility by topic. We need to",
+        "offset": 1798240,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "think about actual traffic engagement",
+        "offset": 1800720,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "and conversions from AI search traffic.",
+        "offset": 1802320,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "And we need to think about how visible",
+        "offset": 1804880,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "we are across different large language",
+        "offset": 1806720,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "models and are we more visible on one",
+        "offset": 1808799,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "large language model than another.",
+        "offset": 1810480,
+        "duration": 4799
+      },
+      {
+        "lang": "en",
+        "text": "We need to think about setting up",
+        "offset": 1814000,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "analytics to reflect all of this. So",
+        "offset": 1815279,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "Dana Dtomaso is an expert in Google",
+        "offset": 1816880,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "Analytics who shared some great articles",
+        "offset": 1818799,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "which you can look up around how to",
+        "offset": 1820720,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "track and report on traffic from AI",
+        "offset": 1822240,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "tools in G4. You can group them all",
+        "offset": 1824480,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "together into a custom segment like AI",
+        "offset": 1826799,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "search to understand the true impact",
+        "offset": 1828640,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "that this is having on your traffic, on",
+        "offset": 1830399,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "your engagement, and on your conversions",
+        "offset": 1832640,
+        "duration": 4399
+      },
+      {
+        "lang": "en",
+        "text": "as well. I also think it's important to",
+        "offset": 1834159,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "answer all the different branded",
+        "offset": 1837039,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "questions to try to get ahead of how",
+        "offset": 1838559,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "people might be searching for your",
+        "offset": 1841520,
+        "duration": 2800
+      },
+      {
+        "lang": "en",
+        "text": "brand, your products, your services,",
+        "offset": 1842720,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "your competitors, and answer all these",
+        "offset": 1844320,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "questions directly on your website. So",
+        "offset": 1846159,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "you can use regular expressions and",
+        "offset": 1848080,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "search console to generate all the",
+        "offset": 1849520,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "different question keywords plus your",
+        "offset": 1851120,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "brand name and to kind of filter Google",
+        "offset": 1853039,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "search console to just see that data.",
+        "offset": 1855279,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "And you can also use SEO keyword",
+        "offset": 1857120,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "research tools like Moz, like HFS, like",
+        "offset": 1858720,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "Semrush and many other tools to",
+        "offset": 1860799,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "basically isolate question keywords",
+        "offset": 1862640,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "around your brand and to make sure",
+        "offset": 1864960,
+        "duration": 2640
+      },
+      {
+        "lang": "en",
+        "text": "you're answering all those questions",
+        "offset": 1866399,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "directly on your website. Because the",
+        "offset": 1867600,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "way I see it, AI search is really just",
+        "offset": 1869679,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "an evolved form of experience,",
+        "offset": 1871279,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "expertise authoritiveness and",
+        "offset": 1873279,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "trustworthiness, which is a popular",
+        "offset": 1874960,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "acronym in the SEO space, and reputation",
+        "offset": 1876799,
+        "duration": 5360
+      },
+      {
+        "lang": "en",
+        "text": "management as well. So, think about",
+        "offset": 1879520,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "proactively answering all the possible",
+        "offset": 1882159,
+        "duration": 3281
+      },
+      {
+        "lang": "en",
+        "text": "questions that a user might have about",
+        "offset": 1884000,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "your brand using clear and concise",
+        "offset": 1885440,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "language that would make a lot of sense",
+        "offset": 1888080,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "for a large language model as well as",
+        "offset": 1889600,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "for humans. Here's a few different",
+        "offset": 1891360,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "resources that you can use uh that we've",
+        "offset": 1893760,
+        "duration": 5039
+      },
+      {
+        "lang": "en",
+        "text": "built uh from AMS. So, number one, you",
+        "offset": 1895919,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "can visit our branded question checklist",
+        "offset": 1898799,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "by scanning this QR code. And what this",
+        "offset": 1900720,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "does is it gives you a checklist that",
+        "offset": 1902960,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "you can use and obviously use it as you",
+        "offset": 1904399,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "see fit. Maybe not all questions make",
+        "offset": 1906320,
+        "duration": 3359
+      },
+      {
+        "lang": "en",
+        "text": "sense for your brand, but you can think",
+        "offset": 1907840,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "about answering all these different",
+        "offset": 1909679,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "questions throughout your site to really",
+        "offset": 1911039,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "provide clarity about what your brand",
+        "offset": 1913600,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "does, what your leadership team does,",
+        "offset": 1915519,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "and so when people are asking large",
+        "offset": 1917679,
+        "duration": 3441
+      },
+      {
+        "lang": "en",
+        "text": "language models, they have a very clear",
+        "offset": 1919200,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "place that they can look to on your",
+        "offset": 1921120,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "website that answers all these",
+        "offset": 1922640,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "questions. You can also build and expand",
+        "offset": 1924000,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "pages for EAT and AI search visibility.",
+        "offset": 1926799,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "So this is another sheet that we put",
+        "offset": 1929279,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "together where you can look at some",
+        "offset": 1931200,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "inspiration around how can we talk about",
+        "offset": 1932559,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "our company, our mission statement, our",
+        "offset": 1934880,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "leadership team, our corporate",
+        "offset": 1936880,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "structure, all our different products",
+        "offset": 1938399,
+        "duration": 3921
+      },
+      {
+        "lang": "en",
+        "text": "and you use use cases, uh comparison",
+        "offset": 1939840,
+        "duration": 5040
+      },
+      {
+        "lang": "en",
+        "text": "pages, integration pages, legal and in",
+        "offset": 1942320,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "legal and investor relations, all kinds",
+        "offset": 1944880,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "of different things that many companies",
+        "offset": 1946960,
+        "duration": 3439
+      },
+      {
+        "lang": "en",
+        "text": "haven't actually thought of adding in cl",
+        "offset": 1948480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "clear language to their website. But we",
+        "offset": 1950399,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "think all of this can be really really",
+        "offset": 1952480,
+        "duration": 3039
+      },
+      {
+        "lang": "en",
+        "text": "helpful so that when people ask these",
+        "offset": 1953760,
+        "duration": 3519
+      },
+      {
+        "lang": "en",
+        "text": "questions of large language models, they",
+        "offset": 1955519,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "have a place that they can go on your",
+        "offset": 1957279,
+        "duration": 2561
+      },
+      {
+        "lang": "en",
+        "text": "website to clearly answer those",
+        "offset": 1958559,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "questions. With AI search, you need to",
+        "offset": 1959840,
+        "duration": 4079
+      },
+      {
+        "lang": "en",
+        "text": "think about personalization because as",
+        "offset": 1962399,
+        "duration": 3681
+      },
+      {
+        "lang": "en",
+        "text": "LLMs become increasingly personalized,",
+        "offset": 1963919,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "your content should as well. You want to",
+        "offset": 1966080,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "think about having translated and",
+        "offset": 1968080,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "regionally appropriate versions of your",
+        "offset": 1969360,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "content. If you have an international",
+        "offset": 1971440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "website, you need to think about having",
+        "offset": 1972960,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "your content targeted to specific",
+        "offset": 1975200,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "audiences and speaking to the specific",
+        "offset": 1977120,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "pain points of different demographics.",
+        "offset": 1979200,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "So, for example, if you're a car",
+        "offset": 1981440,
+        "duration": 2880
+      },
+      {
+        "lang": "en",
+        "text": "company, you might want to talk about",
+        "offset": 1982799,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "having different content for new parents",
+        "offset": 1984320,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "than you might for new drivers that just",
+        "offset": 1986559,
+        "duration": 4401
+      },
+      {
+        "lang": "en",
+        "text": "got their driver's license. You need to",
+        "offset": 1988880,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "think about having FAQs, Q&As's, and",
+        "offset": 1990960,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "user generated content that's really",
+        "offset": 1992960,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "rich with authentic, honest",
+        "offset": 1994720,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "conversations to common questions",
+        "offset": 1996640,
+        "duration": 3759
+      },
+      {
+        "lang": "en",
+        "text": "because large language models do tend to",
+        "offset": 1998399,
+        "duration": 4801
+      },
+      {
+        "lang": "en",
+        "text": "site information that they found in real",
+        "offset": 2000399,
+        "duration": 5681
+      },
+      {
+        "lang": "en",
+        "text": "human userenerated content.",
+        "offset": 2003200,
+        "duration": 4959
+      },
+      {
+        "lang": "en",
+        "text": "You can use LLM tracking tools like",
+        "offset": 2006080,
+        "duration": 3920
+      },
+      {
+        "lang": "en",
+        "text": "Profound, Peak. There's all kinds of new",
+        "offset": 2008159,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "tools that are out there that help you",
+        "offset": 2010000,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "monitor the topsighted domains and pages",
+        "offset": 2011519,
+        "duration": 4481
+      },
+      {
+        "lang": "en",
+        "text": "in your space. This is a great way to go",
+        "offset": 2013440,
+        "duration": 5280
+      },
+      {
+        "lang": "en",
+        "text": "into your specific niche and understand",
+        "offset": 2016000,
+        "duration": 5279
+      },
+      {
+        "lang": "en",
+        "text": "which pages, which domains, uh, and",
+        "offset": 2018720,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "which of them are being cited the most,",
+        "offset": 2021279,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "which brands are they mentioning the",
+        "offset": 2023200,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "most, and how can you ensure that your",
+        "offset": 2024559,
+        "duration": 3360
+      },
+      {
+        "lang": "en",
+        "text": "brand is mentioned in these",
+        "offset": 2026320,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "conversations, which is often a digital",
+        "offset": 2027919,
+        "duration": 5201
+      },
+      {
+        "lang": "en",
+        "text": "PR play. Remember that LLM citations are",
+        "offset": 2029919,
+        "duration": 5441
+      },
+      {
+        "lang": "en",
+        "text": "highly volatile. This is by design. So,",
+        "offset": 2033120,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "if you have a piece of content that you",
+        "offset": 2035360,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "have cited in AI search or you want it",
+        "offset": 2036799,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "to be cited in AI search, recency",
+        "offset": 2039039,
+        "duration": 4561
+      },
+      {
+        "lang": "en",
+        "text": "definitely matters. Now, I definitely",
+        "offset": 2041120,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "don't recommend what Google calls",
+        "offset": 2043600,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "artificial refreshening, which is to",
+        "offset": 2045279,
+        "duration": 4640
+      },
+      {
+        "lang": "en",
+        "text": "update content or say that content's",
+        "offset": 2047519,
+        "duration": 3761
+      },
+      {
+        "lang": "en",
+        "text": "been updated when you haven't really",
+        "offset": 2049919,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "made substantial changes to the page",
+        "offset": 2051280,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "content. I believe Google has ways of",
+        "offset": 2053359,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "demoting this type of content, which can",
+        "offset": 2055839,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "affect your visibility both in search as",
+        "offset": 2057440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "well as large language models. It's also",
+        "offset": 2059200,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "just not that great for users. So, if",
+        "offset": 2061200,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "you are going to be updating your",
+        "offset": 2063280,
+        "duration": 3040
+      },
+      {
+        "lang": "en",
+        "text": "content, you need to make sure that it",
+        "offset": 2064480,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "is truly updated and that it reflects",
+        "offset": 2066320,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "the most recent and up-to-date",
+        "offset": 2068480,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "information.",
+        "offset": 2069919,
+        "duration": 3680
+      },
+      {
+        "lang": "en",
+        "text": "The reality is that large language",
+        "offset": 2072159,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "models are heavily influenced by",
+        "offset": 2073599,
+        "duration": 5121
+      },
+      {
+        "lang": "en",
+        "text": "Wikipedia, Reddit, and YouTube as well.",
+        "offset": 2075520,
+        "duration": 5200
+      },
+      {
+        "lang": "en",
+        "text": "So, to the extent that you can chime",
+        "offset": 2078720,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "into the conversations on places like",
+        "offset": 2080720,
+        "duration": 3919
+      },
+      {
+        "lang": "en",
+        "text": "Reddit and YouTube, you know, with",
+        "offset": 2082879,
+        "duration": 3121
+      },
+      {
+        "lang": "en",
+        "text": "Reddit, you want to be really careful",
+        "offset": 2084639,
+        "duration": 2960
+      },
+      {
+        "lang": "en",
+        "text": "because you can get banned if you're",
+        "offset": 2086000,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "being overly promotional. Redditors",
+        "offset": 2087599,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "don't love when people come in there and",
+        "offset": 2089760,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "try to sell them something. So, you want",
+        "offset": 2091200,
+        "duration": 4479
+      },
+      {
+        "lang": "en",
+        "text": "to try to have onic honest and authentic",
+        "offset": 2093200,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "contributions to Reddit discussions.",
+        "offset": 2095679,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "Perhaps setting up a Reddit on behalf of",
+        "offset": 2097520,
+        "duration": 3280
+      },
+      {
+        "lang": "en",
+        "text": "your brand to contribute to those",
+        "offset": 2099119,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "discussions meaningfully to talk to your",
+        "offset": 2100800,
+        "duration": 4080
+      },
+      {
+        "lang": "en",
+        "text": "customers to have honest conversations",
+        "offset": 2102960,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "when customers have problems with your",
+        "offset": 2104880,
+        "duration": 3199
+      },
+      {
+        "lang": "en",
+        "text": "brand. You know, really just being",
+        "offset": 2106560,
+        "duration": 2799
+      },
+      {
+        "lang": "en",
+        "text": "honest is the best way to approach",
+        "offset": 2108079,
+        "duration": 3361
+      },
+      {
+        "lang": "en",
+        "text": "Reddit. And with YouTube, you can think",
+        "offset": 2109359,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "about producingformational content",
+        "offset": 2111440,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "because the reality is, especially",
+        "offset": 2113440,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "Google, you know, Google loves to site",
+        "offset": 2115040,
+        "duration": 3440
+      },
+      {
+        "lang": "en",
+        "text": "YouTube, but all the different LLMs will",
+        "offset": 2116560,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "site YouTube content. So, that's a brand",
+        "offset": 2118480,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "play. that's something that you can own",
+        "offset": 2120880,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "and you can get ahead of those",
+        "offset": 2122640,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "conversations by creating short videos.",
+        "offset": 2124000,
+        "duration": 3599
+      },
+      {
+        "lang": "en",
+        "text": "Um, and there's all kinds of new AI",
+        "offset": 2126160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "tools, new new AI tools that you can now",
+        "offset": 2127599,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "use to splice up those videos into",
+        "offset": 2130160,
+        "duration": 3679
+      },
+      {
+        "lang": "en",
+        "text": "things like YouTube shorts and Instagram",
+        "offset": 2131920,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "reels as well.",
+        "offset": 2133839,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "Keep tabs on agentic browsing and",
+        "offset": 2136079,
+        "duration": 3601
+      },
+      {
+        "lang": "en",
+        "text": "commerce. You know, this is absolutely a",
+        "offset": 2137839,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "new area, a new focus area for those of",
+        "offset": 2139680,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "us that are interested in AI search. We",
+        "offset": 2142079,
+        "duration": 4081
+      },
+      {
+        "lang": "en",
+        "text": "now have ways of transacting on chatpt.",
+        "offset": 2144000,
+        "duration": 4320
+      },
+      {
+        "lang": "en",
+        "text": "We have what's called the uh agentic",
+        "offset": 2146160,
+        "duration": 3840
+      },
+      {
+        "lang": "en",
+        "text": "commerce protocol. also like new feeds",
+        "offset": 2148320,
+        "duration": 3120
+      },
+      {
+        "lang": "en",
+        "text": "that you can create to get your",
+        "offset": 2150000,
+        "duration": 3119
+      },
+      {
+        "lang": "en",
+        "text": "e-commerce site and your e-commerce",
+        "offset": 2151440,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "products visible in chatpt. Um, this is",
+        "offset": 2153119,
+        "duration": 4321
+      },
+      {
+        "lang": "en",
+        "text": "absolutely a space that you should pay",
+        "offset": 2156240,
+        "duration": 2560
+      },
+      {
+        "lang": "en",
+        "text": "attention to and something that is",
+        "offset": 2157440,
+        "duration": 3520
+      },
+      {
+        "lang": "en",
+        "text": "absolutely changing as it relates to",
+        "offset": 2158800,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "optimizing for AI search.",
+        "offset": 2160960,
+        "duration": 4879
+      },
+      {
+        "lang": "en",
+        "text": "So, we're back at the annual alligators",
+        "offset": 2163680,
+        "duration": 4159
+      },
+      {
+        "lang": "en",
+        "text": "who ruined the internet gala. The whole",
+        "offset": 2165839,
+        "duration": 4161
+      },
+      {
+        "lang": "en",
+        "text": "family dances, each glowing faintly with",
+        "offset": 2167839,
+        "duration": 4961
+      },
+      {
+        "lang": "en",
+        "text": "their expired hype colors. Gio jumps in",
+        "offset": 2170000,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "for a guest DJ set with me, your",
+        "offset": 2172800,
+        "duration": 4160
+      },
+      {
+        "lang": "en",
+        "text": "resident DJ, Lily Ray, and he's actually",
+        "offset": 2174800,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "quite good at it. He mixes reax romance",
+        "offset": 2176960,
+        "duration": 4720
+      },
+      {
+        "lang": "en",
+        "text": "into chunk it chunk it baby one more",
+        "offset": 2179680,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "time.",
+        "offset": 2181680,
+        "duration": 3600
+      },
+      {
+        "lang": "en",
+        "text": "The banner reads see you in the SEO",
+        "offset": 2183280,
+        "duration": 4400
+      },
+      {
+        "lang": "en",
+        "text": "swamp and honestly it's iconic. The",
+        "offset": 2185280,
+        "duration": 4480
+      },
+      {
+        "lang": "en",
+        "text": "whole SEO family is on the dance floor",
+        "offset": 2187680,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "each glowing in their signature SEO",
+        "offset": 2189760,
+        "duration": 4880
+      },
+      {
+        "lang": "en",
+        "text": "color like some kind of power ranger.",
+        "offset": 2191920,
+        "duration": 4800
+      },
+      {
+        "lang": "en",
+        "text": "Featured snippets is doing the Googlebot",
+        "offset": 2194640,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "obviously. Voice search is karaokeing",
+        "offset": 2196720,
+        "duration": 4560
+      },
+      {
+        "lang": "en",
+        "text": "and mother SEO is pregnant yet again.",
+        "offset": 2199200,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "Plot twist this time with twins named",
+        "offset": 2201280,
+        "duration": 4240
+      },
+      {
+        "lang": "en",
+        "text": "quantum search and brain chips. The",
+        "offset": 2203440,
+        "duration": 3760
+      },
+      {
+        "lang": "en",
+        "text": "alligators have ruined the internet yet",
+        "offset": 2205520,
+        "duration": 4559
+      },
+      {
+        "lang": "en",
+        "text": "again, but this time as a family. Nature",
+        "offset": 2207200,
+        "duration": 4960
+      },
+      {
+        "lang": "en",
+        "text": "is healing.",
+        "offset": 2210079,
+        "duration": 3841
+      },
+      {
+        "lang": "en",
+        "text": "And with all that, thank you all for",
+        "offset": 2212160,
+        "duration": 4000
+      },
+      {
+        "lang": "en",
+        "text": "joining me at the SEO swamp. Hope to see",
+        "offset": 2213920,
+        "duration": 5720
+      },
+      {
+        "lang": "en",
+        "text": "you next year.",
+        "offset": 2216160,
+        "duration": 3480
+      }
+    ],
+    "_http_status": 200,
+    "_billable_requests": "1"
+  }
+}
