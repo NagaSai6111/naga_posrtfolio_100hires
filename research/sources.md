@@ -12,6 +12,7 @@
 | Nathan Gotch | SEO expert, Founder of Gotch SEO & Rankability | [Website](https://www.rankability.com/), [YouTube](https://www.youtube.com/@nathangotch) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-06-11 to 2026-07-01 | SEO educator focused on AI search visibility, answer engine optimization, ecommerce SEO, Google algorithm updates, and practical SEO campaign frameworks. |
 | Koray Tuğberk GÜBÜR | SEO expert, Founder of Holistic SEO | [Website](https://www.holisticseo.digital), [YouTube](https://www.youtube.com/@KorayTugberkGUBUR) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-04-07 to 2025-04-10 | Semantic SEO and topical authority expert focused on e-commerce SEO case studies, topical maps, YMYL rankings, entity-based optimization, and Google algorithm analysis. |
 | Julian Goldie | AI & SEO content creator | [YouTube](https://www.youtube.com/@JulianGoldieSEO) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-07-03 to 2026-07-04 | AI tools and automation-focused creator covering AI agents, coding automation, token optimization, and emerging AI platforms. |
+| Bernard Huang | Co-founder, Clearscope | [Website](https://www.clearscope.io/), [YouTube](https://www.youtube.com/@clearscope) | YouTube transcripts collected 2026-07-05; YouTube video dates range 2024-09-17 to 2026-03-04 | GEO and AEO expert focused on generative engine optimization, AI brand citations, answer engine playbooks, and the future of SEO content strategy. |
 
 ## Gael Breton
 
@@ -174,7 +175,25 @@
 | 2026-07-03 | ZCode + GLM-5.2 Automates Coding | https://www.youtube.com/watch?v=E6n8UwM5Alo | Useful for AI-assisted coding automation using ZCode and GLM-5.2. |
 | 2026-07-03 | NEW NotebookLM Video AI Agent Update! | https://www.youtube.com/watch?v=w9PZRPQwz90 | Useful for understanding NotebookLM's video AI agent capabilities and updates. |
 
+## Bernard Huang
+
+**Research focus:** Generative engine optimization (GEO), answer engine optimization (AEO), AI brand citations, content optimization, and the future of SEO.
+
+**Why selected:** Bernard is the co-founder of Clearscope and a leading voice on how brands can optimize for AI search engines, get cited by LLMs, and adapt SEO strategy for the generative search era.
+
+**Collected materials:**
+
+- YouTube transcripts: `research/youtube-transcripts/bernard_huang/<video-id-title>/transcript.md`
+
+## Bernard Huang YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-03-04 | How to Get Your Brand Cited by AI with Bernard Huang | https://www.youtube.com/watch?v=mojvkc9CTWc | Useful for understanding strategies to earn AI citations and brand visibility across LLM platforms. |
+| 2026-01-12 | How GEO Actually Works w/ Bernard Huang | https://www.youtube.com/watch?v=4KyYqe1s_XY | Useful for deep understanding of generative engine optimization mechanics and practical implementation. |
+| 2025-12-11 | How Answer Engine Optimization (AEO) Works + AEO Playbook with Bernard Huang | https://www.youtube.com/watch?v=2Ldce9z_ZuM | Useful for AEO playbook frameworks and optimizing content for AI answer engines. |
+| 2024-09-17 | The Future of SEO w/ Clearscope's Bernard Huang | https://www.youtube.com/watch?v=fdwBhQ_QCk4 | Useful for long-term SEO strategy perspectives and how AI is reshaping content optimization. |
+
 ## Collection Notes
 
 - YouTube transcripts were collected with Supadata in native-caption mode and stored under expert folders in `research/youtube-transcripts/`.
-- LinkedIn posts are stored under author folders when available.
