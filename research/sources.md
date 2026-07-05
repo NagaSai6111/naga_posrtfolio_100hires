@@ -13,6 +13,7 @@
 | Koray Tuğberk GÜBÜR | SEO expert, Founder of Holistic SEO | [Website](https://www.holisticseo.digital), [YouTube](https://www.youtube.com/@KorayTugberkGUBUR) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2025-04-07 to 2025-04-10 | Semantic SEO and topical authority expert focused on e-commerce SEO case studies, topical maps, YMYL rankings, entity-based optimization, and Google algorithm analysis. |
 | Julian Goldie | AI & SEO content creator | [YouTube](https://www.youtube.com/@JulianGoldieSEO) | YouTube transcripts collected 2026-07-04; YouTube video dates range 2026-07-03 to 2026-07-04 | AI tools and automation-focused creator covering AI agents, coding automation, token optimization, and emerging AI platforms. |
 | Bernard Huang | Co-founder, Clearscope | [Website](https://www.clearscope.io/), [YouTube](https://www.youtube.com/@clearscope) | YouTube transcripts collected 2026-07-05; YouTube video dates range 2024-09-17 to 2026-03-04 | GEO and AEO expert focused on generative engine optimization, AI brand citations, answer engine playbooks, and the future of SEO content strategy. |
+| Aleyda Solis | International SEO consultant, Founder of Orainti | [Website](https://www.aleydasolis.com/), [YouTube](https://www.youtube.com/@AleydaSolis), [LinkedIn](https://www.linkedin.com/in/aleydasolis/) | LinkedIn notes collected 2026-07-05; YouTube transcripts collected 2026-07-05; YouTube video dates range 2025-08-05 to 2026-01-13 | International SEO expert focused on AI search crawlability, brand visibility, citation-worthiness, technical SEO foundations, and AI search optimization strategy. |
 
 ## Gael Breton
 
@@ -193,6 +194,25 @@
 | 2026-01-12 | How GEO Actually Works w/ Bernard Huang | https://www.youtube.com/watch?v=4KyYqe1s_XY | Useful for deep understanding of generative engine optimization mechanics and practical implementation. |
 | 2025-12-11 | How Answer Engine Optimization (AEO) Works + AEO Playbook with Bernard Huang | https://www.youtube.com/watch?v=2Ldce9z_ZuM | Useful for AEO playbook frameworks and optimizing content for AI answer engines. |
 | 2024-09-17 | The Future of SEO w/ Clearscope's Bernard Huang | https://www.youtube.com/watch?v=fdwBhQ_QCk4 | Useful for long-term SEO strategy perspectives and how AI is reshaping content optimization. |
+
+## Aleyda Solis
+
+**Research focus:** International SEO, AI search crawlability, brand visibility and recognition, citation-worthiness, technical SEO foundations, and AI search optimization.
+
+**Why selected:** Aleyda is a leading international SEO consultant who provides practical insights on how technical SEO foundations, brand authority, and content quality drive visibility in both traditional and AI-powered search.
+
+**Collected materials:**
+
+- LinkedIn research notes: `research/linkedin-posts/aleyda-solis.md`
+- YouTube transcripts: `research/youtube-transcripts/aleyda_solis/<video-id-title>/transcript.md`
+
+## Aleyda Solis YouTube Videos Collected
+
+| Date | Video | Link | Annotation |
+| --- | --- | --- | --- |
+| 2026-01-13 | AI search crawlability and why your site’s tech foundations decide visibility | https://www.youtube.com/watch?v=pqrwpXpMM6s | Useful for understanding how technical SEO foundations affect AI search crawlability and visibility. |
+| 2025-12-22 | Become worthy of citations – with Aleyda Solis | https://www.youtube.com/watch?v=B53DjAE8IK4 | Useful for strategies on earning AI citations through content quality and authority building. |
+| 2025-08-05 | SEO for Brand Recognition & Visibility | https://www.youtube.com/watch?v=e4nG7DbOoaM | Useful for understanding how SEO drives brand recognition and visibility across search surfaces. |
 
 ## Collection Notes
 
